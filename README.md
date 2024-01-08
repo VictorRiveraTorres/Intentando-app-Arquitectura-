@@ -5,3 +5,5 @@
 3. Iory EStefani Huarca Astete
 4. Mirella Solange Bendezu Guerra
 5. Romina Perez Amado
+## Tema
+ODS #13 accion por el clima
