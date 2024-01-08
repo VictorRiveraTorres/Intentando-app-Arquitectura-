@@ -1,5 +1,5 @@
 # Grupo 3 fundamentos de diseño
-## participantes:
+## Participantes:
 1. Jose Nilson Cueva Ramos
 2. Meyli Flores Huaman
 3. Iory EStefani Huarca Astete
