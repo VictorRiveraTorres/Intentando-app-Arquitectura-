@@ -1,3 +1,3 @@
 # Grupo 3 fundamentos de diseño
-##participantes:
+##participantes:-
 -Jose Nilson Cueva Ramos
