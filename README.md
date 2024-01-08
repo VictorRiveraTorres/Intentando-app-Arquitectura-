@@ -1,1 +1,1 @@
-# Grupo_3_fundamentos
+# Grupo 3 fundamentos de diseño
