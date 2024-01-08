@@ -1,9 +1,9 @@
-# Grupo 3 fundamentos de diseño
+# Grupo 3 Fundamentos de Diseño
 ## Participantes:
-1. Jose Nilson Cueva Ramos
-2. Meyli Flores Huaman
-3. Iory EStefani Huarca Astete
-4. Mirella Solange Bendezu Guerra
+1. Mirella Solange Bendezu Guerra
+2. Jose Nilson Cueva Ramos 
+3. Meyli Flores Huaman
+4. Iory EStefani Huarca Astete
 5. Romina Perez Amado
 ## Tema
-ODS #13 accion por el clima
+ODS N°13 "ACCIÓN POR EL CLIMA"
