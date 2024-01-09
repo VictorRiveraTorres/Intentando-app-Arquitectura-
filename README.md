@@ -12,13 +12,13 @@ Como objetivo se busca desarrollar un modelo de solución sostenible y eco amiga
 4. Iory Estefani Huarca Astete (iory.huarca@upch.pe)
 5. Romina Perez Amado (romina.perez@upch.pe)
 ## Roles:
-- Coordinador General, Pruebas y Calidad (Bendezu, Mirella) 
+- Coordinador General e Investigacion (Perez, Romina)  
 - Coordinador de Software y Manufactura (Cueva, Jose)
 - Coordinador de Diseño y Bocetos (Huarca, Iory)
-- Coordinador de Modelado 3D y Testing de Usabilidad (Flores, Meyli)
-- Coordinador de Comunicación visual e Interactividad (Perez, Romina)
+- Coordinador de Modelado 3D (Flores, Meyli)
+- Coordinador de Comunicación Visual e Interactividad (Bendezu, Mirella)
 <img src ="Informes/Imagenes/IMG_1.jpg" width=300px alt="ya_fue">
-<h2>Tabla de contenido</h2>
+<h1>Tabla de contenido</h1>
 <h2>Tema</h2>
 ODS N°13 "ACCIÓN POR EL CLIMA"
 <img src="https://ods.frlp.utn.edu.ar/images/ods/ods13.jpg" alt ="ODS_13">
