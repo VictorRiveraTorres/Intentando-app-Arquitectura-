@@ -28,7 +28,6 @@ ODS N°13 "ACCIÓN POR EL CLIMA"
 <li>Integrar medidas sobre el cambio climático en las decisiones políticas, estrategias y planes de desarrollo.</li>
 <li> Integrar medidas sobre el cambio climático en las decisiones políticas, estrategias y planes de desarrollo.</li>
 </ul>
-<br>
 <h3>¿De qué trata?</h3>
 <p>La ODS 13 “Acción por el clima” tiene como objetivo tomar medidas urgentes para combatir 
 el cambio climático y sus consecuencias. Puesto que, esta problemática tiene un impacto negativo en la economía de los países y en la vida de las personas (Garcia, 2018).
