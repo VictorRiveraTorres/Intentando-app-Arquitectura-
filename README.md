@@ -29,7 +29,7 @@ Objetivos específicos de la ODS Nº13
 <li> Integrar medidas sobre el cambio climático en las decisiones políticas, estrategias y planes de desarrollo.</li>
 </ul>
 <br>
-<h2>Referencias: <h2>
+<h2>Referencias:</h2>
 <ul>
 <li>Naciones Unidas. (2015). Transformar nuestro mundo: La Agenda 2030 para el Desarrollo Sostenible </li>
 <li>Valencia, M. F., Le Coq, J. F., Favareto, A., Samper, M., Saenz Segura, F., & Sabourin, E. (2019). Hacia una nueva generación de políticas públicas para el desarrollo territorial rural en América Latina</li>   
