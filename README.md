@@ -8,4 +8,4 @@
 <img src ="Informes/Imagenes/IMG_1.jpg" width=300px alt="ya fue">
 ## Tema
 ODS N°13 "ACCIÓN POR EL CLIMA"
-![Logo de Markdown](https://ods.frlp.utn.edu.ar/images/ods/ods13.jpg)
+<img src="https://ods.frlp.utn.edu.ar/images/ods/ods13.jpg" alt ="ODS_13">
