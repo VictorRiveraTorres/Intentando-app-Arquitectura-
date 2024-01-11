@@ -8,7 +8,7 @@ Como objetivo se busca desarrollar un modelo de solución sostenible y eco amiga
 ## Integrantes:
 1. Mirella Solange Bendezu Guerra (mirella.bendezu@upch.pe)
 2. Jose Nilson Cueva Ramos (jose.cueva@upch.pe)
-3. Meyli Flores Huaman(meyli.flores@uph.pe)
+3. Meyli Flores Huaman(meyli.flores@upch.pe)
 4. Iory Estefani Huarca Astete (iory.huarca@upch.pe)
 5. Romina Perez Amado (romina.perez@upch.pe)
 ## Roles:
@@ -17,7 +17,8 @@ Como objetivo se busca desarrollar un modelo de solución sostenible y eco amiga
 - Coordinador de Diseño y Bocetos (Huarca, Iory)
 - Coordinador de Modelado 3D (Flores, Meyli)
 - Coordinador de Comunicación Visual e Interactividad (Bendezu, Mirella)
-<img src ="Informes/Imagenes/IMG_1.jpg" width=300px alt="ya_fue">
+<p>Para mas informacion sobre los roles y participantes click<a href="FdD/Entregables/Sobre_nosotros.md">aqui</a></p>
+<img src ="Carpetas/Imagenes/IMG_1.jpg" width=300px alt="foto grupal">
 <h1>Tabla de contenido</h1>
 <h2>Tema</h2>
 ODS N°13 "ACCIÓN POR EL CLIMA"
@@ -26,7 +27,7 @@ ODS N°13 "ACCIÓN POR EL CLIMA"
 <h3>Objetivos específicos de la ODS Nº13</h3>
 <ul>
 <li>Integrar medidas sobre el cambio climático en las decisiones políticas, estrategias y planes de desarrollo.</li>
-<li> Integrar medidas sobre el cambio climático en las decisiones políticas, estrategias y planes de desarrollo.</li>
+<li>Promover mecanismos para la construcción de capacidad para enfrentar el cambio climático.</li>
 </ul>
 <h3>¿De qué trata?</h3>
 <p>La ODS 13 “Acción por el clima” tiene como objetivo tomar medidas urgentes para combatir 
