@@ -1,6 +1,6 @@
 <h1>Participantes del Proyecto y Roles</h1>
 <img scr="Imagenes/Solange.png" alt="Solange">
-<img src="Imagenes/Jose.png" alt="Jose">
+<img src="../../Imagenes/Jose.png" alt="Jose">
 <img scr="Imagenes/Meyli.png" alt="Meyli">
 <img scr="Imagenes/Iory.png" alt="Iory">
 <img scr="Imagenes/Romina.png" alt="Romina">
