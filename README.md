@@ -18,7 +18,7 @@ Como objetivo se busca desarrollar un modelo de solución sostenible y eco amiga
 - Coordinador de Modelado 3D (Flores, Meyli)
 - Coordinador de Comunicación Visual e Interactividad (Bendezu, Mirella)
 <p>Para mas informacion sobre los roles y participantes click<a href="FdD/Entregables/Sobre_nosotros.md">aqui</a></p>
-<img src ="Carpetas/Imagenes/IMG_1.jpg" width=300px alt="foto grupal">
+<img src ="Imagenes/IMG_1.jpg" width=300px alt="foto grupal">
 <h1>Tabla de contenido</h1>
 <h2>Tema</h2>
 ODS N°13 "ACCIÓN POR EL CLIMA"
