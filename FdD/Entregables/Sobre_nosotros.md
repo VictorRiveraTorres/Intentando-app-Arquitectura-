@@ -3,6 +3,6 @@
 <img src="../../Imagenes/Jose.png" alt="Jose">
 <img src="../../Imagenes/Meyli.png" alt="Meyli">
 <img src="../../Imagenes/Iory.png" alt="Iory">
-<img scr="Imagenes/Romina.png" alt="Romina">
+<img src="../../Imagenes/Romina.png" alt="Romina">
 <a href="../../README.md">Enlace al README de la pagina principal</a>
 
