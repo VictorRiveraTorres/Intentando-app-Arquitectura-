@@ -3,60 +3,52 @@
 
 <table border="1">
  <tr>
-<th>Equipo</th>
+<th>Modelo/th>
 <th>Materiales</th>
 <th>Cantidad</th>
-<th>Modelo</th>
-<th>Descripción</th>
+
+
 </tr>
 <tr>
 <td>HY3005BC</td>
 <td>Fuente de alimentación regulable</td>
 <td>1</td>
-<td></td>
- <td></td>
 </tr>
 <tr>
 <td>UT139C</td>
 <td>Multímetro Digital</td>
 <td>1</td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>AFG1022</td>
 <td>Generador de Señales</td>
 <td>1</td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>TBS 1000C Series</td>
 <td>Osciloscopio Digital</td>
 <td>1</td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td></td>
 <td>Cable BNC Male-Male</td>
 <td>1</td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td></td>
 <td>Punta de osciloscopio con conector BNC (Male)</td>
 <td>1</td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td></td>
 <td>Par de cables cocodrilos</td>
 <td>1</td>
-<td></td>
-<td></td>
+
 </tr>
 </table>
 
