@@ -1,6 +1,6 @@
 <h1> Resiliencia Climática </h1>
 <h2>“Hacia un Futuro Sostenible”</h2>
-<p>Bienvenidos al repositorio del grupo 3 del curso:<a herf="FdD/README.md">"Fundamentos de Diseño"</a>, nuestro equipo de trabajo presentará toda la documentación e información en este espacio cooperativo para así cumplir con el objetivo de nuestro proyecto.</p>
+<p>Bienvenidos al repositorio del grupo 3 del curso:<a href="FdD/README.md">"Fundamentos de Diseño"</a>, nuestro equipo de trabajo presentará toda la documentación e información en este espacio cooperativo para así cumplir con el objetivo de nuestro proyecto.</p>
 <img src="https://www.ana.gob.pe/sites/default/files/styles/nodo_desarrollado760/public/noticia/images/ANA%201_1.jpg?itok=zvLWOpOB"  alt=glaciar>
 Perú perdió el 51% de sus glaciares debido al cambio climático (Autoridad Nacional del Agua 2020)
 <br>
