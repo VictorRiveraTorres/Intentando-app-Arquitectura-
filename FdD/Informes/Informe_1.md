@@ -76,3 +76,17 @@
 </ul>
 <h4>Ejemplo de Prueba<h4>
 <img src="../../Imagenes/I_Informes/image_ma.png" width=500px alt="imagen">
+<h2>Entregables</h2>
+<h3>Promedio de errores absoluto y relativo.</h3>
+<ul>
+    <li>5.00 V - 5.001 = 0.001</li>
+    <li>6.00 V - 6.000 = 0</li>
+    <li>7.00 V - 7.00 = 0</li>
+    <li>8.00 V - 7.99 = 0.125</li>
+    <li>9.00 V - 9.00 = 0</li>
+    <li>10.00 V - 9.99 = 0.1</li>
+    <li>11.00 V - 11.00 = 0</li>
+    <li>12.00 V - 11.99 = 0.076</li>
+    <li>13.00 V - 13.00 = 0</li>
+    <li>14.00 V - 14.00 = 0</li>
+</ul>
