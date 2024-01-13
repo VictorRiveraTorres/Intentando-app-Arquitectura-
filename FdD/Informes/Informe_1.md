@@ -64,7 +64,93 @@
 </ul>
 
 <img src="../../Imagenes/I_Informes/image.png" width=600px alt="imagen">
-<img src="../../Imagenes/I_Informes/image_tabla.png" width=600px alt="imagen">
+<table border="1">
+<tr>
+<th>N°</th>
+<th>Valor Real</th>
+<th>Valor Medido</th>
+<th>Error Absoluto</th>
+<th>Error Relativo</th>
+</tr>
+<tr>
+<td>1</td>
+<td>5.00 V</td>
+<td>5.001</td>
+<td>0.001</td>
+<td>0.0002</td>
+</tr>
+<tr>
+<td>2</td>
+<td>6.00 V</td>
+<td>6.00</td>
+<td>0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>7.00 V</td>
+<td>7.00</td>
+<td>0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>8.00 V</td>
+<td>7.99</td>
+<td>0.01</td>
+<td>0.00125</td>
+</tr>
+<tr>
+<td>5</td>
+<td>9.00 V</td>
+<td>9.00</td>
+<td>0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>10.00 V</td>
+<td>9.99</td>
+<td>0.01</td>
+<td>0.001</td>
+</tr>
+<tr>
+<td>7</td>
+<td>11.00 V</td>
+<td>11.00</td>
+<td>0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>8</td>
+<td>12.00 V</td>
+<td>11.99</td>
+<td>0.01</td>
+<td>0.00083</td>
+</tr>
+<tr>
+<td>9</td>
+<td>13.00 V</td>
+<td>13.00</td>
+<td>0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>14.00 V</td>
+<td>14.00</td>
+<td>0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>Promedio</td>
+<td></td>
+<td></td>
+<td>0.0031</td>
+<td>0.0003283</td>
+</tr>
+</table>
+
 
 <h3>2.2 Uso del Generador de Señales y Osciloscopio</h3>
 <ul>
