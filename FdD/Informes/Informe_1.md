@@ -195,15 +195,19 @@
 <h3>Valores ajustados de la gráfica.</h3>
 <h3>Valores medidos de la señal de entrada en un periodo.</h3>
 <p>PERIODO:representa el tiempo que tarda una onda en completar un ciclo<p>
+<img src="../../Imagenes/I_Informes/photo 1.jpg" width=400px alt="imagen">
 <p>FRECUENCIA:  indica cuántas veces se repite un ciclo de la onda en un segundo.
 F=1/PERIODO= 1/1x10^-3= 1000 KHz</p>
+<img src="../../Imagenes/I_Informes/photo 2.jpg" width=300px alt="imagen">
 <p>AMPLITUD: representa la distancia máxima entre la posición de equilibrio de la onda y su punto más alto o más bajo</p>
 <p>OSCILOSCOPIO:
 10.00 V - (0 V) = 10.0 V
 </p>
+<img src="../../Imagenes/I_Informes/Photo 3.jpg" width=300px alt="imagen">
 <p>GENERADOR DE SEÑALES: 
 5 V
 </p>
+<img src="../../Imagenes/I_Informes/Photo 4.jpg" width=300px alt="imagen">
 <p>Nos debería haber salido valores iguales o aproximados, pero en el osciloscopio el valor de la amplitud, era el doble que el generador de señales, probablemente lo calibramos mal o no lo configuramos bien, ya que era nuestra primera vez manipulando estos instrumentos</p>
 
 <br>
