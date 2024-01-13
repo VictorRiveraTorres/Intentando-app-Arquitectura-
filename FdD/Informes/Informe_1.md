@@ -192,8 +192,18 @@
     <li>N°10 =(0.0)/14.00 x 100% = 0.0</li>
 </ul>
 <h4>PROMEDIO =0.0003283</h4>
+<img src="../../Imagenes/I_Informes/Phto 321.jpg" width=300px alt="imagen">
 <h3>Valores ajustados de la gráfica.</h3>
+<img src="../../Imagenes/I_Informes/Phto 2.jpg" width=300px alt="imagen">
+<img src="../../Imagenes/I_Informes/phto3.jpg" width=300px alt="imagen">
 <h3>Valores medidos de la señal de entrada en un periodo.</h3>
+<p>200 us -> 200 microsegundos en cada división horizontal en la pantalla</p>
+<p>625kS/s -> 625 000 muestras por segundo para reconstruir la forma de la onda</p>
+<p>249.600s -> la forma de la onda se está midiendo y mostrando durante un  
+intervalo de 249.6 microsegundos</p>
+<p>2000 points->2000 puntos para dibujar la forma de onda en la pantalla.</p>
+
+
 <p>PERIODO:representa el tiempo que tarda una onda en completar un ciclo<p>
 <img src="../../Imagenes/I_Informes/photo 1.jpg" width=300px alt="imagen">
 <p>FRECUENCIA:  indica cuántas veces se repite un ciclo de la onda en un segundo.
@@ -208,7 +218,9 @@ F=1/PERIODO= 1/1x10^-3= 1000 KHz</p>
 5 V
 </p>
 <img src="../../Imagenes/I_Informes/Photo 4.jpg" width=300px alt="imagen">
-<p>Nos debería haber salido valores iguales o aproximados, pero en el osciloscopio el valor de la amplitud, era el doble que el generador de señales, probablemente lo calibramos mal o no lo configuramos bien, ya que era nuestra primera vez manipulando estos instrumentos</p>
+<p>Nos debería haber salido valores iguales o aproximados, pero en el osciloscopio el valor de la amplitud, era el doble que el generador de señales, probablemente lo calibramos mal o no lo configuramos bien, ya que era nuestra primera vez manipulando estos instrumentos. Asimismo, los valores ajustados a la gráfica eran incorrectos y las cuadrillas no se podían configurar.</p>
+<h3>COMPLICACIÓN<h3>
+<p>En el presente laboratorio, al momento de seguir los pasos de la guía, nuestro equipo de trabajo presentó algunas complicaciones. Como por ejemplo, en el primer procedimiento, los primeros valores obtenidos fueron incorrectos por la mala configuración del multímetro (no estaba en DC - Corriente Continua), en el segundo procedimiento, hubo una  discrepancia al momento de analizar la amplitud con el generador de señales y el osciloscopio. puesto que en el osciloscopio el valor de la amplitud era el doble del valor que nos indicaba el generador de señales. A pesar de realizar múltiples verificaciones en las conexiones y configuraciones, nuestra discrepancia persistía.</p>
 
 <br>
 <br>
