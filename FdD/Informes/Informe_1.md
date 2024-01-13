@@ -193,3 +193,14 @@
 </ul>
 <h4>PROMEDIO =0.0003283</h4>
 <h3>Valores ajustados de la gráfica.</h3>
+<h3>Valores medidos de la señal de entrada en un periodo.</h3>
+<p>PERIODO:representa el tiempo que tarda una onda en completar un ciclo<p>
+<p>FRECUENCIA:  indica cuántas veces se repite un ciclo de la onda en un segundo.
+F=1/PERIODO= 1/1x10^-3= 1000 KHz</p>
+<p>AMPLITUD: representa la distancia máxima entre la posición de equilibrio de la onda y su punto más alto o más bajo</p>
+<p>OSCILOSCOPIO:
+10.00 V - (0 V) = 10.0 V
+</p>
+<p>GENERADOR DE SEÑALES: 
+5 V
+</p>
