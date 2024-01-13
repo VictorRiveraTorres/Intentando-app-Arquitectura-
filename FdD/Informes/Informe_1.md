@@ -1,5 +1,5 @@
 <h1>Informe 1</h1>
-<h2>MATERIALES Y EQUIPOS</h2>
+<h2>1. MATERIALES Y EQUIPOS</h2>
 
 <table border="1">
  <tr>
@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-<h2>PROCEDIMIENTOS</h2>
+<h2>2. PROCEDIMIENTOS</h2>
 <p>Identifique y organice su grupo de trabajo. Verifique el estado de los equipos de protección personal (EPP).</p>
 <h3>2.1 Uso del multímetro y Fuente de alimentación</h3>
 <ul>
@@ -76,7 +76,7 @@
 </ul>
 <h4>Ejemplo de Prueba<h4>
 <img src="../../Imagenes/I_Informes/image_ma.png" width=500px alt="imagen">
-<h2>Entregables</h2>
+<h2>3. Entregables</h2>
 <h3>Promedio de errores absoluto y relativo.</h3>
 <img src="../../Imagenes/I_Informes/fomula_1.png" width=200px alt="imagen">
 <ul>
@@ -92,4 +92,5 @@
     <li>14.00 V - 14.00 = 0</li>
 </ul>
 <h4>PROMEDIO = 0.031</h4>
+<img src="../../Imagenes/I_Informes/formula_2.png" width=200px alt="imagen">
 
