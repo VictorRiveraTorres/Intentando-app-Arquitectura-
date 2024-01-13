@@ -9,10 +9,8 @@ Perú perdió el 51% de sus glaciares debido al cambio climático (Autoridad Nac
 <ul>
 <li><a href="#Mision">Misión</a></li>
 <li><a href="#Vision">Visión</a></li>
-<li>¿Quiénes somos?</li>
 <li><a href="#nosostros">¿Quiénes somos?</a></li>
-<li>¿Qué es lo que nos impulsa?</li>
-<li><a href="#impulsa">¿Qué es lo que nos impulsa?/a></li>
+<li><a href="#impulsa">¿Qué es lo que nos impulsa?</a></li>
 <li><a href="#ODS">¿Cúal es nuestro ODS?</a></li>
 <li><a href="#haremos">¿Qué haremos?</a></li>
 <li><a href="#Referencias">Referencias bibliográficas</a></li>
