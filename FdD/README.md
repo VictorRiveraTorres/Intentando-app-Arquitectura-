@@ -1,5 +1,5 @@
 <h1>FdD</h1>
-<h2>Informe 1<h2>
+<h2>Informe 1</h2>
 
 
 
