@@ -51,20 +51,17 @@
 </tr>
 </table>
 
-<h1>PROCEDIMIENTOS</h1>
+<h2>PROCEDIMIENTOS</h2>
+<p>Identifique y organice su grupo de trabajo. Verifique el estado de los equipos de protección personal (EPP).</p>
+<h3>2.1 Uso del multímetro y Fuente de alimentación</h3>
+<ul>
+    <li>Encender la Fuente de alimentación y configurarla a 5V y 1A</li>
+    <li>Colocar los cables cocodrilos en las borneras + y -</li>
+    <li>Configurar el Multímetro en el parámetro de Voltaje</li>
+    <li>Presionando el botón Output habilitar la tensión de salida de la fuente</li>
+    <li>Usando las puntas de prueba del multímetro, realizar 10 mediciones y anotarlas.</li>
+    <li>Asumiendo que lo mostrado en el Display de la fuente de la alimentación es el Valor Real, calcular el error absoluto y error relativo del multímetro.</li>
+</ul>
 
-<ol>
-<li>Identifique y organice su grupo de trabajo. Verifique el estado de los equipos de protección personal (EPP).</li>
-<li>Uso del multímetro y Fuente de alimentación
-<ol type="a">
-<li>Encender la Fuente de alimentación y configurarla a 5V y 1A</li>
-<li>Colocar los cables cocodrilos en las borneras + y -</li>
-<li>Configurar el Multímetro en el parámetro de Voltaje</li>
-<li>Presionando el botón Output habilitar la tensión de salida de la fuente</li>
-<li>Usando las puntas de prueba del multímetro, realizar 10 mediciones y anotarlas.</li>
-<li>Asumiendo que lo mostrado en el Display de la fuente de la alimentación es el Valor Real, calcular el error absoluto y error relativo del multímetro.</li>
-</ol>
-</li>
-</ol>
 <img src="../../Imagenes/I_Informes/image.png" width=600px alt="imagen">
 <img src="../../Imagenes/I_Informes/image_tabla.png" width=600px alt="imagen">
