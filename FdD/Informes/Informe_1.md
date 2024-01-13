@@ -65,7 +65,7 @@
 
 <img src="../../Imagenes/I_Informes/image.png" width=600px alt="imagen">
 <img src="../../Imagenes/I_Informes/image_tabla.png" width=600px alt="imagen">
-<br>
+
 <h3>2.2 Uso del Generador de Señales y Osciloscopio</h3>
 <ul>
     <li>Encender el Generador de Señales y el Osciloscopio</li>
@@ -74,3 +74,4 @@
     <li>Mediante los controles de Posición Vertical, Horizontal y Disparo ajustar la visualización de la señal sinusoidal</li>
     <li>Haciendo uso de los cursores, calcular y mostrar en el osciloscopio las medidas de Amplitud y Periodo de la señal.</li>   
 </ul>
+<img src="../../Imagenes/I_Informes/image_m.png" width=500px alt="imagen">
