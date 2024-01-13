@@ -74,4 +74,5 @@
     <li>Mediante los controles de Posición Vertical, Horizontal y Disparo ajustar la visualización de la señal sinusoidal</li>
     <li>Haciendo uso de los cursores, calcular y mostrar en el osciloscopio las medidas de Amplitud y Periodo de la señal.</li>   
 </ul>
+<h4>Ejemplo de Prueba<h4>
 <img src="../../Imagenes/I_Informes/image_ma.png" width=500px alt="imagen">
