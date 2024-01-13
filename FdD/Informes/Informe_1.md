@@ -3,10 +3,9 @@
 
 <table border="1">
  <tr>
-<th>Modelo/th>
+<th>Modelo</th>
 <th>Materiales</th>
 <th>Cantidad</th>
-
 
 </tr>
 <tr>
@@ -67,3 +66,4 @@
 </ol>
 </li>
 </ol>
+<img scr="../../Imagenes/I_Informes/image.png" width=300px alt="imagen">
