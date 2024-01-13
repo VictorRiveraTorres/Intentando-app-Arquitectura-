@@ -219,7 +219,7 @@ F=1/PERIODO= 1/1x10^-3= 1000 KHz</p>
 </p>
 <img src="../../Imagenes/I_Informes/Photo 4.jpg" width=300px alt="imagen">
 <p>Nos debería haber salido valores iguales o aproximados, pero en el osciloscopio el valor de la amplitud, era el doble que el generador de señales, probablemente lo calibramos mal o no lo configuramos bien, ya que era nuestra primera vez manipulando estos instrumentos. Asimismo, los valores ajustados a la gráfica eran incorrectos y las cuadrillas no se podían configurar.</p>
-<h3>COMPLICACIÓN<h3>
+<h3>COMPLICACIÓN</h3>
 <p>En el presente laboratorio, al momento de seguir los pasos de la guía, nuestro equipo de trabajo presentó algunas complicaciones. Como por ejemplo, en el primer procedimiento, los primeros valores obtenidos fueron incorrectos por la mala configuración del multímetro (no estaba en DC - Corriente Continua), en el segundo procedimiento, hubo una  discrepancia al momento de analizar la amplitud con el generador de señales y el osciloscopio. puesto que en el osciloscopio el valor de la amplitud era el doble del valor que nos indicaba el generador de señales. A pesar de realizar múltiples verificaciones en las conexiones y configuraciones, nuestra discrepancia persistía.</p>
 
 <br>
