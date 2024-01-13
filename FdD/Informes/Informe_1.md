@@ -211,4 +211,6 @@ F=1/PERIODO= 1/1x10^-3= 1000 KHz</p>
 <br>
 <a href="../README.md">Enlace al README de Informes</a>
 <br>
+<a href="../README.md">Enlace al README de FdD</a>
+<br>
 <a href="../../README.md">Enlace al README de la pagina principal</a>
