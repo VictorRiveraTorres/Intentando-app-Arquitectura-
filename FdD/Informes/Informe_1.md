@@ -62,8 +62,8 @@
     <li>Usando las puntas de prueba del multímetro, realizar 10 mediciones y anotarlas.</li>
     <li>Asumiendo que lo mostrado en el Display de la fuente de la alimentación es el Valor Real, calcular el error absoluto y error relativo del multímetro.</li>
 </ul>
-
-<img src="../../Imagenes/I_Informes/image.png" width=600px alt="imagen">
+<h4>Ejemplo de Medicion</h4>
+<img src="../../Imagenes/I_Informes/image__4.png" width=600px alt="imagen">
 <table border="1">
 <tr>
 <th>N°</th>
