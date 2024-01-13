@@ -93,4 +93,17 @@
 </ul>
 <h4>PROMEDIO = 0.031</h4>
 <img src="../../Imagenes/I_Informes/formula_2.png" width=300px alt="imagen">
-
+<ul>
+    <li>N°1 = (0.001)/5.00 x 100% = 0.002</li>
+    <li>N°2 = (0.00)6.00 x 100% = 0.0</li>
+    <li>N°3 = (0.00)7.00 x 100% = 0.0</li>
+    <li>N°4 = (0.01)8.00 x 100% = 0.125</li>
+    <li>N°5 = (0.00)9.00 x 100% = 0.0</li>
+    <li>N°6 = (0.01)10.00 x 100% = 0.1</li>
+    <li>N°7 = (0.0)11.00 x 100% = 0.0</li>
+    <li>N°8 = (0.01)12.00 x 100% = 0.076</li>
+    <li>N°9 = (0.0)13.00 x 100% = 0.0</li>
+    <li>N°10 =(0.0)14.00 x 100% = 0.0</li>
+</ul>
+<h4>PROMEDIO =0.0321</h4>
+<h3>Valores ajustados de la gráfica.</h3>
