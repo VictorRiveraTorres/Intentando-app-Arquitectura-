@@ -204,3 +204,4 @@ F=1/PERIODO= 1/1x10^-3= 1000 KHz</p>
 <p>GENERADOR DE SEÑALES: 
 5 V
 </p>
+<p>Nos debería haber salido valores iguales o aproximados, pero en el osciloscopio el valor de la amplitud, era el doble que el generador de señales, probablemente lo calibramos mal o no lo configuramos bien, ya que era nuestra primera vez manipulando estos instrumentos</p>
