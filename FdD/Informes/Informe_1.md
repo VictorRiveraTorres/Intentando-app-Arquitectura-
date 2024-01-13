@@ -195,7 +195,7 @@
 <h3>Valores ajustados de la gráfica.</h3>
 <h3>Valores medidos de la señal de entrada en un periodo.</h3>
 <p>PERIODO:representa el tiempo que tarda una onda en completar un ciclo<p>
-<img src="../../Imagenes/I_Informes/photo 1.jpg" width=400px alt="imagen">
+<img src="../../Imagenes/I_Informes/photo 1.jpg" width=300px alt="imagen">
 <p>FRECUENCIA:  indica cuántas veces se repite un ciclo de la onda en un segundo.
 F=1/PERIODO= 1/1x10^-3= 1000 KHz</p>
 <img src="../../Imagenes/I_Informes/photo 2.jpg" width=300px alt="imagen">
