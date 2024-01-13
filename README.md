@@ -7,21 +7,24 @@ Perú perdió el 51% de sus glaciares debido al cambio climático (Autoridad Nac
 
 <h2>Tabla de contenidos:</h2>
 <ul>
-<li>Misión</li>
-<li>Visión</li>
+<li><a href="#Mision">Misión</a></li>
+<li><a href="#Vision">Visión</a></li>
 <li>¿Quiénes somos?</li>
+<li><a href="#Nosostros">¿Quiénes somos?</a></li>
 <li>¿Qué es lo que nos impulsa?</li>
-<li>¿Cúal es nuestro ODS?</li>
-<li>¿Qué haremos?</li>
-<li><a href="#Referencias">>Referencias bibliográficas</a></li>
+<li><a href="#Nosostros">¿Quiénes somos?</a></li>
+<li><a href="#ODS">¿Cúal es nuestro ODS?</a></li>
+<li><a href="#haremos">¿Qué haremos?</a></li>
+<li><a href="#Referencias">Referencias bibliográficas</a></li>
 </ul>
+<h2 id="Mision">Misión:</h2>
 
-## Misión:
 Nuestra misión es implementar prácticas sostenibles y promover la conciencia sobre el cambio climático a nivel local. Nos comprometemos a trabajar con nuestro público objetivo, proporcionar capacitación en resiliencia climática y desarrollar soluciones innovadoras para abordar desafíos ambientales inmediatos. A través de la colaboración con diferentes disciplinas, buscamos construir un presente donde la adaptación y la mitigación climática sean elementos clave para un entorno más justo y sostenible.
-## Visión
+<h2 id="vision">Visión</h2>
 "Exploramos un horizonte donde la resiliencia climática se fusiona con la creatividad humana y la innovación sin límites. Imaginamos un mundo donde cada desafío climático se transforma en una oportunidad para la coexistencia armoniosa entre la naturaleza y la humanidad, impulsando una revolución global hacia la sostenibilidad."
 
-## ¿Quiénes somos?
+<h2 id="nosotros">¿Quiénes somos?</h2>
+
 ### Integrantes:
 1. Mirella Solange Bendezu Guerra (mirella.bendezu@upch.pe)
 2. Jose Nilson Cueva Ramos (jose.cueva@upch.pe)
@@ -39,11 +42,11 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 <p>Para mas informacion sobre los roles y participantes click <a href="FdD/Entregables/Sobre_nosotros.md">aqui</a></p>
 <br>
 
-<h2>¿Qué es lo que nos impulsa?</h2>
+<h2 id="impulsa">¿Qué es lo que nos impulsa?</h2>
 <p>Según el Tyndall Centre for Climate Change Research, el Perú se encuentra entre los países más vulnerables ante eventos climáticos (Barco, Daniel & Vargas, 2010). Por ende, la falta de acciones para mitigar los efectos del cambio climático ocasionará pérdidas en la economía peruana.</p>
 <p>Si desea conocer más información de la problemática que vamos a abordar haga click <a href="Definicion_del_Problema/README.md">aqui</p>
 
-<h2>¿Cúal es nuestro ODS?</h2>
+<h2 id="ODS">¿Cúal es nuestro ODS?</h2>
 <img src="https://pactoglobal-ecuador.org/wp-content/uploads/2020/09/banner-ods13.jpg" alt ="ODS_13">
 <p>Una plataforma para combatir al cambio climático – Cierre de mesa del ODS 13 (Pacto Global 2020)</p>
 <br>
@@ -60,7 +63,7 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 <li>Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto de la mitigación del cambio climático, la adaptación a él, la reducción de sus efectos y la alerta temprana</li>
 </ul>
 
-<h2>¿Qué haremos?</h2>
+<h2 id="haremos">¿Qué haremos?</h2>
 <h3>Objetivo general:</h3>
 <p>Se busca desarrollar un modelo de solución sostenible y eco amigable con el medio ambiente, donde se haga uso de inteligencias múltiples que faciliten el desarrollo del proyecto teniendo presente el ODS 13 “Acción por el clima”.</p>
 <h3>Objetivos específicos de la ODS Nº13</h3>
