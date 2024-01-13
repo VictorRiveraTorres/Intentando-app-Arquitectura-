@@ -33,7 +33,7 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 - Coordinador de Modelado 3D (Flores, Meyli)
 - Coordinador de Comunicación Visual e Interactividad (Bendezu, Mirella)
 
-<img src ="Imagenes/IMG_1.jpg" width=300px alt="foto grupal">
+<img src ="Imagenes/I_Readme_Original/IMG_1.jpg" width=300px alt="foto grupal">
 <p>Para mas informacion sobre los roles y participantes click <a href="FdD/Entregables/Sobre_nosotros.md">aqui</a></p>
 <br>
 
