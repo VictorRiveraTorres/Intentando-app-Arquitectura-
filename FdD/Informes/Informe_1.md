@@ -65,3 +65,12 @@
 
 <img src="../../Imagenes/I_Informes/image.png" width=600px alt="imagen">
 <img src="../../Imagenes/I_Informes/image_tabla.png" width=600px alt="imagen">
+<br>
+<h3>2.2 Uso del Generador de Señales y Osciloscopio</h3>
+<ul>
+    <li>Encender el Generador de Señales y el Osciloscopio</li>
+    <li>Configurar el Generador de Señales para proporcionar una señal sinusoidal de 1 KHz de frecuencia, 5V de Amplitud y 0V de offset, por el canal 1.</li>
+    <li>Conectar un extremo del cable BNC en el canal 1 del generador de señales y el otro extremo en el canal 1 del osciloscopio.</li>
+    <li>Mediante los controles de Posición Vertical, Horizontal y Disparo ajustar la visualización de la señal sinusoidal</li>
+    <li>Haciendo uso de los cursores, calcular y mostrar en el osciloscopio las medidas de Amplitud y Periodo de la señal.</li>   
+</ul>
