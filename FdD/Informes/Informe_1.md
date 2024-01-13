@@ -78,6 +78,7 @@
 <img src="../../Imagenes/I_Informes/image_ma.png" width=500px alt="imagen">
 <h2>Entregables</h2>
 <h3>Promedio de errores absoluto y relativo.</h3>
+<img src="../../Imagenes/I_Informes/fomula_1.png" width=200px alt="imagen">
 <ul>
     <li>5.00 V - 5.001 = 0.001</li>
     <li>6.00 V - 6.000 = 0</li>
@@ -90,3 +91,5 @@
     <li>13.00 V - 13.00 = 0</li>
     <li>14.00 V - 14.00 = 0</li>
 </ul>
+<h4>PROMEDIO = 0.031</h4>
+
