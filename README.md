@@ -9,7 +9,7 @@ Perú perdió el 51% de sus glaciares debido al cambio climático (Autoridad Nac
 <ul>
 <li><a href="#Mision">Misión</a></li>
 <li><a href="#Vision">Visión</a></li>
-<li><a href="#nosostros">¿Quiénes somos?</a></li>
+<li><a href="#somos">¿Quiénes somos?</a></li>
 <li><a href="#impulsa">¿Qué es lo que nos impulsa?</a></li>
 <li><a href="#ODS">¿Cúal es nuestro ODS?</a></li>
 <li><a href="#haremos">¿Qué haremos?</a></li>
@@ -21,7 +21,7 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 <h2 id="vision">Visión</h2>
 "Exploramos un horizonte donde la resiliencia climática se fusiona con la creatividad humana y la innovación sin límites. Imaginamos un mundo donde cada desafío climático se transforma en una oportunidad para la coexistencia armoniosa entre la naturaleza y la humanidad, impulsando una revolución global hacia la sostenibilidad."
 
-<h2 id="nosotros">¿Quiénes somos?</h2>
+<h2 id="somos">¿Quiénes somos?</h2>
 
 ### Integrantes:
 1. Mirella Solange Bendezu Guerra (mirella.bendezu@upch.pe)
