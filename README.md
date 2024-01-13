@@ -5,14 +5,16 @@
 Perú perdió el 51% de sus glaciares debido al cambio climático (Autoridad Nacional del Agua 2020)
 <br>
 
-## Tabla de contenidos:
-- Misión
-- Visión
-- ¿Quiénes somos?
-- ¿Qué es lo que nos impulsa?
-- ¿Cúal es nuestro ODS?
-- ¿Qué haremos?
-- Referencias bibliográficas
+<h2>Tabla de contenidos:</h2>
+<ul>
+<li>Misión</li>
+<li>Visión</li>
+<li>¿Quiénes somos?</li>
+<li>¿Qué es lo que nos impulsa?</li>
+<li>¿Cúal es nuestro ODS?</li>
+<li>¿Qué haremos?</li>
+<li><a href="#Referencias">>Referencias bibliográficas</a></li>
+</ul>
 
 ## Misión:
 Nuestra misión es implementar prácticas sostenibles y promover la conciencia sobre el cambio climático a nivel local. Nos comprometemos a trabajar con nuestro público objetivo, proporcionar capacitación en resiliencia climática y desarrollar soluciones innovadoras para abordar desafíos ambientales inmediatos. A través de la colaboración con diferentes disciplinas, buscamos construir un presente donde la adaptación y la mitigación climática sean elementos clave para un entorno más justo y sostenible.
@@ -67,7 +69,7 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 <li>Promover mecanismos para la construcción de capacidad para enfrentar el cambio climático.</li>
 </ul>
 
-<h2>Referencias:</h2>
+<h2 id="Referencias">Referencias:</h2>
 <ul>
 <li>Barco, Daniel & Vargas, Paola, 2010. " El cambio climático y sus efectos en el Perú ", Revista Moneda , Banco Central de Reserva del Perú, número 143, páginas 25-29.</li> 
 <li>García, MB y Morán, M. (2018, 6 de agosto). Cambio climático. Desarrollo Sostenible.</li>
