@@ -161,10 +161,10 @@
     <li>Haciendo uso de los cursores, calcular y mostrar en el osciloscopio las medidas de Amplitud y Periodo de la señal.</li>   
 </ul>
 <h4>Ejemplo de Prueba<h4>
-<img src="../../Imagenes/I_Informes/formulate.jpg" width=500px alt="imagen">
+<img src="../../Imagenes/I_Informes/image_ma.png" width=500px alt="imagen">
 <h2>3. Entregables</h2>
 <h3>Promedio de errores absoluto y relativo.</h3>
-<img src="../../Imagenes/I_Informes/furmula_2.jpg" width=200px alt="imagen">
+<img src="../../Imagenes/I_Informes/formulate.jpg" width=200px alt="imagen">
 <ul>
     <li>5.00 V - 5.001 = 0.001</li>
     <li>6.00 V - 6.000 = 0</li>
@@ -178,7 +178,7 @@
     <li>14.00 V - 14.00 = 0</li>
 </ul>
 <h4>PROMEDIO = 0.031</h4>
-<img src="../../Imagenes/I_Informes/formula_2.png" width=300px alt="imagen">
+<img src="../../Imagenes/I_Informes/furmula_2.jpg" width=300px alt="imagen">
 <ul>
     <li>N°1 = (0.001)/5.00 x 100% = 0.0002</li>
     <li>N°2 = (0.00)6.00 x 100% = 0.0</li>
