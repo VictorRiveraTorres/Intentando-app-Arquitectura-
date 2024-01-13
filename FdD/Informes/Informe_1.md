@@ -67,3 +67,4 @@
 </li>
 </ol>
 <img src="../../Imagenes/I_Informes/image.png" width=600px alt="imagen">
+<img src="../../Imagenes/I_Informes/image_tabla.png" width=600px alt="imagen">
