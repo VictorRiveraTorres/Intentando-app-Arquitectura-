@@ -7,16 +7,15 @@
 <p>Comunidad de la Av. Abancay.</p>
 
 <img src="../../Imagenes/I_E_2/jjj.jpeg" width=600px>
-<h2>Herramientas usadas para identificar el problema</h2>
+<h1>Herramientas usadas para identificar el problema</h1>
 
-<h3>Mapa de Empatia</h3>
+<h2>Mapa de Empatia</h2>
 
 <img src="../../Imagenes/I_E_2/empatia.png">
 
-<h3>Mapa de Viaje del cliente</h3>
+<h2>Mapa de Viaje del cliente</h2>
 
 <img src="../../Imagenes/I_E_2/journey.png">
-<span style="background-color: black; color: white; padding: 10px; display: inline-block; margin: 0 auto;">**Diagrama Causa - Efecto**</span>
-
+<h2>Diagrama Causa - Efecto </h2>
 
 <img src="../../Imagenes/I_E_2/Espina.png">
