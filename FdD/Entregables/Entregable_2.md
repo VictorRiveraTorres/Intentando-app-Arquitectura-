@@ -8,9 +8,14 @@
 
 <img src="../../Imagenes/I_E_2/jjj.jpeg" width=600px>
 <h2>Herramientas usadas para identificar el problema</h2>
+
 <h3>Mapa de Empatia</h3>
+
 <img src="../../Imagenes/I_E_2/empatia.png">
+
 <h3>Mapa de Viaje del cliente</h3>
+
 <img src="../../Imagenes/I_E_2/journey.png">
-<h3>Diagrama Causa - Efecto </h3>
+<h3 style="background-color: black; color: white; display: inline-block; padding: 10px;">Diagrama Causa - Efecto </h3>
+
 <img src="../../Imagenes/I_E_2/Espina.png">
