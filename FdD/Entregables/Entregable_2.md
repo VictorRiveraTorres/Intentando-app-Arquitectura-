@@ -1,14 +1,15 @@
 <h1>Entregable 2</h1>
 <h2>Problematica</h2>
 <p>La Av. Abancay es uno de los lugares mas transitados de Lima Perú puesto que existen áreas comerciales. Asimismo, es visitada por una gran cantidad de personas a diario, esto da origen a la contaminación en dicha zona y se da en evidencia el aumento de temperatura en la Av. Abancay es por ello que nuestro equipo de trabajo busca soluciones innovadoras y sostenibles para poder contribuir en la reducción del “Incremento de temperatura en la Av. Abancay”.</p>
-<img src="../../Imagenes/I_E_2/lima-27.webp">
+<img src="../../Imagenes/I_E_2/AV_ABANCAY_PROBLEMATICA.png">
+<p>Perú, R. (2016, 29 abril). Avenida Abancay: Esta es la congestión vehicular que se vive a diario [Fotos]. Peru21.</p>
 <h2>Usuario</h2>
 
 <p>Comunidad de la Av. Abancay.</p>
 
-<img src="../../Imagenes/I_E_2/jjj.jpeg" width=600px>
+<img src="../../Imagenes/I_E_2/personas.png" width=600px>
 <h1>Herramientas usadas para identificar el problema</h1>
-
+<p>Diariocorreo. (2011, 15 diciembre). Medidas de Villarán confunden al tránsito: Avenida Abancay es un caos. Correo.</p>
 <h2>Mapa de Empatia</h2>
 
 <img src="../../Imagenes/I_E_2/empatia.png">
