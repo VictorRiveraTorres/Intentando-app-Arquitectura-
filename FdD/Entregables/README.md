@@ -8,3 +8,7 @@
 <h2>Entregable 3</h2>
 <a href="Entregable_3.md">Link a entregable 2</a>
 <br>
+<br>
+<hr>
+<a href="../README.md">Link al README del FdD</a>
+<a href="../../README.md">Link al README de la pagina principal</a>
