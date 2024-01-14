@@ -16,6 +16,7 @@
 <h3>Mapa de Viaje del cliente</h3>
 
 <img src="../../Imagenes/I_E_2/journey.png">
-<h3 style="background-color: black; color: white; display: inline-block; padding: 10px;">Diagrama Causa - Efecto </h3>
+<span style="background-color: black; color: white; padding: 10px; display: inline-block; margin: 0 auto;">**Diagrama Causa - Efecto**</span>
+
 
 <img src="../../Imagenes/I_E_2/Espina.png">
