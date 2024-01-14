@@ -8,8 +8,9 @@
 <p>Comunidad de la Av. Abancay.</p>
 
 <img src="../../Imagenes/I_E_2/personas.png" width=600px>
-<h1>Herramientas usadas para identificar el problema</h1>
 <p>Diariocorreo. (2011, 15 diciembre). Medidas de Villarán confunden al tránsito: Avenida Abancay es un caos. Correo.</p>
+<h1>Herramientas usadas para identificar el problema</h1>
+
 <h2>Mapa de Empatia</h2>
 
 <img src="../../Imagenes/I_E_2/empatia.png">
