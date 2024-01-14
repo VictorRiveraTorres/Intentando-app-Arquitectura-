@@ -2,7 +2,7 @@
 
 
 
-<a href="Entregables/README.md1">Enlace al README  de Entregables</a>
+<a href="Entregables/README.md">Enlace al README  de Entregables</a>
 <br>
 <a href="Informes/README.md">Enlace al README  de Informes</a>
 <br>
