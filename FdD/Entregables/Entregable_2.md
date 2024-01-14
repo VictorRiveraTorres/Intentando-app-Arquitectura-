@@ -19,3 +19,6 @@
 <h2>Diagrama Causa - Efecto </h2>
 
 <img src="../../Imagenes/I_E_2/Espina.png">
+<br>
+<br>
+<a href="README.md">Enlace al README de Entregables</a>
