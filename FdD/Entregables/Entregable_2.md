@@ -6,7 +6,7 @@
 
 <p>Comunidad de la Av. Abancay.</p>
 
-<img src="../../Imagenes/I_E_2/jjj.jpeg">
+<img src="../../Imagenes/I_E_2/jjj.jpeg" width=500px>
 <h2>Herramientas usadas para identificar el problema</h2>
 <h3>Mapa de Empatia</h3>
 <img src="../../Imagenes/I_E_2/empatia.png">
