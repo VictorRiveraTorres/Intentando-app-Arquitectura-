@@ -15,7 +15,7 @@
 <h3>A Nivel Regional</h3>
 <p>En la segunda mitad de diciembre de 2013, se experimentó un lapso caracterizado por temperaturas elevadas en la región centro-norte de Argentina. El Servicio Meteorológico Nacional (SMN) identificó esta condición como un episodio de ola de calor (Informe Servicio Meteorológico Nacional, 2014). </p>
 <h4>Argentina</h4>
-<img src="../../Imagenes/I_E_3/image_e.png" width=700px alt="tabla">
+<img src="../../Imagenes/I_E_3/image_e.png" width="700px" alt="tabla">
 <p>FUENTE: ELABORACION PROPIA</p>
 <br>
 <h4>Uruguay</h4>
