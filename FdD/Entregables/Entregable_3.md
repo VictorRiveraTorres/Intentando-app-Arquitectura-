@@ -8,7 +8,7 @@
 
 
 <img src="../../Imagenes/I_E_3/image_a.png" alt="tabla">
-<br>
+
 <p>Y la temperatura sigue aumentando. En cuanto a las proyecciones futuras de cambio climático, el IPCC estima para finales del siglo XXI un incremento de la temperatura superficial media de 1 a 3,7°C, dependiendo de los distintos escenarios de emisión.</p>
 
 
@@ -17,7 +17,7 @@
 <h4>Argentina</h4>
 <img src="../../Imagenes/I_E_3/image_e.png" width="700px" alt="tabla">
 <p>FUENTE: ELABORACION PROPIA</p>
-<br>
+
 <h4>Uruguay</h4>
 <p>Este fenómeno térmico extremo también impactó a Uruguay, generando un notable aumento en el consumo de electricidad. Se estableció un nuevo récord de consumo de energía en verano, alcanzando los 1837 MW, según el reporte de la Administración del Mercado Eléctrico de dicho país. Además, propició la ocurrencia de un incendio forestal en el departamento de Rocha, afectando alrededor de 50 hectáreas de bosque, según el informe del Sistema Nacional de Emergencias (Diario La República, 29 de diciembre de 2013). Estos eventos resaltan el impacto excepcional que la ola de calor tuvo en la población de la región afectada.
 Este impacto no solo se atribuye a las elevadas temperaturas, sino también a su persistencia, indicando que la escala intraestacional desempeñó un papel crucial. Esta observación coincide con las conclusiones de Cerne y Vera (2011) sobre la dinámica asociada con las olas de calor estivales en la región central de Argentina. Según estas autoras, la variabilidad intraestacional ejerce una influencia significativa en la ocurrencia de olas de calor estivales prolongadas, y esta influencia está mayormente relacionada con la actividad de la Zona de Convergencia del Atlántico Sur (SACZ).</p>
@@ -44,7 +44,7 @@ Una de las regiones más afectada por este fenómeno, es Piura, que registra dí
 <p>Según la NASA, la temperatura promedio global superficie-océano aumentó en promedio 0,01°C al año en el período 1900- 2007. Asimismo, en el 2007 la temperatura global promedio habría aumentado en 0.66°C respecto al año 1900 (Vargas, 2009).</p>
 <p>Según la NASA, la temperatura promedio global superficie-océano aumentó en promedio 0,01°C al año en el período 1900- 2007. Asimismo, en el 2007 la temperatura global promedio habría aumentado en 0.66°C respecto al año 1900 (Vargas, 2009).</p>
 <img src="../../Imagenes/I_E_3/image_g.png" alt="histograma">
-<br>
+
 <p>Estos estudios exponen que el impacto del cambio climático sobre el PBI global es relevante y no lineal, puesto que está en función al incremento de la temperatura. Los aumentos moderados de la temperatura (2° C) generarían una gran reducción del PBI mundial del orden de 1% al año 2100. Por otro lado, los incrementos por encima de 5° C significarían una disminución de hasta el 9% a dicha fecha (Vargas, 2009).</p>
 <p>Asimismo, la Comunidad Andina de Naciones, sostiene que al respecto a los efectos del cambio climático en países de la subregión, «al año 2025, el daño económico en los países de la Comunidad Andina significaría una pérdida aproximada de 30.000 millones de dólares anuales equivalentes al 4,5% del PBI, pudiendo comprometer el potencial de desarrollo de todos los países de la región» (2008, p. 22). Dichas cifras son alarmantes y a partir de este momento merecen una gran importancia.
 </p>
@@ -52,7 +52,7 @@ Una de las regiones más afectada por este fenómeno, es Piura, que registra dí
 </p>
 <img src="../../Imagenes/I_E_3/image_f.png" alt="histograma">
 
-<br>
+
 
 <h3>A Nivel Regional</h3>
 <p>Entre las regiones más afectadas por el cambio climático y el aumento de temperatura son África, el Sur y Sur-Este de Asia y América Latina. Por otro lado, países como China y USA manifiestan menores impactos por el cambio climático y tienen la mayor contribución en la acumulación de GEI (Vargas, 2009).</p>
