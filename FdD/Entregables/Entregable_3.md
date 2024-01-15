@@ -70,6 +70,13 @@ Una de las regiones más afectada por este fenómeno, es Piura, que registra dí
 <br>
 <h2>REFERENCIAS BIBLIOGRÁFICAS</h2>
 <ul>
+<li>Vargas, P. (2009). El cambio climático y sus efectos en el Perú. Lima: Banco Central de Reserva del Perú.</li>
+<li>Rodríguez Becerra, M y Mance, H. (2009). Cambio climático: lo que está en juego. Universidad de los Andes.</li>
+<li>DNP-BID-CEPAL. 2014. Estudio de Impactos Económicos del Cambio Climático en Colombia.</li>
+<li>Tyndall Center de Inglaterra, for Climate Change Research (2003)</li>
+<li>Dell Melissal, F. Jones y A. Olken. Climate Change and Economic Growth: Evidence from the last half century. Working Paper 14132. National Bureau of Economic Research, Junio, 2008.</li>
+<li>Comunidad Andina de Naciones (2008). El cambio climático no tiene fronteras: impacto del cambio climático en la Comunidad Andina. Lima: Secretaría General de la Comunidad Andina</li>
+<li>CONAM 2001. Primera Comunicación del CONAM 2001</li>
 <li>Aldaz, J. y Díaz, J. (2017): “Situación del Convenio Marco de Naciones Unidas sobre el Cambio Climático. Resumen de las Cumbres del Clima de París, COP21 y de Marrakech, COP 22”, Revista de Salud Ambiental, 17 (1), pp. 34-39</li>
 <li>Díaz, J.; Linares, C. y García, R. (2005): “Impacto de las temperaturas extremas en la salud pública: futuras actuaciones”, Revista Española de Salud Pública, 79, pp. 145-157</li>
 <li>Kahn, B. (2017): “This Is How Climate Change Will Shift the World’s Cities”, disponible en: http://www.112 climatecentral.org/news/globalcities-climate-change-21584</li>
