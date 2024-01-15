@@ -26,8 +26,8 @@ Este impacto no solo se atribuye a las elevadas temperaturas, sino también a su
 <h3>A Nivel Nacional</h3>
 <p>El Perú exhibe una marcada susceptibilidad frente a cambios climáticos significativos, como se evidencia en las pérdidas económicas asociadas a fenómenos como El Niño. Bajo un escenario pasivo, los impactos del cambio climático podrían intensificarse, ya que se verían potenciados por la interacción con otros mecanismos adversos que afectan negativamente el desarrollo. Estos incluyen la disminución de la disponibilidad de recursos hídricos (tanto para consumo humano como para generación energética) debido al retroceso glaciar, la reducción de la productividad en sectores agrícolas y pesqueros derivada del aumento de la temperatura del mar, la merma en la biodiversidad, y repercusiones en la salud humana (Atwoli,2021).</p>
 
-<img src="../../Imagenes/I_E_3/image_c.png" width=500px alt="mapa">
-<img src="../../Imagenes/I_E_3/IMAGEN_d.jpg" width=500px alt="mapa_2">
+<img src="../../Imagenes/I_E_3/image_c.png" width="500px" alt="mapa">
+<img src="../../Imagenes/I_E_3/IMAGEN_d.jpg" width="500px" alt="mapa_2">
 
 <p>Vista sinóptica de la anomalía máxima de la temperatura del aire durante las OC. Unidad en grados Celsius. (Extraído de repositorio SENHAMI) </p>
 <br>
