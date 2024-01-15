@@ -14,11 +14,11 @@
 
 <h3>A Nivel Regional</h3>
 <p>En la segunda mitad de diciembre de 2013, se experimentó un lapso caracterizado por temperaturas elevadas en la región centro-norte de Argentina. El Servicio Meteorológico Nacional (SMN) identificó esta condición como un episodio de ola de calor (Informe Servicio Meteorológico Nacional, 2014). </p>
-<h4>Argentina</h4>
+<h3>Argentina</h3>
 <img src="../../Imagenes/I_E_3/image_e.png" width="700px" alt="tabla">
 <p>FUENTE: ELABORACION PROPIA</p>
 
-<h4>Uruguay</h4>
+<h3>Uruguay</h3>
 <p>Este fenómeno térmico extremo también impactó a Uruguay, generando un notable aumento en el consumo de electricidad. Se estableció un nuevo récord de consumo de energía en verano, alcanzando los 1837 MW, según el reporte de la Administración del Mercado Eléctrico de dicho país. Además, propició la ocurrencia de un incendio forestal en el departamento de Rocha, afectando alrededor de 50 hectáreas de bosque, según el informe del Sistema Nacional de Emergencias (Diario La República, 29 de diciembre de 2013). Estos eventos resaltan el impacto excepcional que la ola de calor tuvo en la población de la región afectada.
 Este impacto no solo se atribuye a las elevadas temperaturas, sino también a su persistencia, indicando que la escala intraestacional desempeñó un papel crucial. Esta observación coincide con las conclusiones de Cerne y Vera (2011) sobre la dinámica asociada con las olas de calor estivales en la región central de Argentina. Según estas autoras, la variabilidad intraestacional ejerce una influencia significativa en la ocurrencia de olas de calor estivales prolongadas, y esta influencia está mayormente relacionada con la actividad de la Zona de Convergencia del Atlántico Sur (SACZ).</p>
 
@@ -59,7 +59,8 @@ Una de las regiones más afectada por este fenómeno, es Piura, que registra dí
 <p>Un claro ejemplo del efecto económico que causa el cambio climático y el aumento de temperatura es Colombia. Según, el Estudio de impactos Económicos del Cambio Climático en Colombia menciona que, de no adaptarse al cambio climático, sus efectos sobre la economía de la nación serán altamente significativos (DNP-BID, 2014). Los sectores de (agricultura, ganadería, pesca, forestal y transporte) y otros tienen un aporte a la economía del país. Es por ello, que necesitan proveer de servicios ecosistémicos, recurso hídrico y especies nativas que representan 4,3% del PIB actual. Asimismo, entre el 2010-2100 se pueden generar pérdidas económicas equivalentes a 3,7 veces del PIB actual (DNP-BID, 2014). 
 </p>
 <p>Estas pérdidas son equivalentes a como si el país sufriera cada 4 años perdidas económicas como las que ocurrieron durante La Niña en 2010-2011. Este fenómeno podría presentarse durante el tiempo, todos estos resultados son ocasionados dado que los sectores no tomas medidas y acciones necesarias para mitigar su vulnerabilidad, en otras palabras, no se están adaptando al cambio climático (Rodríguez y Mance, 2009).  </p>
-<br>
+
+
 <h3>A Nivel Nacional</h3>
 <p>El Tyndall Center de Inglaterra, for Climate Change Research menciona que, el Perú se encuentra entre los 10 países mas vulnerables ante eventos de cambio climático al igual que Honduras, Bangladesh y Venezuela. Esto es asociado a la dependencia hacia algunos sectores, así como el bajo nivel institucional que ponen en riesgo la planificación y ejecución de medidas de adaptación concretas (Tyndall Center, 2003).</p>
 <p>Según el marco teórico propuesto por Dell, et al (2008) se estima que en el Perú habrá una pérdida del 6 por ciento respecto al PBI potencial en el año 2030, generado por el aumento de 2°C en la temperatura máxima y el 20 por ciento en la variabilidad de las precipitaciones al 2050. Por otro lado, estas pérdidas podrían reducirse a la tercera parte si se adoptan políticas globales que normalicen las variables climáticas al 2030.
