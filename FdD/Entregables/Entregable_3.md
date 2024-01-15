@@ -71,24 +71,24 @@ Una de las regiones más afectadas por este fenómeno, es Piura, que registra lo
 <br>
 <h2>REFERENCIAS BIBLIOGRÁFICAS</h2>
 <ul>
-<li>Vargas, P. (2009). El cambio climático y sus efectos en el Perú. Lima: Banco Central de Reserva del Perú.</li>
-<li>Rodríguez Becerra, M y Mance, H. (2009). Cambio climático: lo que está en juego. Universidad de los Andes.</li>
-<li>DNP-BID-CEPAL. 2014. Estudio de Impactos Económicos del Cambio Climático en Colombia.</li>
-<li>Tyndall Center de Inglaterra, for Climate Change Research (2003)</li>
-<li>Dell Melissal, F. Jones y A. Olken. Climate Change and Economic Growth: Evidence from the last half century. Working Paper 14132. National Bureau of Economic Research, Junio, 2008.</li>
-<li>Comunidad Andina de Naciones (2008). El cambio climático no tiene fronteras: impacto del cambio climático en la Comunidad Andina. Lima: Secretaría General de la Comunidad Andina</li>
-<li>CONAM 2001. Primera Comunicación del CONAM 2001</li>
-<li>Aldaz, J. y Díaz, J. (2017): “Situación del Convenio Marco de Naciones Unidas sobre el Cambio Climático. Resumen de las Cumbres del Clima de París, COP21 y de Marrakech, COP 22”, Revista de Salud Ambiental, 17 (1), pp. 34-39</li>
-<li>Díaz, J.; Linares, C. y García, R. (2005): “Impacto de las temperaturas extremas en la salud pública: futuras actuaciones”, Revista Española de Salud Pública, 79, pp. 145-157</li>
-<li>Kahn, B. (2017): “This Is How Climate Change Will Shift the World’s Cities”, disponible en: http://www.112 climatecentral.org/news/globalcities-climate-change-21584</li>
 <li>Alvarez MS, Vera C, Kiladis GN y Liebmann B, 2015: Influence of the Madden Julian Oscillation on precipitation and surface air temperature in South America. Climate Dynamics.</li>
+<li>Aldaz, J. y Díaz, J. (2017): “Situación del Convenio Marco de Naciones Unidas sobre el Cambio Climático. Resumen de las Cumbres del Clima de París, COP21 y de Marrakech, COP 22”, Revista de Salud Ambiental, 17 (1), pp. 34-39</li>
 <li>Cerne B y Vera C, 2011: Influence of the intraseasonal variability on the development of heat waves in subtropical South America . Climate Dynamics. 36:2265–2277 - DOI: 10.1007/s00382-010-0812-4.</li>
 <li>Cerne B, Vera C y Liebmann B, 2007: The nature of a heat wave in eastern Argentina occurring during SALLJEX. Monthly Weather Review , vol 135, 1165-74.</li>
-<li>González P. y Vera C. 2014: Summer precipitation variability over South America on long and short intraseasonal timescale. Climate Dynamics. On line first . DOI 10.1007/s00382-013-2012-3.</li>
-<li>INFOBAE 17, 20 y 29 diciembre 2013 : http://www.infobae.com/2013/12/17/1531496-la-ola-calor-disparo-otro-record-el-consumo-energia</li>
-<li>Atwoli, L., Baqui, A. H., Benfield, T., Bosurgi, R., Godlee, F., Hancocks, S., ... & Vázquez, D. (2021). Llamamiento a adoptar medidas urgentes para limitar los aumentos de temperatura en el mundo, restablecer la diversidad biológica y proteger la salud. Cadernos de Saúde Pública, 37.</li>
-<li>Laura, W. (2023). Olas de calor y su influencia en la salud humana en Piura y Lima. https://repositorio.senamhi.gob.pe/handle/20.500.12542/3062</li>
+<li>CONAM 2001. Primera Comunicación del CONAM 2001</li>
+<li>Dell Melissal, F. Jones y A. Olken. Climate Change and Economic Growth: Evidence from the last half century. Working Paper 14132. National Bureau of Economic Research, Junio, 2008.</li>
+<li>Díaz, J.; Linares, C. y García, R. (2005): “Impacto de las temperaturas extremas en la salud pública: futuras actuaciones”, Revista Española de Salud Pública, 79, pp. 145-157</li>
+<li>INFOBAE 17, 20 y 29 diciembre 2013</li>
+<li>Gonzales P. y Vera C. 2014: Summer precipitation variability over South America on long and short intraseasonal timescale. Climate Dynamics. On line first . DOI 10.1007/s00382-013-2012-3.</li><li>Gonzales, G. F., Zevallos, A., Gonzales-Castañeda, C., Nuñez, D., Gastañaga, C., Cabezas, C., ... & Steenland, K. (2014). Contaminación ambiental, variabilidad climática y cambio climático: una revisión del impacto en la salud de la población peruana. Revista Peruana de Medicina Experimental y Salud Pública, 31(3), 547-556.</li>
+<li>IPCC. 2014. Assessment Reports. Retrieved May 7, 2015.</li>
+<li>Kahn, B. (2017): “This Is How Climate Change Will Shift the World’s Cities”.</li>
+<li>Laura, W. (2023). Olas de calor y su influencia en la salud humana en Piura y Lima.</li>
+<li>Paulino Condezo, L. N., & Turpin Liñan, C. L. (2022). Evaluación del ruido ambiental y su relación con la percepción auditiva en Av. Abancay-Lima Cercado, octubre 2021.</li>
+<li>Rodríguez Becerra, M y Mance, H. (2009). Cambio climático: lo que está en juego. Universidad de los Andes.</li>
+<li>Tyndall Center de Inglaterra, for Climate Change Research (2003)</li>
+<li>Vargas, P. (2009). El cambio climático y sus efectos en el Perú. Lima: Banco Central de Reserva del Perú.</li>
 </ul>
+
 
 
 <br>
