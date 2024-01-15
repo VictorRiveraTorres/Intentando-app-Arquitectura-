@@ -8,6 +8,7 @@
 
 
 <img src="../../Imagenes/I_E_3/image_a.png" alt="tabla">
+<p>La tendencia al aumento de la temperatura continuará en el futuro. Las proyecciones del Panel Intergubernamental sobre Cambio Climático (IPCC) sugieren que a finales del siglo XXI, la temperatura superficial media podría aumentar entre 1 y 3,7 °C, dependiendo de diversos escenarios de emisión.</p>
 
 
 
