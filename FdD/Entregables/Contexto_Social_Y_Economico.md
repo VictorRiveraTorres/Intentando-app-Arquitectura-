@@ -18,7 +18,7 @@ Durante ese año, diversas olas de calor afectan diferentes regiones del mundo, 
 <h3>Argentina</h3>
 <h3>Tabla 1</h3>
 <h4></h4>
-<img src="../../Imagenes/I_E_3/image_e.png" width="700px" alt="tabla">
+<p align="center"> <img src="../../Imagenes/I_E_3/image_e.png" width="700px" alt="tabla"></p>
 <p>FUENTE: ELABORACION PROPIA</p>
 
 <h3>Uruguay</h3>
