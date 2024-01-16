@@ -1,12 +1,12 @@
 <h1>Entregables</h1>
-<h2>Entregable 1</h2>
+<h2>Sobre Nosostros</h2>
 <a href="Sobre_nosotros.md">Link a entregable 1</a>
 <br>
-<h2>Entregable 2</h2>
-<a href="Entregable_2.md">Link a entregable 2</a>
+<h2>Definicion del problema </h2>
+<a href="Definicion_del Problema.md">Link</a>
 <br>
-<h2>Entregable 3</h2>
-<a href="Entregable_3.md">Link a entregable 2</a>
+<h2>Contexto Social y Economico</h2>
+<a href="Contexto_Social_Y_Economico.md">Link</a>
 <br>
 <br>
 <hr>
