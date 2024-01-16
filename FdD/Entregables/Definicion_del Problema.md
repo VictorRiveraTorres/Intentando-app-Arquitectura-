@@ -11,14 +11,14 @@
 <p>Diariocorreo. (2011, 15 diciembre). Medidas de Villarán confunden al tránsito: Avenida Abancay es un caos. Correo.</p>
 <h1>Herramientas usadas para identificar el problema</h1>
 
-<h2>Mapa de Empatia</h2>
+<h2>1. Mapa de Empatia</h2>
 
 <img src="../../Imagenes/I_E_2/empatia.png">
 
-<h2>Mapa de Viaje del cliente</h2>
+<h2>2. bMapa de Viaje del cliente</h2>
 
 <img src="../../Imagenes/I_E_2/journey.png">
-<h2>Diagrama Causa - Efecto </h2>
+<h2>3.Diagrama Causa - Efecto </h2>
 
 <img src="../../Imagenes/I_E_2/Espina.png">
 <br>
