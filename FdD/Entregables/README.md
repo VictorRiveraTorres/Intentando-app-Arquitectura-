@@ -1,6 +1,6 @@
 <h1>Entregables</h1>
 <h2>Sobre Nosostros</h2>
-<a href="Sobre_nosotros.md">Link a entregable 1</a>
+<a href="Sobre_nosotros.md">Link</a>
 <br>
 <h2>Definicion del problema </h2>
 <a href="Definicion_del Problema.md">Link</a>
