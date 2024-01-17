@@ -74,7 +74,7 @@ Actualmente, existe una  fisura en la capa de hielo en el Nevado, por que las zo
 
 <h3>2.3 A Nivel Nacional</h3>
 <p>El impacto principal de la acumulación gradual de gases de efecto invernadero (GEI) se está evidenciando actualmente en nuestro país a través del retroceso glaciar. En los últimos 22 a 35 años, ha ocurrido una pérdida del 22% de la superficie glaciar, equivalente a 7000 millones de metros cúbicos que equivale a 10 años de consumo de agua en Lima. Por otro lado, el retroceso de los frentes glaciares, junto con el aumento en la intensidad de las lluvias, podría dar lugar a la formación de lagunas o glaciares "colgados", incrementando el riesgo de desastres naturales como huaycos, aluviones y rebalses, afectando a las poblaciones de los valles interandinos del país (Vargas, 2009).</p>
-<p>Durante la etapa de emergencia y rehabilitación del Niño 98, la inversión destinada a la descolmatación de canales, encauzamiento, diques de ríos, entre otras medidas, alcanzó aproximadamente $168 millones. Además, el costo total de la rehabilitación y reconstrucción de la infraestructura del país, como carreteras, caminos y puentes, ascendió a $685 millones (Conam 2001).
+<p>Durante la etapa de emergencia y rehabilitación del Niño 98, la inversión destinada a la descolmatación de canales, encauzamiento, diques de ríos, entre otras medidas, alcanzó aproximadamente $168 millones. Además, el costo total de la rehabilitación y reconstrucción de la infraestructura del país, como carreteras, caminos y puentes, ascendió a $685 millones (Conam,2001).
 </p>
 <p align="center">TABLA 1</p>
 <p align="center"><img src="../../Imagenes/I_E_3/TABLA.png" width="700px" alt="tabla"/><p>
