@@ -1,7 +1,7 @@
 <h1>Definicion del Problema y Usuario</h1>
 <h2>Problematica : Riesgo Inminente para las Comunidades ante el Desbordamiento de la Laguna Palcacocha debido al Derretimiento Súbito del Glaciar Palcaraju</h2>
 <p align="center"><img src="../../Imagenes/I_E_2/Glaciar_Palcaraju.jpg" width="600px" /></p>
-<p align="center">Deutsche Welle. (2021). El cambio climático derrite el glaciar peruano de Palcaraju – DW – 04/02/2021 [Imagen]. dw.com. https://www.dw.com/es/el-cambio-climático-antropogénico-está-derritiendo-el-glaciar-peruano-de-palcaraju/a-56460153</p>
+<p align="center">Deutsche Welle. (2021). El cambio climático derrite el glaciar peruano de Palcaraju – DW – 04/02/2021</p>
 
 ### 1. Identificacion del Problema
 El rápido derretimiento del glaciar Palcaraju ha aumentado el riesgo de inundaciones repentinas en la ciudad de Huaraz y comunidades circundantes, debido al peligro de desbordamiento de la Laguna Palcacocha.

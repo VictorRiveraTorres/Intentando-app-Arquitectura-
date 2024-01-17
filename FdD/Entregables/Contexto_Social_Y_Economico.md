@@ -2,13 +2,15 @@
 
 <h2>1. Contexto Social</h2>
 <h3>1.1 A Nivel Mundial</h3>
-<p>En nuestra sociedad, diversos sectores están interrelacionados con los cambios climáticos, generando impactos notables en la población, especialmente en las personas más vulnerables. “Estos cambios afectan tanto a los ecosistemas como al sector económico, a nivel mundial, además se manifiestan en niveles locales con fenómenos urbanos (olas de calor y contaminación), y nivel global con migraciones climáticas, desigualdades y aumento de la pobreza “(Aldaz, 2017).</p>
-<p>Las transformaciones más evidentes en el clima, principalmente atribuibles a la influencia y actividad humana desde 1950, muestran que entre 1880 y 2012 el calor en la media global aumentó en 0,85 ºC (con un rango entre 0,65 ºC y 1,06 ºC) (IPCC, 2013). Para comprender la magnitud de esta variación, podemos centrarnos en el año 2015, considerado el más cálido registrado hasta ahora, con un incremento de 0,76 ºC respecto a la media de 1961 a 1990 y 1 ºC desde los valores preindustriales.
-Durante ese año, diversas olas de calor afectan diferentes regiones del mundo, batiendo récords de temperatura, indica la Organización Meteorológica Mundial (OMM) (Diaz, 2005). Estas altas temperaturas resultaron en la pérdida de vidas, debido a las olas de calor, afectando a 1,2 millones de personas y registrándose un total de 7.346 muertes relacionadas con el calor, con cifras destacadas en Francia (3.275), India (2.248) y Pakistán (1.299) (Kendrovski, 2017).</p>
+<p>A nivel global, el derretimiento de glaciares, genera la reducción de recursos hídricos para consumo y riego, afectando a gran parte de  las personas, así como un descenso en la generación de energía hidroeléctrica. El deshielo de los glaciares no solo provoca un aumento en el nivel del mar, sino que también incrementa significativamente la vulnerabilidad  a diversos desastres naturales, incluyendo crecidas impredecibles de lagos glaciares y el consiguiente arrastre de residuos (Peralta,2019) . Por esta razón, es imperativo tener un conocimiento detallado sobre la rapidez a la que los glaciares están perdiendo masa, con el fin de implementar medidas de manera inmediata.</p>
 
-<h3>Grafico de barras 1</h3>
+<h3>Figura 1</h3>
 <img src="../../Imagenes/I_E_3/image_a.png" alt="tabla">
-<p>La tendencia al aumento de la temperatura continuará en el futuro. Las proyecciones del Panel Intergubernamental sobre Cambio Climático (IPCC) sugieren que a finales del siglo XXI, la temperatura superficial media podría aumentar entre 1 y 3,7 °C, dependiendo de diversos escenarios de emisión.</p>
+<p> Entre 60 y 90% del agua dulce de todo el planeta está congelada en la Antártida/ Revista NATURE</p>
+<br>
+<p>En el 2018, un informe realizado por la revista Nature concluyó que aproximadamente 4 millones de personas, lo que representa el 70% de las bases presentes en el Ártico, como instalaciones de extracción de combustibles fósiles(petróleo y gas), enfrentan actualmente amenazas debido al deshielo en la zona.(Karjalainen, Aalto, 2018)
+En Rusia, el 65% de la superficie está envuelta por permafrost(capa de suelo permanentemente congelada), quedando la ciudad de Yakutsk  como la mayor urbe edificada sobre esta área, donde la temperatura ha aumentado en +2,5 °C en los últimos 10 años. Para afrontar este cambio, muchas viviendas en esta ciudad, que alberga a 300,000 habitantes, se vieron obligados a usar paneles de hormigón en sus construcciones, sostenidos por pilotes, para garantizar  que debajo de las estructuras haya buena corriente de aire, para evitar el calentamiento del suelo ( Karjalainen, Aalto, 2018)
+</p>
 
 
 
