@@ -57,7 +57,7 @@ Actualmente, existe una  fisura en la capa de hielo en el Nevado, por que las zo
 <p>Por lo tanto, es crucial implementar acciones para reducir la necesidad de adaptación de los países frente al cambio climático. De lo contrario, los costos de adaptación podrían ser considerablemente significativos. El quinto informe del Panel Intergubernamental sobre Cambio Climático ( IPCC) menciona que estos costos pueden superar los 100 mil millones de dólares anuales a partir de 2050. Asimismo, el Adaptation Gap Report del (PNUD) en 2014 advierte que estos costos podrían triplicarse si no se toman medidas inmediatas (Rodríguez y Mance, 2009).</p>
 <p>De acuerdo con informes de la NASA, a nivel global, la temperatura promedio de la superficie del océano ha aumentado en 0,01°C por año durante el período de 1900 a 2007. En 2007, la temperatura media mundial se elevó en 0,60°C en comparación con el año 1900 (Vargas, 2009).</p>
 <p align="center">GRAFICO 1</p>
-<p align="center"><img src="../../Imagenes/I_E_3/image_f.png" width="700px" alt="histograma"/><p>
+<p align="center"><img src="../../Imagenes/I_E_3/image_g.png" width="700px" alt="histograma"/><p>
 
 
 <h3>2.2 A Nivel Regional</h3>
