@@ -28,7 +28,7 @@ En Rusia, el 65% de la superficie está envuelta por permafrost(capa de suelo pe
 <br>
 <p> Los glaciares tropicales responden a los cambios climáticos muy rápido, por lo que si continúa disminuyendo este el hielo que tiene este volcán, las consecuencias para Quito serían negativas, puesto que esta, es la fuente que alimentan los suministros de hídricos para abastecer de agua potable a la población (Vauchel,2005).</p>
 
-<h3>A Nivel Naconal</h3>
+<h3>1.3 A Nivel Nacional</h3>
 Nuestro país debido a su ubicación geográfica está ubicado dentro del cinturón tropical del planeta por lo que los cambios climáticos son más evidentes, y es por ello que el 71% de los glaciares de este tipo está en Perú. (Suarez,2015) 
 Según Vuille(2008) la temperatura en la cordillera blanca del Perú paso de 0.35 a 0.39 grados centígrados entre los años de 1951 a 1999. En la región de Puno está ubicado un gran nevado llamado Allincapac, situado en la Cordillera de Carabaya, específicamente en el distrito de Macusani, provincia de Carabaya, en Puno. Similar a diferentes glaciares de la cordillera puneña, este nevado experimenta cambios atribuibles al cambio climático. El ecosistema de Allincapac alberga una diversidad de ambientes con superficies rocosas, que presentan grietas y fisuras que permiten la filtración de agua proveniente del deshielo. (Montoya, 2009).
 
