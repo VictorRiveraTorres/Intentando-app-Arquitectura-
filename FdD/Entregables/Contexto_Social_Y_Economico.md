@@ -94,8 +94,7 @@ Actualmente, existe una  fisura en la capa de hielo en el Nevado, por que las zo
 <li>Vuille, M., Francou, B., Wagnon, P., Juen, I., Kaser, G., Mark, B. G., & Bradley, R. S. (2008). Climate change and tropical Andean glaciers: Past, present and future.Earth-Science Reviews, 89(3-4), 79-96. doi:10.1016/j.earscirev.2008.04.002.</li>
 <li>Suarez, W., Macedo, N., Montoya, N., Arias, S., Schauwecker, S., Huggel, C., ... & Condom, T. (2015). Balance enérgetico neto (2012-2014) y evolución temporal del nevado Quisoquipina en la región de Cusco (1990-2010). Revista peruana geo-atmosférica, 4, 80-92.</li>
 <li>Hjort, J., Karjalainen, O., Aalto, J. et al. La degradación del permafrost pondrá en riesgo la infraestructura del Ártico a mediados de siglo. Nat Comuna 9 , 5147 (2018). </li>
-<li></li>
-<li></li>
+
 <li>Plafker, G., & Ericksen, G. E. (1978). Nevados Huascarán Avalanches, Peru. In Developments in Geotechnical Engineering (pp. 277–314).</li>
 <li>Evans, S. G., Bishop, N. F., Smoll, L. F., Murillo, P. a. V., Delaney, K. B., & Oliver‐Smith, A. (2009). A re-examination of the mechanism and human impact of catastrophic mass flows originating on Nevado Huascarán, Cordillera Blanca, Peru in 1962 and 1970. Engineering Geology, 108(1–2), 96–118.</li>
 <li>Zapata Martí, Ricardo. (2006). Los efectos de los desastres en 2004 y 2005: la necesidad de adaptación de largo plazo. Serie Estudios y Perspectivas. Nº 54. Sede subregional de la CEPAL en México. Punto Focal de Desastres. México, DF. 47 pp. </li>
