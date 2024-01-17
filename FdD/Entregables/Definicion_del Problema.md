@@ -34,7 +34,7 @@ A pesar de la clara conexión entre el cambio climático, el retroceso del glaci
 La proximidad de las comunidades a la laguna Palcacocha aumenta su vulnerabilidad. La falta de sistemas de alerta temprana efectivos y medidas de mitigación adecuadas expone a estas poblaciones a un peligro inminente, donde un desbordamiento repentino puede tener consecuencias devastadoras para la vida, la propiedad y el bienestar de las personas (Sierra, 2019).
  
 ### Conclusiones Urgentes:
-La combinación de factores como el cambio climático acelerado, el derretimiento repentino del glaciar Palcaraju y la falta de evaluación específica crea una situación de emergencia. Se requieren acciones inmediatas para comprender y abordar la amenaza que representa el desbordamiento de la laguna Palcacocha para las comunidades circundantes, protegiendo así vidas y propiedades en riesgo.
+La combinación de factores como el cambio climático acelerado, el derretimiento repentino del glaciar Palcaraju y la falta de evaluación específica crea una situación de emergencia. Se requieren acciones inmediatas para comprender y abordar la amenaza que representa el desbordamiento de la laguna Palcacocha para las comunidades circundantes, protegiendo así vidas.
 
 <h1>Herramientas usadas para identificar el problema</h1>
 
