@@ -41,14 +41,14 @@ La combinación de factores como el cambio climático acelerado, el derretimient
 
 <h2>1. Mapa de Empatia</h2>
 
-<img src="../../Imagenes/I_E_2/Empatia.png" width="800px">
+<p align="center"><img src="../../Imagenes/I_E_2/Empatia.png" width="800px" /></p>
 
 <h2>2. Mapa de Viaje del cliente</h2>
 
-<img src="../../Imagenes/I_E_2/journey.png" width="800px">
+<p align="center"><img src="../../Imagenes/I_E_2/journey.png" width="800px" /></p>
 <h2>3.Diagrama Causa - Efecto </h2>
 
-<img src="../../Imagenes/I_E_2/espina.png" width="800px">
+<p align="center"><img src="../../Imagenes/I_E_2/espina.png" width="800px" /></p>
 <br>
 <br>
 <h2>Bibliografia</h2>
