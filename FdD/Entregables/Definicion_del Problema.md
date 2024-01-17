@@ -48,7 +48,7 @@ La combinación de factores como el cambio climático acelerado, el derretimient
 <p align="center"><img src="../../Imagenes/I_E_2/Glaciar_Palcaraju.jpg" width="800px" /></p>
 <h2>3.Diagrama Causa - Efecto </h2>
 
-<p align="center"><img src="https://github.com/jnilsoncr/Grupo_3_fundamentos/blob/main/Imagenes/I_E_2/empatia.png" width="800px" /></p>
+<p align="center"><img src="https://github.com/jnilsoncr/Grupo_3_fundamentos/blob/main/Imagenes/I_E_2/Espina.png" width="800px" /></p>
 <br>
 <br>
 <h2>Bibliografia</h2>
