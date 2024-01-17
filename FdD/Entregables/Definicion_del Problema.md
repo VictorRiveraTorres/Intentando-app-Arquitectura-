@@ -35,7 +35,8 @@ La proximidad de las comunidades a la laguna Palcacocha aumenta su vulnerabilida
  
 ### Conclusiones Urgentes:
 La combinación de factores como el cambio climático acelerado, el derretimiento repentino del glaciar Palcaraju y la falta de evaluación específica crea una situación de emergencia. Se requieren acciones inmediatas para comprender y abordar la amenaza que representa el desbordamiento de la laguna Palcacocha para las comunidades circundantes, protegiendo así vidas.
-
+## Usuario
+Comunidad de Huaraz
 <h1>Herramientas usadas para identificar el problema</h1>
 
 <h2>1. Mapa de Empatia</h2>
