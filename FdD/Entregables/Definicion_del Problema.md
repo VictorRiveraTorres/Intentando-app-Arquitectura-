@@ -14,7 +14,7 @@ La pérdida de vidas y daños a la ciudad ocurridos en 1941, junto con el eviden
 ### 5. Propuesta de Soluciones:
 Una solución integral basada en la tecnología de Internet de las cosas (IoT) para el monitoreo y prevención de inundaciones en ríos. La propuesta incluye la implementación de nodos fijos y móviles equipados con sensores de nivel de agua, temperatura y humedad relativa. La plataforma de adquisición de datos permitirá la transmisión en tiempo real de la información recopilada, con un enfoque en la utilización de conexiones celulares 3G para garantizar una cobertura confiable en áreas remotas (Moreno et al., 2019).
 
-Nuestra idea es la elaboración de un sistema de alerta temprana que notifique a las autoridades y a la comunidad, ante cambios significativos en los niveles del agua en la laguna Palcacocha.
+Nuestra idea es la elaboración de un sistema de alerta temprana con la ayuda de un sensor de proximidad y una alarma que notifique a las autoridades y a la comunidad, ante cambios significativos en los niveles del agua en la laguna Palcacocha.
 
 ## SUSTENTO:
  
