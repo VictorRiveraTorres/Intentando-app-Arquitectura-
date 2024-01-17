@@ -22,7 +22,7 @@ En Rusia, el 65% de la superficie está envuelta por permafrost(capa de suelo pe
 <p>Los glaciares ubicados en el ecuador sirven como indicadores de los cambios climáticos experimentados en la actualidad. Estos glaciares responden rápidamente a las variaciones en las condiciones climáticas, y debido a la elevada altitud en la que se encuentran, presentan extensiones considerables de cobertura glaciar, medidas en kilómetros cuadrados. En los últimos años, estos glaciares han experimentado una disminución evidente en su cobertura, observable a simple vista (Salas & Duarte, 2018).
 </p>
 <p>El Nevado Antisana, actualmente ha disminuido su extensión, este retroceso está relacionado con el cambio climático global, donde el deshielo se ha prolongado por meses, produciendo un aumento en el caudal de los ríos cercanos a Quito, sin embargo se prevé que en la siguiente década se triplique, ya que en los Alpes y Andes tropicales, se masifica la  la desglaciación (Vuille,2008). Cabe resaltar que durante el período 1995-2006 el glaciar tuvo un mayor índice de descongelamiento (Vauchel,2005).</p>
->
+
 <p align="center"> <img src="https://imagenes.elpais.com/resizer/e0OuI0oZsnCbL4WQLldatxpiYeE=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/32IKJUYRXBMDZPX6U4UCOG25Z4.jpg" width="700px" alt="nieve"/></p>
 <p>FIGURA 2: El volcán Antisana se alza sobre las nubes, es el más grande de Ecuador/ EL PAÍS</p>
 <br>
@@ -44,7 +44,7 @@ Según Vuille(2008) la temperatura en la cordillera blanca del Perú paso de 0.3
 <li> La de 1962, con un volumen de aproximadamente 13 millones de metros cúbicos, resultó en alrededor de 4,000 muertes, principalmente en Ranrahirca. </li>
 </uk>
 <p align="center"> <img src="https://cdn.www.gob.pe/uploads/document/file/4813675/standard_04.JPEG.jpeg"/></p>
-<p align="center">FIGURA 4:Imagen del nevado huazcaran</p>
+<p align="center">FIGURA 4:Imagen del nevado Huascarán</p>
 Actualmente, existe una  fisura en la capa de hielo en el Nevado, por que las zonas aledañas siguen siendo vulnerables, por la inestabilidad y riesgo de avalanchas en cualquier momento, puesto que se ha agudizado el deslizamiento de hielo, aumentando el caudal de los Ríos Santa Santa y Ranrahirca. (Evans,2009)
 
 
@@ -87,21 +87,28 @@ Actualmente, existe una  fisura en la capa de hielo en el Nevado, por que las zo
 <li>Hjort, J., Karjalainen, O., Aalto, J. et al. La degradación del permafrost pondrá en riesgo la infraestructura del Ártico a mediados de siglo. Nat Comuna 9 , 5147 (2018).</li>
 <li> Andrea Peralta Rodríguez (2020). Deshielo: el calentamiento global como proceso gráfico</li>
 <li>Vuille, M., & Bradley, R. S. (2008). Mean Annual Temperature Trends and their Vertical Structure in the Tropical Andes. Geophysical Research Letters, 27(23): 3885-3888.</li>
-<li>Vauchel, P. (2005). HYDRACCESS: Software for Management & processing of Hydro-meteorological data. From http://www.mpl.ird.fr/hybam/outils/ha_sp_dn.php. </li>
+<li>Vauchel, P. (2005). HYDRACCESS: Software for Management & processing of Hydro-meteorological data.</li>
 <li>TAUPIN, J. D. Retroceso de glaciares tropicales en América del Sur y evolución de la temperatura en los Andes del Ecuador. Caso nevado Antisana South America Tropical glaciers retreat and temperature evolution in the Ecuadorian Andes. Case of Antisana snow-capped volcano.</li>
+<li>Pacompia Vilca, S. E. (2022). Nivel de desglaciación del nevado Allincapac entre los años 2000 y 2020 ubicado en el Distrito de Macusani.</li>
+<li>Montoya, H. (2019). Cryophilic communities of the Allincapac mountain glaciers, southern Peruvian Andes, Puno Department: Phenotypic variability of the cyanobacterium Nostoc commune (Nostocales, Nostocaceae).</li>
+<li>Vuille, M., Francou, B., Wagnon, P., Juen, I., Kaser, G., Mark, B. G., & Bradley, R. S. (2008). Climate change and tropical Andean glaciers: Past, present and future.Earth-Science Reviews, 89(3-4), 79-96. doi:10.1016/j.earscirev.2008.04.002.</li>
+<li>Suarez, W., Macedo, N., Montoya, N., Arias, S., Schauwecker, S., Huggel, C., ... & Condom, T. (2015). Balance enérgetico neto (2012-2014) y evolución temporal del nevado Quisoquipina en la región de Cusco (1990-2010). Revista peruana geo-atmosférica, 4, 80-92.</li>
+<li>Hjort, J., Karjalainen, O., Aalto, J. et al. La degradación del permafrost pondrá en riesgo la infraestructura del Ártico a mediados de siglo. Nat Comuna 9 , 5147 (2018). </li>
 <li></li>
 <li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Plafker, G., & Ericksen, G. E. (1978). Nevados Huascarán Avalanches, Peru. In Developments in Geotechnical Engineering (pp. 277–314).</li>
+<li>Evans, S. G., Bishop, N. F., Smoll, L. F., Murillo, P. a. V., Delaney, K. B., & Oliver‐Smith, A. (2009). A re-examination of the mechanism and human impact of catastrophic mass flows originating on Nevado Huascarán, Cordillera Blanca, Peru in 1962 and 1970. Engineering Geology, 108(1–2), 96–118.</li>
+<li>Zapata Martí, Ricardo. (2006). Los efectos de los desastres en 2004 y 2005: la necesidad de adaptación de largo plazo. Serie Estudios y Perspectivas. Nº 54. Sede subregional de la CEPAL en México. Punto Focal de Desastres. México, DF. 47 pp. </li>
+<li>Peralta, A. (2020). Deshielo. El calentamiento global como proceso gráfico. [Trabajo fin de grado, Universidad Politécnica de Madrid]. Archivo digital UPM</li>
+<li>Vargas, P. (2009). El cambio climático y sus efectos en el Perú. Lima: Banco Central de Reserva del Perú.</li>
+<li>EEA (2005). El cambio climático y las inundaciones fluviales en Europa. Agencia Europea de Medio Ambiente, Briefing 01.</li>
+<li>Olcina, J. (2009). Cambio climático y riesgos climáticos en España.</li>
+<li>Conde-Álvarez, C., & Saldaña-Zorrilla, S. (2007). Cambio climático en América Latina y el Caribe: Impactos, vulnerabilidad y adaptación. Ambiente y desarrollo, 23(2), 23-30.</li>
+<li>CEPAL, 2003. Panorama Social de América Latina 2002-2003. Pobreza y distribución del ingreso. Santiago de Chile</li>
+<li>Rivarola, A. del V., M.G. Vinocur, y R.A.Seiler. (2002). Uso y demanda de información agrometeorológica en el sector agropecuario del centro de Argentina. Revista Argentina de Agrometeorología (RADA), 2 (2): 143-149.</li>
+<li>Gay, C., C. Conde, H. Eakin, (Mexico), R: Seiler, M. Vinocur, M. Wehbe (Argentina). (2006). Final Report Project No. LA 29 (2006): Vulnerability and Adaptation to Climate Change: The Case of Farmers in Mexico and Argentina. </li>
+<li>CONAM 2001. Primera Comunicación del CONAM 2001</li>
+<li>Feo, O., Solano, E., Beingolea, L., Aparicio, M., Villagra, M., José Prieto, M., ... & Silveti, R. (2009). Cambio climático y salud en la región andina. Revista Peruana de Medicina Experimental y Salud Pública, 26(1), 83-92.</li>
 
 </ul>
 
