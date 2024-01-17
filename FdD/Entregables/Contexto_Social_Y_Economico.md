@@ -6,7 +6,7 @@
 
 
 <img src="../../Imagenes/I_E_3/Figura_1.png" alt="Figura_1">
-<p> FIGURA 1:Entre 60 y 90% del agua dulce de todo el planeta está congelada en la Antártida/ Revista NATURE</p>
+<p> FIGURA 1: Entre 60 y 90% del agua dulce de todo el planeta está congelada en la Antártida/ Revista NATURE</p>
 <br>
 <p>En el 2018, un informe realizado por la revista Nature concluyó que aproximadamente 4 millones de personas, lo que representa el 70% de las bases presentes en el Ártico, como instalaciones de extracción de combustibles fósiles(petróleo y gas), enfrentan actualmente amenazas debido al deshielo en la zona.(Karjalainen, Aalto, 2018)
 En Rusia, el 65% de la superficie está envuelta por permafrost(capa de suelo permanentemente congelada), quedando la ciudad de Yakutsk  como la mayor urbe edificada sobre esta área, donde la temperatura ha aumentado en +2,5 °C en los últimos 10 años. Para afrontar este cambio, muchas viviendas en esta ciudad, que alberga a 300,000 habitantes, se vieron obligados a usar paneles de hormigón en sus construcciones, sostenidos por pilotes, para garantizar  que debajo de las estructuras haya buena corriente de aire, para evitar el calentamiento del suelo ( Karjalainen, Aalto, 2018)
@@ -34,7 +34,7 @@ Según Vuille(2008) la temperatura en la cordillera blanca del Perú paso de 0.3
 
 
 <p align="center"> <img src="https://runakayperu.files.wordpress.com/2015/10/1-1.jpg?w=768"/></p>
-<p align="center">FIGURA 3:Imagen satelital del nevado Allincapac, Una laguna fria y solitaria, Camino hacia Ollachea octubre del 2015</p>
+<p align="center">FIGURA 3: Imagen satelital del nevado Allincapac, Una laguna fria y solitaria, Camino hacia Ollachea octubre del 2015</p>
 <br>
 <p>De acuerdo con los resultados obtenidos por Pacompia Vilca (2022), se concluye que durante el año 2020, el contorno glaciar del nevado Allincapac era de 1011.33 hectáreas, indicando una disminución gradual a lo largo del tiempo. La diferencia de cobertura glaciar entre los años 2000 y 2020 revela una pérdida total de 1650.92 hectáreas.</p>
 <p>Asimismo, según los datos recopilados, en el año 2000 la cobertura glaciar alcanzaba las 2665.25 hectáreas. A lo largo de los siguientes periodos, se observa un retroceso significativo: de 2000 a 2005, se perdió una extensión de 816.55 hectáreas, siendo este periodo crítico. Entre 2005 y 2010, la pérdida fue de 207.77 hectáreas; de 2010 a 2015, la pérdida fue de 257.95 hectáreas; y finalmente, de 2015 a 2020, se perdió una extensión de 371.65 hectáreas. La suma total desde el año 2000 hasta 2020 revela una pérdida de 1653.92 hectáreas, dejando solo 1011.33 hectáreas de cobertura glaciar en 2020. Esta disminución glaciar se atribuye al aumento de las temperaturas.</p>
@@ -44,7 +44,7 @@ Según Vuille(2008) la temperatura en la cordillera blanca del Perú paso de 0.3
 <li> La de 1962, con un volumen de aproximadamente 13 millones de metros cúbicos, resultó en alrededor de 4,000 muertes, principalmente en Ranrahirca. </li>
 </uk>
 <p align="center"> <img src="https://cdn.www.gob.pe/uploads/document/file/4813675/standard_04.JPEG.jpeg"/></p>
-<p align="center">FIGURA 4:Imagen del nevado Huascarán</p>
+<p align="center">FIGURA 4: Imagen del nevado Huascarán</p>
 Actualmente, existe una  fisura en la capa de hielo en el Nevado, por que las zonas aledañas siguen siendo vulnerables, por la inestabilidad y riesgo de avalanchas en cualquier momento, puesto que se ha agudizado el deslizamiento de hielo, aumentando el caudal de los Ríos Santa Santa y Ranrahirca. (Evans,2009)
 
 
