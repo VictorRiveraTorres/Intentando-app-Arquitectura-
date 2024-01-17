@@ -15,6 +15,8 @@ En Rusia, el 65% de la superficie está envuelta por permafrost(capa de suelo pe
 
 
 
+
+
 <h3>1.2 A Nivel Regional</h3>
 <p>En diciembre de 2013, la región centro-norte de Argentina experimentó un periodo caracterizado por temperaturas elevadas, identificado por el Servicio Meteorológico Nacional (SMN) como un episodio de ola de calor (Informe del Servicio Meteorológico Nacional, 2014).</p>
 <h3>Argentina</h3>
