@@ -45,7 +45,8 @@ La combinación de factores como el cambio climático acelerado, el derretimient
 
 <h2>2. Mapa de Viaje del cliente</h2>
 
-<p align="center"><img src="../../Imagenes/I_E_2/journey.png" width="800px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/Glaciar_Palcaraju.jpg" width="800px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/Glaciar_Palcaraju.jpg" width="600px" /></p>
 <h2>3.Diagrama Causa - Efecto </h2>
 
 <p align="center"><img src="../../Imagenes/I_E_2/espina.png" width="800px" /></p>
