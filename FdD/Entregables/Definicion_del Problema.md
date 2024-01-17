@@ -53,15 +53,15 @@ Comunidad de Huaraz
 <br>
 <h2>Bibliografia</h2>
 <ul>
-<li>Autoridad Nacional del Agua [ANA]. (4 de julio de 2020). Perú perdió el 51% de sus glaciares debido al cambio climático.</li>
-<li>Sierra, Yvette. (26 de marzo de 2019). Perú: falta de prevención en Laguna Palcacocha podría ocasionar desastre en Huaraz. Mongabay.</li>
-<li>Moreno, C., Aquino, R., Ibarreche, J., Pérez, I., Castellanos, E., Álvarez, E., Rentería, R., Anguiano, L., Edwards, A., Lepper, P., Edwards, R. M., & Clark, B. (2019). RiverCore: IoT device for river water level monitoring over cellular communications. Sensors (Basel, Switzerland), 19(1), 127.</li>
-<li>Stuart-Smith, R. F., Roe, G. H., Li, S., Allen, M. R. (2021). Increased outburst flood hazard from Lake Palcacocha due to human-induced glacier retreat. Nat. Geosci., 14, 85-90.</li>
-<li>Valderrama Murillo, P. A., Pari Pinto, W., Silva Espejo, R. C., & Fídel Smoll, L. (2013). Evaluación ingeniero-geológico: Laguna de Palcacocha y su influencia en la ciudad de Huaraz Cordillera Blanca. Región Ancash.</li>
-<li>Ferro, V. (2009). La evaluación del riesgo de desastre en la planificación del desarrollo de la ciudad de Huaraz, Áncash. ANÁLISIS DEL RIESGO, 145.</li>
-<li>Gonzales Lizarme, G. (2022). Simulación de la amenaza de avalancha y su riesgo físico sobre la laguna Palcacocha en la microcuenca Paria, Huaraz, 2016-2017.</li>
-<li>Sierra, Yvette. (26 de marzo de 2019). Perú: falta de prevención en Laguna Palcacocha podría ocasionar desastre en Huaraz. Mongabay.</li>
+  <li>Autoridad Nacional del Agua [ANA]. (4 de julio de 2020). Perú perdió el 51% de sus glaciares debido al cambio climático.</li>
+  <li>Ferro, V. (2009). La evaluación del riesgo de desastre en la planificación del desarrollo de la ciudad de Huaraz, Áncash. ANÁLISIS DEL RIESGO, 145.</li>
+  <li>Gonzales Lizarme, G. (2022). Simulación de la amenaza de avalancha y su riesgo físico sobre la laguna Palcacocha en la microcuenca Paria, Huaraz, 2016-2017.</li>
+  <li>Moreno, C., Aquino, R., Ibarreche, J., Pérez, I., Castellanos, E., Álvarez, E., Rentería, R., Anguiano, L., Edwards, A., Lepper, P., Edwards, R. M., & Clark, B. (2019). RiverCore: IoT device for river water level monitoring over cellular communications. Sensors (Basel, Switzerland), 19(1), 127.</li>
+  <li>Sierra, Yvette. (26 de marzo de 2019). Perú: falta de prevención en Laguna Palcacocha podría ocasionar desastre en Huaraz. Mongabay.</li>
+  <li>Stuart-Smith, R. F., Roe, G. H., Li, S., Allen, M. R. (2021). Increased outburst flood hazard from Lake Palcacocha due to human-induced glacier retreat. Nat. Geosci., 14, 85-90.</li>
+  <li>Valderrama Murillo, P. A., Pari Pinto, W., Silva Espejo, R. C., & Fídel Smoll, L. (2013). Evaluación ingeniero-geológico: Laguna de Palcacocha y su influencia en la ciudad de Huaraz Cordillera Blanca. Región Ancash.</li>
 </ul>
+
 
 <hr>
 <a href="README.md">Enlace al README de Entregables</a>
