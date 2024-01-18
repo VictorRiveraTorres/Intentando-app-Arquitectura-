@@ -26,15 +26,15 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 <table>
     <thead>
         <tr>
-            <th>Nombre</th>
-            <th>Correo</th>
-            <th>Rol</th>
+            <th>NOMBRE</th>
+            <th>CORREO</th>
+            <th>ROL</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Mirella Solange Bendezu Guerra</td>
-            <td>mirella.bendezu@upch.pe</td>
+            <td><a href="mailto:jose.cueva@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">mirella.bendezu@upch.pe</td>
             <td>Coordinador de Comunicación Visual e Interactividad</td>
         </tr>
         <tr>
