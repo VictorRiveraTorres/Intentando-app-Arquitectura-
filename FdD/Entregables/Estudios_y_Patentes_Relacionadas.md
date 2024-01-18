@@ -38,7 +38,7 @@ Medir la profundidad del agua en tuberías, pozos y perforaciones.
 Contiene una sonda de acero inoxidable equipada con una cinta graduada flexible, enrollada en un carrete manual, acompañada de indicadores auditivos y visuales. Es especialmente útil para la medición precisa de la profundidad del agua en tuberías, pozos y perforaciones. El diseño de la cinta impide que esta se adhiera a superficies húmedas, como el revestimiento de un pozo, asegurando así mediciones exactas.
 </p>
 <p align="center"><img src="https://geoteknik.com.pe/wp-content/uploads/Medidor-de-Nivel-de-Agua.jpg" width="400px" /></p>
-<p align="center">Figura 3: imagen del medidor de nivel de agua</p>
+<p align="center">FIGURA 3: imagen del medidor de nivel de agua</p>
 
 <h3>Sensor De Temperatura Del Nivel Del Agua
 </h3>
@@ -57,7 +57,7 @@ Características:
 </ul>
 </p>
 <p align="center"><img src="../../Imagenes/I_E_4/image.png" width="400px" /></p>
-<p align="center">Figura 4: Imagen del sensor de temperatura de nivel de agua</p>
+<p align="center">FIGURA 4: Imagen del sensor de temperatura de nivel de agua</p>
 
 
 <h3>Medidor de nivel de agua por radar
@@ -69,7 +69,7 @@ Medir el nivel de agua en tanques industriales
 Sensor fabricado con material de PTFE, diseñado para su aplicación en diversas situaciones, ya sea en tanques de almacenamiento básicos, en entornos corrosivos o agresivos, o en aplicaciones que requieran mediciones de tanques con alta precisión.
 </p>
 <p align="center"><img src="https://c40.hongcdn.com/uploads/2103/24151816257.jpg" width="400px" /></p>
-<p align="center">Figura 5: Modelo del medidor por radar</p>
+<p align="center">FIGURA 5: Modelo del medidor por radar</p>
 
 <h3>Medidor de nivel de agua "HOBO" con datalogger
 </h3>
@@ -81,7 +81,7 @@ Este dispositivo se emplea para supervisar cambios en los niveles de agua en div
 Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 mediciones combinadas de ambos parámetros
 </p>
 <p align="center"><img src="https://agromatic.com.pe/panel/files/producto/20190930155509Sin%20t%C3%ADtulo%20500x500.jpg" width="400px" /></p>
-<p align="center">Figura 6: Medidor de nivel de agua "HOBO" con datalogger</p>
+<p align="center">FIGURA 6: Medidor de nivel de agua "HOBO" con datalogger</p>
 <h2>¿QUÉ NOS DIFERENCIA?</h2>
 <p>A diferencia de otros dispositivos que se encuentran en el mercado, nuestro sensor no solo va a medir los niveles de agua de la laguna Palcacocha sino también tendrá un sistema de alerta para la comunidad de Huaraz. Asimismo, nuestro sensor tiene como objetivo ayudar a la población de Huaraz dando fácil acceso a los datos de nivel de agua de la laguna que no son proporcionados por ningún otro sensor. Por ello, se evitará las consecuencias significativas ocasionadas por inundaciones protegiendo así a la población de Huaraz en los próximos años</p>
 
