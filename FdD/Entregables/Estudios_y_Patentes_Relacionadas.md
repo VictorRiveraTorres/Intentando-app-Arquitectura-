@@ -9,8 +9,8 @@
 <h3>1. (US9835501) Sensor y sistema inalámbrico de temperatura y humedad, y método de medición. (invención)</h3>
 
 <p>La invención describe un sensor inalámbrico de temperatura y humedad que utiliza resonadores de ondas acústicas de superficie alimentados por una red de alimentación a través de una antena. Este sensor tiene un resonador de referencia y resonadores de medición, y la diferencia de frecuencia resonante entre ellos se emplea para modular la medición de temperatura y/o humedad. El sistema resultante puede controlar tanto la temperatura como la humedad simultáneamente, o seleccionar el control de una de ellas de manera individual. Además, la modulación diferencial ayuda a mitigar la deriva de frecuencia causada por el envejecimiento del material del sensor y el conector, mejorando así la estabilidad a largo plazo de la medición y eliminando la necesidad de recalibración.  Abordando un sensor inalámbrico específicamente diseñado para medir temperatura y humedad, empleando resonadores de ondas acústicas de superficie. Un sensor de onda acústica de superficie (SAW) es un dispositivo en el cual la SAW sirve como un portador de información sensible al entorno. Este tipo de sensor destaca por su alta precisión, respuesta rápida y tamaño compacto, entre otras propiedades. (Zheng, Q., & Li, Z. , 2017)</p>
-<p align="center"><img src="https://patentimages.storage.googleapis.com/b4/e9/7b/64837a3c26c785/US09835501-20171205-D00000.png" width="600px" /></p>
-<p align="center"><img src="https://patentimages.storage.googleapis.com/44/d2/4e/4959a1d6fdd5f0/US09835501-20171205-D00003.png" width="600px" /></p>
+<p align="center"><img src="https://patentimages.storage.googleapis.com/c4/b6/f1/31a0408a287cdf/US09835501-20171205-D00001.png" width="400px" /></p>
+<p align="center"><img src="https://patentimages.storage.googleapis.com/b4/e9/7b/64837a3c26c785/US09835501-20171205-D00000.png" width="400px" /></p>
 
 <h3>2. (KR101849730) Mediciones meteorológicas locales basadas en el sistema y método de monitoreo de inundaciones fluviales. (invención)</h3>
 
