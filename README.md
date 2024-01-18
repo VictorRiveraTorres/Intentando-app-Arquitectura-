@@ -44,17 +44,17 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
         </tr>
         <tr>
             <td>Meyli Flores Huaman</td>
-            <td><a href="mailto:meyli.flores@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">meyli.flores@upch.pe</a>meyli.flores@upch.pe</a></td>
+            <td><a href="mailto:meyli.flores@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">meyli.flores@upch.pe</a></td>
             <td>Coordinador de Modelado 3D</td>
         </tr>
         <tr>
             <td>Iory Estefani Huarca Astete</td>
-            <td><a href="mailto:iory.huarca@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">meyli.flores@upch.pe</a>iory.huarca@upch.pe</a></td>
+            <td><a href="mailto:iory.huarca@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">iory.huarca@upch.pe</a></td>
             <td>Coordinador de Diseño y Bocetos</td>
         </tr>
         <tr>
             <td>Romina Perez Amado</td>
-            <td><a href="mailto:romina.perez@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">meyli.flores@upch.pe</a>romina.perez@upch.pe</a></td>
+            <td><a href="mailto:romina.perez@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">romina.perez@upch.pe</a></td>
             <td>Coordinador General e Investigacion</td>
         </tr>
     </tbody>
