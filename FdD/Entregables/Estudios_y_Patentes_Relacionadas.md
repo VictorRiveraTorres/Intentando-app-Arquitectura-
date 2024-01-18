@@ -5,7 +5,7 @@
 
 <p align="center"><img src="../../Imagenes/I_E_4/funcionales.jpg" width="600px" /></p>
 
-<h2>Patentes</h2>
+<h2>PATENTES</h2>
 <h3>1. (US9835501) Sensor y sistema inalámbrico de temperatura y humedad, y método de medición. (invención)</h3>
 
 <p>La invención describe un sensor inalámbrico de temperatura y humedad que utiliza resonadores de ondas acústicas de superficie alimentados por una red de alimentación a través de una antena. Este sensor tiene un resonador de referencia y resonadores de medición, y la diferencia de frecuencia resonante entre ellos se emplea para modular la medición de temperatura y/o humedad. El sistema resultante puede controlar tanto la temperatura como la humedad simultáneamente, o seleccionar el control de una de ellas de manera individual. Además, la modulación diferencial ayuda a mitigar la deriva de frecuencia causada por el envejecimiento del material del sensor y el conector, mejorando así la estabilidad a largo plazo de la medición y eliminando la necesidad de recalibración.  Abordando un sensor inalámbrico específicamente diseñado para medir temperatura y humedad, empleando resonadores de ondas acústicas de superficie. Un sensor de onda acústica de superficie (SAW) es un dispositivo en el cual la SAW sirve como un portador de información sensible al entorno. Este tipo de sensor destaca por su alta precisión, respuesta rápida y tamaño compacto, entre otras propiedades. (Zheng, Q., & Li, Z. , 2017)</p>
@@ -27,13 +27,78 @@
 
 
 <h3>4. (MX2018010814) SISTEMA DE CONTROL DE INUNDACIONES. (utilidad)</h3>
-<p>(Un sistema de control de inundaciones que está configurado para desplegarse para controlar las aguas de inundación en el que el sistema de control de inundaciones se proporciona en configuraciones de múltiples compartimientos de receptáculos modulares. El sistema de control de inundaciones incluye una pluralidad de receptáculos modulares que tienen cuatro paredes en las que las cuatro paredes están acopladas de forma móvil para hacer una transición intermedia entre una posición plegada y una posición desplegada. Las paredes del sistema de control de inundaciones incluyen una pluralidad de aberturas y estructuras de esquina que tienen forma helicoide de bobina. Se proporciona un pasador de bloqueo para ser acoplado operativamente a los receptáculos modulares intermedios para proporcionar una conexión mecánica entre ellos. Un revestimiento está dispuesto dentro del volumen interior de los receptáculos modulares y tiene una forma acoplable con el mismo. El revestimiento incluye una realización abierta o cerrada y está configurado para recibir ruido en el mismo.</p>
+<p>Un sistema de control de inundaciones que está configurado para desplegarse para controlar las aguas de inundación en el que el sistema de control de inundaciones se proporciona en configuraciones de múltiples compartimientos de receptáculos modulares. El sistema de control de inundaciones incluye una pluralidad de receptáculos modulares que tienen cuatro paredes en las que las cuatro paredes están acopladas de forma móvil para hacer una transición intermedia entre una posición plegada y una posición desplegada. Las paredes del sistema de control de inundaciones incluyen una pluralidad de aberturas y estructuras de esquina que tienen forma helicoide de bobina. Se proporciona un pasador de bloqueo para ser acoplado operativamente a los receptáculos modulares intermedios para proporcionar una conexión mecánica entre ellos. Un revestimiento está dispuesto dentro del volumen interior de los receptáculos modulares y tiene una forma acoplable con el mismo. El revestimiento incluye una realización abierta o cerrada y está configurado para recibir ruido en el mismo.</p>
+<h2>EQUIPOS Y DISPOSITIVOS EXISTENTES EN EL MERCADO</h2>
+<h3>Medidor de nivel de agua
+</h3>
+<p>Objetivo: 
+Medir la profundidad del agua en tuberías, pozos y perforaciones.
+</p>
+<p>Descripción:
+Contiene una sonda de acero inoxidable equipada con una cinta graduada flexible, enrollada en un carrete manual, acompañada de indicadores auditivos y visuales. Es especialmente útil para la medición precisa de la profundidad del agua en tuberías, pozos y perforaciones. El diseño de la cinta impide que esta se adhiera a superficies húmedas, como el revestimiento de un pozo, asegurando así mediciones exactas.
+</p>
+<p align="center"><img src="https://geoteknik.com.pe/wp-content/uploads/Medidor-de-Nivel-de-Agua.jpg" width="400px" /></p>
+<p align="center">Figura 3: imagen del medidor de nivel de agua</p>
+
+<h3>Sensor De Temperatura Del Nivel Del Agua
+</h3>
+<p>Objetivo: 
+Medir la temperatura y nivel del agua
+</p>
+<p>Descripción:
+El transmisor de nivel hidrostático sumergible de Solinst, destinado a medir la temperatura y el nivel de agua, es un dispositivo compacto todo en uno que ofrece lecturas estables y precisas de manera continua. Este sensor es versátil y adecuado para diversas aplicaciones.
+Características:
+<ul>
+<li>Sensor de presión, ya sea absoluto o ventilado, diseñado para mediciones de nivel de agua altamente precisas con una exactitud del 0,05 % FS. </li>
+<li>La sonda única es programable para operar con los protocolos MODBUS o SDI-12. Incorpora filtros hidrófobos sin necesidad de desecantes (en la versión ventilada).</li>
+<li>La carcasa, compacta y de diámetro estrecho, facilita instalaciones discretas, mientras que su diseño robusto, con sellos de doble junta tórica, garantiza una protección avanzada contra fugas.</li>
+<li>Con cables resistentes, permite un despliegue confiable de hasta 300 m y presenta una rosca NPTM de 1/4" para conexión a tuberías y conductos.</li>
+
+</ul>
+</p>
+<p align="center"><img src="../../Imagenes/I_E_4/image.png" width="400px" /></p>
+<p align="center">Figura 4: Imagen del sensor de temperatura de nivel de agua</p>
+
+
+<h3>Medidor de nivel de agua por radar
+</h3>
+<p>Objetivo: 
+Medir el nivel de agua en tanques industriales
+</p>
+<p>Descripción:
+Sensor fabricado con material de PTFE, diseñado para su aplicación en diversas situaciones, ya sea en tanques de almacenamiento básicos, en entornos corrosivos o agresivos, o en aplicaciones que requieran mediciones de tanques con alta precisión.
+</p>
+<p align="center"><img src="https://c40.hongcdn.com/uploads/2103/24151816257.jpg" width="400px" /></p>
+<p align="center">Figura 5: Modelo del medidor por radar</p>
+
+<h3>Medidor de nivel de agua "HOBO" con datalogger
+</h3>
+<p>Objetivo: 
+Medir los cambios de nivel de agua en acuíferos.
+</p>
+<p>Descripción:
+Este dispositivo se emplea para supervisar cambios en los niveles de agua en diversas zonas, como arroyos, lagos, zonas de marea y aguas subterráneas, abarcando un amplio rango de entornos. Estos medidores suelen colocarse en áreas de aguas tranquilas o en pozos especialmente diseñados para alojar instrumentos de medición de nivel de agua.
+Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 mediciones combinadas de ambos parámetros
+</p>
+<p align="center"><img src="https://agromatic.com.pe/panel/files/producto/20190930155509Sin%20t%C3%ADtulo%20500x500.jpg" width="400px" /></p>
+<p align="center">Figura 6: Medidor de nivel de agua "HOBO" con datalogger</p>
+<h2>¿QUÉ NOS DIFERENCIA?</h2>
+<p>A diferencia de otros dispositivos que se encuentran en el mercado, nuestro sensor no solo va a medir los niveles de agua de la laguna Palcacocha sino también tendrá un sistema de alerta para la comunidad de Huaraz. Asimismo, nuestro sensor tiene como objetivo ayudar a la población de Huaraz dando fácil acceso a los datos de nivel de agua de la laguna que no son proporcionados por ningún otro sensor. Por ello, se evitará las consecuencias significativas ocasionadas por inundaciones protegiendo así a la población de Huaraz en los próximos años</p>
+
+
+
 <h2>Bibliografia</h2>
 <ul>
 <li>Zheng, Q., & Li, Z. (2017). Wireless temperature and humidity sensor and system, and measurement method (Patent Núm. 9835501). En US Patent (Núm. 9835501).</li>
 <li>Huaman et.al.(2021). DISPOSITIVO ELECTRÓNICO PORTÁTIL PARA MONITOREAR VARIABLES MEDIOAMBIENTALES (Patent Núm.344435440). En PE Patent (Núm.344435440).</li>
 <li>한택진 (2018). Método y sistema para [Título de la patente] (Patente No. KR101849730B1). Oficina de Patentes de Corea del Sur.</li>
 </ul>
+
+
+
+
+
+
 <br>
 <br>
 <br>

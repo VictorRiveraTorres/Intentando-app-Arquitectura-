@@ -73,8 +73,6 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 <h2 id="ODS">¿Cúal es nuestro ODS?</h2>
 <img src="https://pactoglobal-ecuador.org/wp-content/uploads/2020/09/banner-ods13.jpg" alt ="ODS_13">
 <p>Una plataforma para combatir al cambio climático – Cierre de mesa del ODS 13 (Pacto Global 2020)</p>
-<br>
-
 
 <p>Se basa en la integración climática de políticas y estrategias nacionales. Según (Valencia, M. F., Le Coq, entre otros, 2019, p.5). “Es esencial integrar acciones climáticas en todas las esferas de la toma de decisiones gubernamentales para lograr una sostenibilidad a largo plazo”. Esto implica la necesidad de políticas que promuevan la eficiencia energética, el uso de fuentes renovables y la reducción de la dependencia de los combustibles fósiles.</p>
 
