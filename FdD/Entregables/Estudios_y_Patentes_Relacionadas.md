@@ -3,7 +3,7 @@
 
 
 
-
+<p align="center"><img src="../../Imagenes/I_E_4/funcionales.jpg" width="600px" /></p>
 
 <h2>Patentes</h2>
 <h3>1. (US9835501) Sensor y sistema inalámbrico de temperatura y humedad, y método de medición. (invención)</h3>
