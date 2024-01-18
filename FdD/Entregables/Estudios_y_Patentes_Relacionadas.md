@@ -34,5 +34,9 @@
 <li>Huaman et.al.(2021). DISPOSITIVO ELECTRÓNICO PORTÁTIL PARA MONITOREAR VARIABLES MEDIOAMBIENTALES (Patent Núm.344435440). En PE Patent (Núm.344435440).</li>
 <li>한택진 (2018). Método y sistema para [Título de la patente] (Patente No. KR101849730B1). Oficina de Patentes de Corea del Sur.</li>
 </ul>
-
+<br>
+<br>
+<br>
+<hr>
+<a href="README.md">Enlace al README de Entregables</a>
 

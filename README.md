@@ -1,7 +1,7 @@
 <h1> Resiliencia Climática </h1>
 <h2>“Hacia un Futuro Sostenible”</h2>
 <p>Bienvenidos al repositorio del grupo 3 del curso:<a href="FdD/README.md">"Fundamentos de Diseño"</a>(Enlace a carpeta FdD), nuestro equipo de trabajo presentará toda la documentación e información en este espacio cooperativo para así cumplir con el objetivo de nuestro proyecto.</p>
-<img src="https://www.ana.gob.pe/sites/default/files/styles/nodo_desarrollado760/public/noticia/images/ANA%201_1.jpg?itok=zvLWOpOB"  alt=glaciar>
+<p align="center"><img src="https://www.ana.gob.pe/sites/default/files/styles/nodo_desarrollado760/public/noticia/images/ANA%201_1.jpg?itok=zvLWOpOB"  alt=glaciar/></p>
 Perú perdió el 51% de sus glaciares debido al cambio climático (Autoridad Nacional del Agua 2020)
 <br>
 
@@ -23,18 +23,43 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 
 <h2 id="somos">¿Quiénes somos?</h2>
 
-### Integrantes:
-1. Mirella Solange Bendezu Guerra (mirella.bendezu@upch.pe)
-2. Jose Nilson Cueva Ramos (jose.cueva@upch.pe)
-3. Meyli Flores Huaman(meyli.flores@upch.pe)
-4. Iory Estefani Huarca Astete (iory.huarca@upch.pe)
-5. Romina Perez Amado (romina.perez@upch.pe)
-### Roles:
-- Coordinador General e Investigacion (Perez, Romina)  
-- Coordinador de Software y Manufactura (Cueva, Jose)
-- Coordinador de Diseño y Bocetos (Huarca, Iory)
-- Coordinador de Modelado 3D (Flores, Meyli)
-- Coordinador de Comunicación Visual e Interactividad (Bendezu, Mirella)
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Correo</th>
+            <th>Rol</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mirella Solange Bendezu Guerra</td>
+            <td>mirella.bendezu@upch.pe</td>
+            <td>Coordinador de Comunicación Visual e Interactividad</td>
+        </tr>
+        <tr>
+            <td>Jose Nilson Cueva Ramos</td>
+            <td>jose.cueva@upch.pe</td>
+            <td>Coordinador de Software y Manufactura</td>
+        </tr>
+        <tr>
+            <td>Meyli Flores Huaman</td>
+            <td>meyli.flores@upch.pe</td>
+            <td>Coordinador de Modelado 3D</td>
+        </tr>
+        <tr>
+            <td>Iory Estefani Huarca Astete</td>
+            <td>iory.huarca@upch.pe</td>
+            <td>Coordinador de Diseño y Bocetos</td>
+        </tr>
+        <tr>
+            <td>Romina Perez Amado</td>
+            <td>romina.perez@upch.pe</td>
+            <td>Coordinador General e Investigacion</td>
+        </tr>
+    </tbody>
+</table>
+
 
 <img src ="Imagenes/I_Readme_Original/IMG_1.jpg" width=300px alt="foto grupal">
 <p>Para mas informacion sobre los roles y participantes click <a href="FdD/Entregables/Sobre_nosotros.md">aqui</a></p>
