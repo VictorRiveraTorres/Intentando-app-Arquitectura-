@@ -1,7 +1,7 @@
 <h1>Definicion del Problema y Usuario</h1>
 <h2>Problematica: Riesgo inminente por un desastre natural ante el desbordamiento de la laguna Palcacoha por el derretimiento del nevado Palcaraju</h2>
 <p align="center"><img src="../../Imagenes/I_E_2/Glaciar_Palcaraju.jpg" width="600px" /></p>
-<p align="center">FIGURA 1: Deutsche Welle. (2021). El cambio climático derrite el glaciar peruano de Palcaraju – DW – 04/02/2021</p>
+<p align="center"><b>FIGURA 1:</b> Deutsche Welle. (2021). El cambio climático derrite el glaciar peruano de Palcaraju – DW – 04/02/2021</p>
 
 ### 1. Identificacion del Problema
 El rápido derretimiento del glaciar Palcaraju ha aumentado el riesgo de inundaciones repentinas en la ciudad de Huaraz y comunidades circundantes, debido al peligro de desbordamiento de la Laguna Palcacocha.
@@ -33,6 +33,17 @@ A pesar de la clara conexión entre el cambio climático, el retroceso del glaci
 ### Vulnerabilidad de las Comunidades:
 La proximidad de las comunidades a la laguna Palcacocha aumenta su vulnerabilidad. La falta de sistemas de alerta temprana efectivos y medidas de mitigación adecuadas expone a estas poblaciones a un peligro inminente, donde un desbordamiento repentino puede tener consecuencias devastadoras para la vida, la propiedad y el bienestar de las personas (Sierra, 2019).
  
+## Datos metereologicos:
+La laguna Palcacocha, situada a una altitud de 4,562 metros en la Cordillera Blanca, ha experimentado notables cambios en su carga a lo largo del tiempo. Según estudios batimétricos realizados en 1972, 2009 y 2016, se revela un drástico aumento en su volumen, pasando de 514,800 m³ a 17,325,207 m³ y luego a 17,403,353 m³, respectivamente. Este incremento no solo se manifiesta en la carga total, sino también en otros aspectos fundamentales de la laguna. Su superficie de espejo de agua ha experimentado un crecimiento significativo, aumentando de 62,600 m² en 1972 a 518,426 m² en 2009 y manteniéndose en 514,157 m² en 2016. Estos cambios reflejan el dinámico proceso de desarrollo de la laguna, destacando su evolución en términos de volumen y superficie a lo largo de las décadas (Del Agua Dirección De Conservación Y Planeamiento De Recursos Hídricos Unidad De Glaciología Y Recursos Hídricos, 2016).
+
+<p align="center"><img src="../../Imagenes/I_E_2/tabla_2.png" width="600px" /></p>
+<p align="center"><b>Tabla de datos 1:</b> </p>
+<p align="center">Fuente: UGRH - Batimetría de La Laguna Palcacocha </p>
+<p align="center"><img src="../../Imagenes/I_E_2/tabla_1.png" width="600px" /></p>
+<p align="center"><b>Tabla de datos 2:</b></p>
+<p align="center">Fuente: UGRH - Batimetría de La Laguna Palcacocha </p>
+
+
 ## Parámetros metereologicos
 
 <ul>
@@ -67,6 +78,7 @@ Comunidad de Huaraz
 <h2>Bibliografia</h2>
 <ul>
   <li>Autoridad Nacional del Agua [ANA]. (4 de julio de 2020). Perú perdió el 51% de sus glaciares debido al cambio climático.</li>
+  <li>Del Agua Dirección De Conservación Y Planeamiento De Recursos Hídricos Unidad De Glaciología Y Recursos Hídricos, A. N. (2016, 1 febrero). Batimetría de la Laguna Palcacocha</li>
   <li>Ferro, V. (2009). La evaluación del riesgo de desastre en la planificación del desarrollo de la ciudad de Huaraz, Áncash. ANÁLISIS DEL RIESGO, 145.</li>
   <li>Gonzales Lizarme, G. (2022). Simulación de la amenaza de avalancha y su riesgo físico sobre la laguna Palcacocha en la microcuenca Paria, Huaraz, 2016-2017.</li>
   <li>Moreno, C., Aquino, R., Ibarreche, J., Pérez, I., Castellanos, E., Álvarez, E., Rentería, R., Anguiano, L., Edwards, A., Lepper, P., Edwards, R. M., & Clark, B. (2019). RiverCore: IoT device for river water level monitoring over cellular communications. Sensors (Basel, Switzerland), 19(1), 127.</li>
