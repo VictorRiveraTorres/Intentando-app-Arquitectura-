@@ -46,7 +46,7 @@
 Medir la profundidad del agua en tuberías, pozos y perforaciones.
 </p>
 <p>Descripción:
-Contiene una sonda de acero inoxidable equipada con una cinta graduada flexible, enrollada en un carrete manual, acompañada de indicadores auditivos y visuales. Es especialmente útil para la medición precisa de la profundidad del agua en tuberías, pozos y perforaciones. El diseño de la cinta impide que esta se adhiera a superficies húmedas, como el revestimiento de un pozo, asegurando así mediciones exactas.
+Contiene una sonda de acero inoxidable equipada con una cinta graduada flexible, enrollada en un carrete manual, acompañada de indicadores auditivos y visuales. Es especialmente útil para la medición precisa de la profundidad del agua en tuberías, pozos y perforaciones. El diseño de la cinta impide que esta se adhiera a superficies húmedas, como el revestimiento de un pozo, asegurando así mediciones exactas(Geoteknik, 2019).
 </p>
 <p align="center"><img src="https://geoteknik.com.pe/wp-content/uploads/Medidor-de-Nivel-de-Agua.jpg" width="400px" /></p>
 <p align="center"><b>FIGURA 3:</b> imagen del medidor de nivel de agua</p>
@@ -63,7 +63,7 @@ Características:
 <li>Sensor de presión, ya sea absoluto o ventilado, diseñado para mediciones de nivel de agua altamente precisas con una exactitud del 0,05 % FS. </li>
 <li>La sonda única es programable para operar con los protocolos MODBUS o SDI-12. Incorpora filtros hidrófobos sin necesidad de desecantes (en la versión ventilada).</li>
 <li>La carcasa, compacta y de diámetro estrecho, facilita instalaciones discretas, mientras que su diseño robusto, con sellos de doble junta tórica, garantiza una protección avanzada contra fugas.</li>
-<li>Con cables resistentes, permite un despliegue confiable de hasta 300 m y presenta una rosca NPTM de 1/4" para conexión a tuberías y conductos.</li>
+<li>Con cables resistentes, permite un despliegue confiable de hasta 300 m y presenta una rosca NPTM de 1/4" para conexión a tuberías y conductos(Com.pe, s. f).</li>
 
 </ul>
 </p>
@@ -77,7 +77,7 @@ Características:
 Medir el nivel de agua en tanques industriales
 </p>
 <p>Descripción:
-Sensor fabricado con material de PTFE, diseñado para su aplicación en diversas situaciones, ya sea en tanques de almacenamiento básicos, en entornos corrosivos o agresivos, o en aplicaciones que requieran mediciones de tanques con alta precisión.
+Sensor fabricado con material de PTFE, diseñado para su aplicación en diversas situaciones, ya sea en tanques de almacenamiento básicos, en entornos corrosivos o agresivos, o en aplicaciones que requieran mediciones de tanques con alta precisión (Supmea Automation, s. f.).
 </p>
 <p align="center"><img src="https://c40.hongcdn.com/uploads/2103/24151816257.jpg" width="400px" /></p>
 <p align="center"><b>FIGURA 5:</b> Modelo del medidor por radar</p>
@@ -89,7 +89,7 @@ Medir los cambios de nivel de agua en acuíferos.
 </p>
 <p>Descripción:
 Este dispositivo se emplea para supervisar cambios en los niveles de agua en diversas zonas, como arroyos, lagos, zonas de marea y aguas subterráneas, abarcando un amplio rango de entornos. Estos medidores suelen colocarse en áreas de aguas tranquilas o en pozos especialmente diseñados para alojar instrumentos de medición de nivel de agua.
-Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 mediciones combinadas de ambos parámetros
+Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 mediciones combinadas de ambos parámetros(Agromatic, s. f.).
 </p>
 <p align="center"><img src="https://agromatic.com.pe/panel/files/producto/20190930155509Sin%20t%C3%ADtulo%20500x500.jpg" width="400px" /></p>
 <p align="center"><b>FIGURA 6:</b> Medidor de nivel de agua "HOBO" con datalogger</p>
@@ -112,6 +112,10 @@ Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 medicione
 <li>Adam Emmer, Stephan Harrison, Martin Mergili, Simon Allen, Holger Frey, Christian Huggel,
 70 years of lake evolution and glacial lake outburst floods in the Cordillera Blanca (Peru) and implications for the future,Geomorphology,Volume 365,2020,107178,ISSN 0169-555X
 </li>
+<li>Medidor de Nivel de Agua. (2019, enero 25). Geoteknik; Geoteknik S.A.C.</li>
+<li>Medidor de nivel por radar SUP-RD902T 26 GHz. (s/f). Supmea Automation Co.,Ltd.</li>
+<li>Sensor de temperatura del nivel del agua 301. (s/f). Com.pe.</li>
+<li>Somos la mejor empresa en la comercialización de herramientas metereologicas. (s/f). agromatic.com.pe.</li>
 </ul>
 
 
