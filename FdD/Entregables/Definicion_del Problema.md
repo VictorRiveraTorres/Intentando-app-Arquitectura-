@@ -35,12 +35,13 @@ La proximidad de las comunidades a la laguna Palcacocha aumenta su vulnerabilida
  
 ## Datos metereologicos:
 La laguna Palcacocha, situada a una altitud de 4,562 metros en la Cordillera Blanca, ha experimentado notables cambios en su carga a lo largo del tiempo. Según estudios batimétricos realizados en 1972, 2009 y 2016, se revela un drástico aumento en su volumen, pasando de 514,800 m³ a 17,325,207 m³ y luego a 17,403,353 m³, respectivamente. Este incremento no solo se manifiesta en la carga total, sino también en otros aspectos fundamentales de la laguna. Su superficie de espejo de agua ha experimentado un crecimiento significativo, aumentando de 62,600 m² en 1972 a 518,426 m² en 2009 y manteniéndose en 514,157 m² en 2016. Estos cambios reflejan el dinámico proceso de desarrollo de la laguna, destacando su evolución en términos de volumen y superficie a lo largo de las décadas (Del Agua Dirección De Conservación Y Planeamiento De Recursos Hídricos Unidad De Glaciología Y Recursos Hídricos, 2016).
-
-<p align="center"><img src="../../Imagenes/I_E_2/tabla_2.png" width="600px" /></p>
 <p align="center"><b>Tabla de datos 1:</b> </p>
+<p align="center"><img src="../../Imagenes/I_E_2/tabla_2.png" width="600px" /></p>
+
 <p align="center">Fuente: UGRH - Batimetría de La Laguna Palcacocha </p>
-<p align="center"><img src="../../Imagenes/I_E_2/tabla_1.png" width="600px" /></p>
 <p align="center"><b>Tabla de datos 2:</b></p>
+<p align="center"><img src="../../Imagenes/I_E_2/tabla_1.png" width="600px" /></p>
+
 <p align="center">Fuente: UGRH - Batimetría de La Laguna Palcacocha </p>
 
 
