@@ -14,7 +14,7 @@
 
 
 
-
+<h2>LISTA DE REQUERIMIENTOS FUNCIONALES</h2>
 <p align="center"><img src="../../Imagenes/I_E_4/funcionales.jpg" width="600px" /></p>
 
 <h2>PATENTES</h2>
