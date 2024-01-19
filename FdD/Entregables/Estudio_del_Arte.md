@@ -21,7 +21,7 @@
 
 
 <p align="center"><img src="https://patentimages.storage.googleapis.com/b4/e9/7b/64837a3c26c785/US09835501-20171205-D00000.png" width="600px" /></p>
-<p align="center"><b>FIGURA 1:</b></p>
+<p align="center"><b>FIGURA 1</b></p>
 
 <h3>2.1.2. (KR101849730) Mediciones meteorológicas locales basadas en el sistema y método de monitoreo de inundaciones fluviales. (invención)</h3>
 
@@ -32,6 +32,8 @@
 
 <h3>2.1.3. (PE 2021-2206)  DISPOSITIVO ELECTRÓNICO PORTÁTIL PARA MONITOREAR VARIABLES MEDIOAMBIENTALES (utilidad)</h3>
 <p>El sistema propuesto consta de dos partes: el sistema de adquisición de datos, que incluye sensores de temperatura ambiental, humedad/temperatura del suelo, pH del agua de riego, y un reloj en tiempo real; y el sistema de transmisión y almacenamiento de datos. Cada sistema tiene un microcontrolador. El primero permite la configuración de parámetros a través de una entrada de comunicación serial/USB. El segundo posibilita a los usuarios acceder a la información de los sensores mediante módulos de comunicación inalámbrica desde dispositivos móviles o portátiles. También cuenta con un módulo de almacenamiento de datos. Un dispositivo móvil o portátil contiene una aplicación que visualiza y monitorea los datos del sensor, además de identificar enfermedades en las plantas a través de imágenes capturadas por su cámara.(Huaman ,2021)</p>
+<p align="center"><img src="../../Imagenes/I_E_4/213.png" width="400px" /></p>
+<p align="center"><b>FIGURA 4:</b> Modulo de monitoreo de inundaciones cerca de un rio</p>
 
 
 
