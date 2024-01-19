@@ -33,6 +33,19 @@ A pesar de la clara conexión entre el cambio climático, el retroceso del glaci
 ### Vulnerabilidad de las Comunidades:
 La proximidad de las comunidades a la laguna Palcacocha aumenta su vulnerabilidad. La falta de sistemas de alerta temprana efectivos y medidas de mitigación adecuadas expone a estas poblaciones a un peligro inminente, donde un desbordamiento repentino puede tener consecuencias devastadoras para la vida, la propiedad y el bienestar de las personas (Sierra, 2019).
  
+## Parámetros metereologicos
+
+<ul>
+<li><b>Temperatura:</b>La temperatura del aire y del agua puede afectar la cantidad de precipitación y la rapidez con la que se derrite el glaciar Palcaraju, lo que influye directamente en la Laguna Palcacocha. Ademas las altas temperaturas pueden acelerar el deshielo de glaciares y la fusión del glaciar, aumentando el riesgo de inundaciones.</li>
+<li><b>Humedad:</b>La humedad atmosférica influye en la formación de nubes y la intensidad de las precipitaciones. Altos niveles de humedad pueden indicar condiciones propicias para lluvias intensas.</li>
+<li><b>Nivel de Agua:</b>Monitorear el nivel de la Laguna Palcacocha, es esencial para detectar aumentos repentinos que podrían indicar riesgo de desbordamiento. Ya que estos niveles de agua altos pueden ser causados por precipitaciones intensas o deshielo rápido.</li>
+</ul>
+
+## ¿Por qué estos parametros?
+Seleccionar parámetros cómo temperatura, humedad y nivel de agua es crucial para prevenir desastres naturales  originados  por inundaciones de lagunas. 
+Estos parámetros proporcionan información valiosa sobre las condiciones atmosféricas y el comportamiento de la Laguna Palcacocha, lo que puede ayudar en la identificación temprana de situaciones de riesgo y en la implementación de medidas preventivas.
+
+
 ### Conclusiones Urgentes:
 La combinación de factores como el cambio climático acelerado, el derretimiento repentino del glaciar Palcaraju y la falta de evaluación específica crea una situación de emergencia. Se requieren acciones inmediatas para comprender y abordar la amenaza que representa el desbordamiento de la laguna Palcacocha para las comunidades circundantes, protegiendo así vidas.
 ## Usuario
