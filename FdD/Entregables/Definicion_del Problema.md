@@ -36,9 +36,9 @@ La proximidad de las comunidades a la laguna Palcacocha aumenta su vulnerabilida
 ## Parámetros metereologicos
 
 <ul>
-<li><b>Temperatura:</b>La temperatura del aire y del agua puede afectar la cantidad de precipitación y la rapidez con la que se derrite el glaciar Palcaraju, lo que influye directamente en la Laguna Palcacocha. Ademas las altas temperaturas pueden acelerar el deshielo de glaciares y la fusión del glaciar, aumentando el riesgo de inundaciones.</li>
-<li><b>Humedad:</b>La humedad atmosférica influye en la formación de nubes y la intensidad de las precipitaciones. Altos niveles de humedad pueden indicar condiciones propicias para lluvias intensas.</li>
-<li><b>Nivel de Agua:</b>Monitorear el nivel de la Laguna Palcacocha, es esencial para detectar aumentos repentinos que podrían indicar riesgo de desbordamiento. Ya que estos niveles de agua altos pueden ser causados por precipitaciones intensas o deshielo rápido.</li>
+<li><b>Temperatura: </b>La temperatura del aire y del agua puede afectar la cantidad de precipitación y la rapidez con la que se derrite el glaciar Palcaraju, lo que influye directamente en la Laguna Palcacocha. Ademas las altas temperaturas pueden acelerar el deshielo de glaciares y la fusión del glaciar, aumentando el riesgo de inundaciones.</li>
+<li><b>Humedad: </b>La humedad atmosférica influye en la formación de nubes y la intensidad de las precipitaciones. Altos niveles de humedad pueden indicar condiciones propicias para lluvias intensas.</li>
+<li><b>Nivel de Agua: </b>Monitorear el nivel de la Laguna Palcacocha, es esencial para detectar aumentos repentinos que podrían indicar riesgo de desbordamiento. Ya que estos niveles de agua altos pueden ser causados por precipitaciones intensas o deshielo rápido.</li>
 </ul>
 
 ## ¿Por qué estos parametros?
