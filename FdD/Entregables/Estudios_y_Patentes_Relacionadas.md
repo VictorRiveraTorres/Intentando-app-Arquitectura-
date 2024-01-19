@@ -1,7 +1,7 @@
 <h1>Estudios y patentes relacionadas</h1>
 <h2>CONTEXTO CIENTIFICO</h2>
 <h4>Articulo 1</h4>
-<h3><b>"A global assessment of the societal impacts of glacier outburst floods"<b></h3>
+<h3 align="center"><b>"A global assessment of the societal impacts of glacier outburst floods"</b></h3>
 <p>Este artículo es una investigación que muestra cuáles son los impactos  que tienen las inundaciones por desbordamiento de glaciares en la sociedad, donde cualitativamente se comparan datos de 20 países, concluyendo que de 1348 inundaciones de glaciares, el 24% tuvo un impacto social (muertes, pérdida de infraestructura, pérdidas económicas perturbación de las comunidades aledañas). Por lo que existe una relación directa con factores ambientales como el incremento de la temperatura y la actividad volcánica que puede existir en estas zonas y la falta de una cultura de prevención para evitar estos desastres.</p>
 <p>América del Sur es una de las regiones más vulnerables en el planeta, donde al menos hubieron 5745 muertes,  es preciso aclarar que el 88% de las muertes son atribuibles al evento sucedido en huaraz (1941).Por otro lado este estudio también muestra las pérdidas intangibles, que sufre la sociedad luego de pasar por un fenómeno de este tipo. Destacando que la salud mental es la más afectada, puesto que las pérdidas primarias y secundarias de bienes son muy fuertes.</p>
 <h3>"Modeling a glacial lake outburst flood process chain: The case of Lake Palcacocha and Huaraz, Peru"</h3>
