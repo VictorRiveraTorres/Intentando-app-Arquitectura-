@@ -13,10 +13,7 @@
 <p>Cabe resaltar que en 1948, el 71% de la superficie total favorable para el desarrollo de los lagos en la región estaba ocupada por lagos, y en 2018 aumentó hasta el 90%. Por lo tanto, sigue siendo posible una nueva expansión de la superficie total de los lagos de alrededor del 10% hasta finales del siglo XXI. , a medida que los glaciares en retroceso descubren depresiones en la topografía del lecho del glaciar, lo que permite que los lagos existentes se expandan y surjan nuevos lagos.</p>
 
 
-
-<h2>LISTA DE REQUERIMIENTOS FUNCIONALES</h2>
-<p align="center"><img src="../../Imagenes/I_E_4/funcionales.jpg" width="600px" /></p>
-
+<h1>CONTEXTO COMERCIAL</h1>
 <h2>PATENTES</h2>
 <h3>1. (US9835501) Sensor y sistema inalámbrico de temperatura y humedad, y método de medición. (invención)</h3>
 
@@ -96,7 +93,8 @@ Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 medicione
 <p align="center"><b>FIGURA 6:</b> Medidor de nivel de agua "HOBO" con datalogger</p>
 <h2>¿QUÉ NOS DIFERENCIA?</h2>
 <p>A diferencia de otros dispositivos que se encuentran en el mercado, nuestro sensor no solo va a medir los niveles de agua de la laguna Palcacocha sino también tendrá un sistema de alerta para la comunidad de Huaraz. Asimismo, nuestro sensor tiene como objetivo ayudar a la población de Huaraz dando fácil acceso a los datos de nivel de agua de la laguna que no son proporcionados por ningún otro sensor. Por ello, se evitará las consecuencias significativas ocasionadas por inundaciones protegiendo así a la población de Huaraz en los próximos años</p>
-
+<h2>LISTA DE REQUERIMIENTOS FUNCIONALES</h2>
+<p align="center"><img src="../../Imagenes/I_E_4/funcionales.jpg" width="600px" /></p>
 
 
 <h2>Bibliografia</h2>
