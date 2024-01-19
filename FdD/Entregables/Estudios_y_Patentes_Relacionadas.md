@@ -1,5 +1,5 @@
-<h1>Estudios y patentes relacionadas</h1>
-<h2>CONTEXTO CIENTIFICO</h2>
+<h1>ESTADO DEL ARTE</h1>
+<h2>1.CONTEXTO CIENTIFICO</h2>
 <h4><b>Articulo 1</b></h4>
 <h3 align="center"><b>"A global assessment of the societal impacts of glacier outburst floods"</b></h3>
 <p>Este artículo es una investigación que muestra cuáles son los impactos  que tienen las inundaciones por desbordamiento de glaciares en la sociedad, donde cualitativamente se comparan datos de 20 países, concluyendo que de 1348 inundaciones de glaciares, el 24% tuvo un impacto social (muertes, pérdida de infraestructura, pérdidas económicas perturbación de las comunidades aledañas). Por lo que existe una relación directa con factores ambientales como el incremento de la temperatura y la actividad volcánica que puede existir en estas zonas y la falta de una cultura de prevención para evitar estos desastres.</p>
@@ -13,9 +13,9 @@
 <p>Cabe resaltar que en 1948, el 71% de la superficie total favorable para el desarrollo de los lagos en la región estaba ocupada por lagos, y en 2018 aumentó hasta el 90%. Por lo tanto, sigue siendo posible una nueva expansión de la superficie total de los lagos de alrededor del 10% hasta finales del siglo XXI. , a medida que los glaciares en retroceso descubren depresiones en la topografía del lecho del glaciar, lo que permite que los lagos existentes se expandan y surjan nuevos lagos.</p>
 
 
-<h1>CONTEXTO COMERCIAL</h1>
-<h2>PATENTES</h2>
-<h3>1. (US9835501) Sensor y sistema inalámbrico de temperatura y humedad, y método de medición. (invención)</h3>
+<h1>2.CONTEXTO COMERCIAL</h1>
+<h2>2.1PATENTES</h2>
+<h3>2.1.1. (US9835501) Sensor y sistema inalámbrico de temperatura y humedad, y método de medición. (invención)</h3>
 
 <p>La invención describe un sensor inalámbrico de temperatura y humedad que utiliza resonadores de ondas acústicas de superficie alimentados por una red de alimentación a través de una antena. Este sensor tiene un resonador de referencia y resonadores de medición, y la diferencia de frecuencia resonante entre ellos se emplea para modular la medición de temperatura y/o humedad. El sistema resultante puede controlar tanto la temperatura como la humedad simultáneamente, o seleccionar el control de una de ellas de manera individual. Además, la modulación diferencial ayuda a mitigar la deriva de frecuencia causada por el envejecimiento del material del sensor y el conector, mejorando así la estabilidad a largo plazo de la medición y eliminando la necesidad de recalibración.  Abordando un sensor inalámbrico específicamente diseñado para medir temperatura y humedad, empleando resonadores de ondas acústicas de superficie. Un sensor de onda acústica de superficie (SAW) es un dispositivo en el cual la SAW sirve como un portador de información sensible al entorno. Este tipo de sensor destaca por su alta precisión, respuesta rápida y tamaño compacto, entre otras propiedades. (Zheng, Q., & Li, Z. , 2017)</p>
 
@@ -23,22 +23,22 @@
 <p align="center"><img src="https://patentimages.storage.googleapis.com/b4/e9/7b/64837a3c26c785/US09835501-20171205-D00000.png" width="600px" /></p>
 <p align="center"><b>FIGURA 1:</b></p>
 
-<h3>2. (KR101849730) Mediciones meteorológicas locales basadas en el sistema y método de monitoreo de inundaciones fluviales. (invención)</h3>
+<h3>2.1.2. (KR101849730) Mediciones meteorológicas locales basadas en el sistema y método de monitoreo de inundaciones fluviales. (invención)</h3>
 
 <p>La presente invención se trata de un sistema para monitorear inundaciones en ríos basado en mediciones meteorológicas locales. El sistema predice la probabilidad de inundación en un río con estacionamiento cercano, proporcionando esta información al usuario del estacionamiento y a un centro de control de televisión por cable integrado (CCTV). Incluye un módulo de medición del nivel del agua del río, un módulo de monitoreo de inundaciones, un módulo de gestión de estacionamiento con reconocimiento de matrículas y un indicador de señal para indicar la imposibilidad de entrada según la probabilidad de inundación. Además, cuenta con un módulo de alarma para transmitir la señal de riesgo de inundación a usuarios, centros de desastres y organizaciones relacionadas.(한택진 ,2018)</p>
 
 <p align="center"><img src="https://patentimages.storage.googleapis.com/4a/19/5c/704b05c47d12d6/112017064327587-pat00043.png" width="400px" /></p>
 <p align="center"><b>FIGURA 2:</b> Modulo de monitoreo de inundaciones cerca de un rio</p>
 
-<h3>3. (PE 2021-2206)  DISPOSITIVO ELECTRÓNICO PORTÁTIL PARA MONITOREAR VARIABLES MEDIOAMBIENTALES (utilidad)</h3>
+<h3>2.1.3. (PE 2021-2206)  DISPOSITIVO ELECTRÓNICO PORTÁTIL PARA MONITOREAR VARIABLES MEDIOAMBIENTALES (utilidad)</h3>
 <p>El sistema propuesto consta de dos partes: el sistema de adquisición de datos, que incluye sensores de temperatura ambiental, humedad/temperatura del suelo, pH del agua de riego, y un reloj en tiempo real; y el sistema de transmisión y almacenamiento de datos. Cada sistema tiene un microcontrolador. El primero permite la configuración de parámetros a través de una entrada de comunicación serial/USB. El segundo posibilita a los usuarios acceder a la información de los sensores mediante módulos de comunicación inalámbrica desde dispositivos móviles o portátiles. También cuenta con un módulo de almacenamiento de datos. Un dispositivo móvil o portátil contiene una aplicación que visualiza y monitorea los datos del sensor, además de identificar enfermedades en las plantas a través de imágenes capturadas por su cámara.(Huaman ,2021)</p>
 
 
 
-<h3>4. (MX2018010814) SISTEMA DE CONTROL DE INUNDACIONES. (utilidad)</h3>
+<h3>2.1.4. (MX2018010814) SISTEMA DE CONTROL DE INUNDACIONES. (utilidad)</h3>
 <p>Un sistema de control de inundaciones que está configurado para desplegarse para controlar las aguas de inundación en el que el sistema de control de inundaciones se proporciona en configuraciones de múltiples compartimientos de receptáculos modulares. El sistema de control de inundaciones incluye una pluralidad de receptáculos modulares que tienen cuatro paredes en las que las cuatro paredes están acopladas de forma móvil para hacer una transición intermedia entre una posición plegada y una posición desplegada. Las paredes del sistema de control de inundaciones incluyen una pluralidad de aberturas y estructuras de esquina que tienen forma helicoide de bobina. Se proporciona un pasador de bloqueo para ser acoplado operativamente a los receptáculos modulares intermedios para proporcionar una conexión mecánica entre ellos. Un revestimiento está dispuesto dentro del volumen interior de los receptáculos modulares y tiene una forma acoplable con el mismo. El revestimiento incluye una realización abierta o cerrada y está configurado para recibir ruido en el mismo.(Burkett , 2021)</p>
-<h2>EQUIPOS Y DISPOSITIVOS EXISTENTES EN EL MERCADO</h2>
-<h3>Medidor de nivel de agua
+<h2>2.2 EQUIPOS Y DISPOSITIVOS EXISTENTES EN EL MERCADO</h2>
+<h3>2.2.1Medidor de nivel de agua
 </h3>
 <p>Objetivo: 
 Medir la profundidad del agua en tuberías, pozos y perforaciones.
@@ -49,7 +49,7 @@ Contiene una sonda de acero inoxidable equipada con una cinta graduada flexible,
 <p align="center"><img src="https://geoteknik.com.pe/wp-content/uploads/Medidor-de-Nivel-de-Agua.jpg" width="400px" /></p>
 <p align="center"><b>FIGURA 3:</b> imagen del medidor de nivel de agua</p>
 
-<h3>Sensor De Temperatura Del Nivel Del Agua
+<h3>2.2.2 Sensor De Temperatura Del Nivel Del Agua
 </h3>
 <p>Objetivo: 
 Medir la temperatura y nivel del agua
@@ -69,7 +69,7 @@ Características:
 <p align="center"><b>FIGURA 4:</b> Imagen del sensor de temperatura de nivel de agua</p>
 
 
-<h3>Medidor de nivel de agua por radar
+<h3>2.2.3 Medidor de nivel de agua por radar
 </h3>
 <p>Objetivo: 
 Medir el nivel de agua en tanques industriales
@@ -80,7 +80,7 @@ Sensor fabricado con material de PTFE, diseñado para su aplicación en diversas
 <p align="center"><img src="https://c40.hongcdn.com/uploads/2103/24151816257.jpg" width="400px" /></p>
 <p align="center"><b>FIGURA 5:</b> Modelo del medidor por radar</p>
 
-<h3>Medidor de nivel de agua "HOBO" con datalogger
+<h3>2.2.4 Medidor de nivel de agua "HOBO" con datalogger
 </h3>
 <p>Objetivo: 
 Medir los cambios de nivel de agua en acuíferos.
@@ -93,7 +93,7 @@ Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 medicione
 <p align="center"><b>FIGURA 6:</b> Medidor de nivel de agua "HOBO" con datalogger</p>
 <h2>¿QUÉ NOS DIFERENCIA?</h2>
 <p>A diferencia de otros dispositivos que se encuentran en el mercado, nuestro sensor no solo va a medir los niveles de agua de la laguna Palcacocha sino también tendrá un sistema de alerta para la comunidad de Huaraz. Asimismo, nuestro sensor tiene como objetivo ayudar a la población de Huaraz dando fácil acceso a los datos de nivel de agua de la laguna que no son proporcionados por ningún otro sensor. Por ello, se evitará las consecuencias significativas ocasionadas por inundaciones protegiendo así a la población de Huaraz en los próximos años</p>
-<h2>LISTA DE REQUERIMIENTOS FUNCIONALES</h2>
+<h2>4. LISTA DE REQUERIMIENTOS FUNCIONALES</h2>
 <p align="center"><img src="../../Imagenes/I_E_4/funcionales.jpg" /></p>
 
 
