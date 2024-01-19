@@ -1,5 +1,5 @@
 <h1>Definicion del Problema y Usuario</h1>
-<h2>Problematica : Riesgo Inminente para las Comunidades ante el Desbordamiento de la Laguna Palcacocha debido al Derretimiento Súbito del Glaciar Palcaraju</h2>
+<h2><b>Problematica :</b> Riesgo inminente por un desastre natural ante el desbordamiento de la laguna Palcacoha por el …. Del nevado Palcaraju</h2>
 <p align="center"><img src="../../Imagenes/I_E_2/Glaciar_Palcaraju.jpg" width="600px" /></p>
 <p align="center">FIGURA 1: Deutsche Welle. (2021). El cambio climático derrite el glaciar peruano de Palcaraju – DW – 04/02/2021</p>
 
