@@ -93,13 +93,13 @@ Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 medicione
 <p align="center"><b>FIGURA 6:</b> Medidor de nivel de agua "HOBO" con datalogger</p>
 <h2>¿QUÉ NOS DIFERENCIA?</h2>
 <p>A diferencia de otros dispositivos que se encuentran en el mercado, nuestro sensor no solo va a medir los niveles de agua de la laguna Palcacocha sino también tendrá un sistema de alerta para la comunidad de Huaraz. Asimismo, nuestro sensor tiene como objetivo ayudar a la población de Huaraz dando fácil acceso a los datos de nivel de agua de la laguna que no son proporcionados por ningún otro sensor. Por ello, se evitará las consecuencias significativas ocasionadas por inundaciones protegiendo así a la población de Huaraz en los próximos años</p>
-<h2>4. LISTA DE REQUERIMIENTOS FUNCIONALES</h2>
+<h2>3. LISTA DE REQUERIMIENTOS FUNCIONALES</h2>
 <p align="center"><img src="../../Imagenes/I_E_4/funcionales.jpg" /></p>
-<h2>5. LISTA DE REQUERIMIENTOS NO FUNCIONALES</h2>
+<h2>4. LISTA DE REQUERIMIENTOS NO FUNCIONALES</h2>
 <p align="center"><img src="../../Imagenes/I_E_4/no_funcionales.png" /></p>
 
 
-<h2>Bibliografia</h2>
+<h2>5. Bibliografia</h2>
 <ul>
 <li>Zheng, Q., & Li, Z. (2017). Wireless temperature and humidity sensor and system, and measurement method (Patent Núm. 9835501). En US Patent (Núm. 9835501).</li>
 <li>Huaman et.al.(2021). DISPOSITIVO ELECTRÓNICO PORTÁTIL PARA MONITOREAR VARIABLES MEDIOAMBIENTALES (Patent Núm.344435440). En PE Patent (Núm.344435440).</li>
