@@ -37,8 +37,7 @@
 
 
 
-<h3>2.1.4. (MX2018010814) SISTEMA DE CONTROL DE INUNDACIONES. (utilidad)</h3>
-<p>Un sistema de control de inundaciones que está configurado para desplegarse para controlar las aguas de inundación en el que el sistema de control de inundaciones se proporciona en configuraciones de múltiples compartimientos de receptáculos modulares. El sistema de control de inundaciones incluye una pluralidad de receptáculos modulares que tienen cuatro paredes en las que las cuatro paredes están acopladas de forma móvil para hacer una transición intermedia entre una posición plegada y una posición desplegada. Las paredes del sistema de control de inundaciones incluyen una pluralidad de aberturas y estructuras de esquina que tienen forma helicoide de bobina. Se proporciona un pasador de bloqueo para ser acoplado operativamente a los receptáculos modulares intermedios para proporcionar una conexión mecánica entre ellos. Un revestimiento está dispuesto dentro del volumen interior de los receptáculos modulares y tiene una forma acoplable con el mismo. El revestimiento incluye una realización abierta o cerrada y está configurado para recibir ruido en el mismo.(Burkett , 2021)</p>
+
 <h2>2.2 EQUIPOS Y DISPOSITIVOS EXISTENTES EN EL MERCADO</h2>
 <h3>2.2.1Medidor de nivel de agua
 </h3>
