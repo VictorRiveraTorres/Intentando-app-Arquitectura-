@@ -33,7 +33,7 @@
 <h3>2.1.3. (PE 2021-2206)  DISPOSITIVO ELECTRÓNICO PORTÁTIL PARA MONITOREAR VARIABLES MEDIOAMBIENTALES (utilidad)</h3>
 <p>El sistema propuesto consta de dos partes: el sistema de adquisición de datos, que incluye sensores de temperatura ambiental, humedad/temperatura del suelo, pH del agua de riego, y un reloj en tiempo real; y el sistema de transmisión y almacenamiento de datos. Cada sistema tiene un microcontrolador. El primero permite la configuración de parámetros a través de una entrada de comunicación serial/USB. El segundo posibilita a los usuarios acceder a la información de los sensores mediante módulos de comunicación inalámbrica desde dispositivos móviles o portátiles. También cuenta con un módulo de almacenamiento de datos. Un dispositivo móvil o portátil contiene una aplicación que visualiza y monitorea los datos del sensor, además de identificar enfermedades en las plantas a través de imágenes capturadas por su cámara.(Huaman et al. ,2021)</p>
 <p align="center"><img src="../../Imagenes/I_E_4/213.png" width="400px" /></p>
-<p align="center"><b>FIGURA 4:</b> Modulo de monitoreo de inundaciones cerca de un rio</p>
+<p align="center"><b>FIGURA 3:</b> Modulo de monitoreo de inundaciones cerca de un rio</p>
 
 
 
@@ -49,7 +49,7 @@ Medir la profundidad del agua en tuberías, pozos y perforaciones.
 Contiene una sonda de acero inoxidable equipada con una cinta graduada flexible, enrollada en un carrete manual, acompañada de indicadores auditivos y visuales. Es especialmente útil para la medición precisa de la profundidad del agua en tuberías, pozos y perforaciones. El diseño de la cinta impide que esta se adhiera a superficies húmedas, como el revestimiento de un pozo, asegurando así mediciones exactas(Geoteknik, 2019).
 </p>
 <p align="center"><img src="https://geoteknik.com.pe/wp-content/uploads/Medidor-de-Nivel-de-Agua.jpg" width="400px" /></p>
-<p align="center"><b>FIGURA 3:</b> imagen del medidor de nivel de agua</p>
+<p align="center"><b>FIGURA 4:</b> imagen del medidor de nivel de agua</p>
 
 <h3>2.2.2 Sensor De Temperatura Del Nivel Del Agua
 </h3>
@@ -68,7 +68,7 @@ Características:
 </ul>
 </p>
 <p align="center"><img src="../../Imagenes/I_E_4/image.png" width="400px" /></p>
-<p align="center"><b>FIGURA 4:</b> Imagen del sensor de temperatura de nivel de agua</p>
+<p align="center"><b>FIGURA 5:</b> Imagen del sensor de temperatura de nivel de agua</p>
 
 
 <h3>2.2.3 Medidor de nivel de agua por radar
@@ -80,7 +80,7 @@ Medir el nivel de agua en tanques industriales
 Sensor fabricado con material de PTFE, diseñado para su aplicación en diversas situaciones, ya sea en tanques de almacenamiento básicos, en entornos corrosivos o agresivos, o en aplicaciones que requieran mediciones de tanques con alta precisión (Supmea Automation, s. f.).
 </p>
 <p align="center"><img src="https://c40.hongcdn.com/uploads/2103/24151816257.jpg" width="400px" /></p>
-<p align="center"><b>FIGURA 5:</b> Modelo del medidor por radar</p>
+<p align="center"><b>FIGURA 6:</b> Modelo del medidor por radar</p>
 
 <h3>2.2.4 Medidor de nivel de agua "HOBO" con datalogger
 </h3>
@@ -92,7 +92,7 @@ Este dispositivo se emplea para supervisar cambios en los niveles de agua en div
 Cuenta con suficiente capacidad de memoria para almacenar hasta 21,700 mediciones combinadas de ambos parámetros(Agromatic, s. f.).
 </p>
 <p align="center"><img src="https://agromatic.com.pe/panel/files/producto/20190930155509Sin%20t%C3%ADtulo%20500x500.jpg" width="400px" /></p>
-<p align="center"><b>FIGURA 6:</b> Medidor de nivel de agua "HOBO" con datalogger</p>
+<p align="center"><b>FIGURA 7:</b> Medidor de nivel de agua "HOBO" con datalogger</p>
 <h2>¿QUÉ NOS DIFERENCIA?</h2>
 <p>A diferencia de otros dispositivos que se encuentran en el mercado, nuestro sensor no solo va a medir los niveles de agua de la laguna Palcacocha sino también tendrá un sistema de alerta para la comunidad de Huaraz. Asimismo, nuestro sensor tiene como objetivo ayudar a la población de Huaraz dando fácil acceso a los datos de nivel de agua de la laguna que no son proporcionados por ningún otro sensor. Por ello, se evitará las consecuencias significativas ocasionadas por inundaciones protegiendo así a la población de Huaraz en los próximos años</p>
 <h2>3. LISTA DE REQUERIMIENTOS FUNCIONALES</h2>
