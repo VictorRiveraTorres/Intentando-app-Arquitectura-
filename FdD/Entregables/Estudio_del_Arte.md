@@ -1,7 +1,7 @@
 <h1>ESTADO DEL ARTE</h1>
 <h2>1.CONTEXTO CIENTIFICO</h2>
 <h4><b>Articulo 1</b></h4>
-<h3 align="center"><b>"The European flood alert system ĝ€" part 1: Concept and development"</b></h3>
+<h3 align="center"><b>"The European flood alert system" part 1: Concept and development"</b></h3>
 <p>El estudio describe el desarrollo del Sistema de Alerta de Inundaciones Europeo (EFAS), que tiene como objetivo proporcionar información de alerta temprana sobre inundaciones en Europa. El desarrollo de EFAS se llevó a cabo en varias etapas, comenzando con un estudio de viabilidad científica, seguido de la exploración de las necesidades de los usuarios finales, y finalmente, el desarrollo del sistema, sus productos y plataforma de comunicación. Se destaca la importancia de la verificación continua del modelo y la intensa investigación involucrada en el proceso.</p>
 <p>El núcleo de EFAS se compone de un modelo hidrológico distribuido de lluvia y escorrentía basado en una red con un componente de enrutamiento. Este modelo puede simular procesos hidrológicos en grandes cuencas fluviales. Se destaca que se alimenta con varios rangos medios de pronósticos meteorológicos, incluidos conjuntos completos de predicción por conjuntos del Sistema (EPS). La salida de flujos múltiples se analiza y visualiza a través de productos concisos y fáciles de entender, desarrollados junto con los usuarios para complementar la información proporcionada por las autoridades locales del agua. Además, se menciona que se desarrolló una estrategia y plataforma de comunicación.</p>
 <h4><b>Articulo 2</b></h4>
