@@ -79,7 +79,7 @@
 - Naranja →×1000
 - Dorado → 5%
 <p>= 10 * 1 000</p>
-<p>I= 10 000  Ω</p>
+<p>R= 10 000  Ω</p>
 
 <p align="center"><img src="../../Imagenes/I_Informe_2/gato.png" width="400px" /></p>
 
