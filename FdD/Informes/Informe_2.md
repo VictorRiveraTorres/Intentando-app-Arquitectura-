@@ -35,8 +35,8 @@ b)
 
 ## EJERCICIO 2:  NIVEL GATO:
 <div align="center">
-<img src="../../Imagenes/I_Informe_2/gato.png" width="350px" >
-<img src="../../Imagenes/I_Informe_2/gato_2.png" width="350px" >
+<img src="../../Imagenes/I_Informe_2/gato.png" width="350px"  />
+<img src="../../Imagenes/I_Informe_2/gato_2.png" width="350px" />
 </div>
 <p>La Resistencia en R1, R2, R4 y R5, está dado por los siguientes colores y se encuentran en serie:</p>
 
