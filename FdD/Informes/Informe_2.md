@@ -1,4 +1,4 @@
-# Informe 1
+# Lab N3
 ## EJEMPLO: NIVEL POLLITO
 
 <div align="center">
