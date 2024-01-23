@@ -8,7 +8,7 @@
 
 
 ### Calculos:
-<p> a) Resistencia del R1 y R3 </p>
+<p> <b>a) Resistencia del R1 y R3</b> </p>
 - Marrón → 1
 - Negro →0
 - Naranja →×1000
@@ -16,7 +16,7 @@
 <p>= 10 * 1 000</P>
 <p>R= 10 000  Ω </p>
 
-<p> b) Resistencia del R2 </p>
+<p><b> b) Resistencia del R2</b> </p>
 
 - Rojo →2
 - Rojo →2
@@ -96,7 +96,7 @@
 <p>Una aplicación común sería la reducción de una señal digital con nivel de tensión
 de 5V a 1V1.
 </p>
-<p>EJERCICIO REALIZADO POR EL GRUPO:</p>
+<p><b>EJERCICIO REALIZADO POR EL GRUPO:</b></p>
 
 - 1.1V=5V(R2R1+R2)
 - 1.1(R1+R2)=5(R2)
@@ -113,9 +113,9 @@ de 5V a 1V1.
 - Dato de salida:
 - V=1.2
 <p align="center"><img src="../../Imagenes/I_Informe_2/4_m.png" width="400px" /></p>
-- Circuito:
+<p><b>Circuito:</b></p>
 <p align="center"><img src="../../Imagenes/I_Informe_2/4_4.png" width="400px" /></p>
-<p>EJERCICIO CORREGIDO:</p>
+<p><b>EJERCICIO CORREGIDO:</b></p>
 
 - 1.1V=5V(R2R1+R2)
 - 1.1(R1+R2)=5(R2)
@@ -125,5 +125,6 @@ de 5V a 1V1.
 - R1=3.5(R2)
 - R2=1
 <p align="center"><img src="../../Imagenes/I_Informe_2/4_3.png" width="400px" /></p>
-- Circuito:
+
+<p><b>Circuito:</b></p>
 <p align="center"><img src="../../Imagenes/I_Informe_2/4_1.png" width="400px" /></p>
