@@ -1,7 +1,7 @@
 # Informe 1
 ## EJEMPLO: NIVEL POLLITO
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="../../Imagenes/I_Informe_2/1_1.png" width="300px" style="margin-right: 20px;" />
   <img src="../../Imagenes/I_Informe_2/1_2.png" width="300px" />
 </div>
