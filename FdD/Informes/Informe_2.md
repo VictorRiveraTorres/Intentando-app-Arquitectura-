@@ -1,4 +1,4 @@
-# Lab N3
+# Fundamentos de Electronica
 ## EJEMPLO: NIVEL POLLITO
 
 <div align="center">
@@ -9,6 +9,7 @@
 
 ### Calculos:
 <p> <b>a) Resistencia del R1 y R3</b> </p>
+
 - Marrón → 1
 - Negro →0
 - Naranja →×1000
