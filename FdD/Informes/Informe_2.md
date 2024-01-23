@@ -1,8 +1,11 @@
 # Informe 1
 ## EJEMPLO: NIVEL POLLITO
 
-<p align="center"><img src="../../Imagenes/I_Informe_2/1_1.png" width="400px" /></p>
-<p align="center"><img src="../../Imagenes/I_Informe_2/1_2.png" width="400px" /></p>
+<div style="display: flex; justify-content: center;">
+  <img src="../../Imagenes/I_Informe_2/1_1.png" width="300px" style="margin-right: 20px;" />
+  <img src="../../Imagenes/I_Informe_2/1_2.png" width="300px" />
+</div>
+
 
 ### Calculos:
 a) 
