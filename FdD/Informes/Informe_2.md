@@ -1,5 +1,5 @@
-# Fundamentos de Electronica
-## EJEMPLO: NIVEL POLLITO
+# Guía N•3 laboratorio Fundamentos de Electronica 1
+## EJERCICIO 1: NIVEL POLLITO
 
 <div align="center">
   <img src="../../Imagenes/I_Informe_2/1_1.png" width="350px" style="margin-right: 20px;" />
