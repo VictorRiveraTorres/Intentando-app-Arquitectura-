@@ -65,8 +65,8 @@ b)
 ## EJERCICIO 3: NIVEL DRAGON
 <P>La Resistencia en R1, R2, R3,  R4, R5 y R6, está dado por los siguientes colores y se encuentran en serie:</P>
 <div align="center">
-<p align="center"><img src="../../Imagenes/I_Informe_2/IMG_0093.jpeg" width="350px" /></p>
-<p align="center"><img src="../../Imagenes/I_Informe_2/gato_p.jpeg" width="350px" /></p>
+<img src="../../Imagenes/I_Informe_2/IMG_0093.jpeg" width="350px" />
+<img src="../../Imagenes/I_Informe_2/gato_p.jpeg" width="350px" />
 </div>
 <p>La Resistencia en R1, R2, R3,  R4, R5 y R6, está dado por los siguientes colores y se encuentran en serie:</p>
 
