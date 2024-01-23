@@ -47,7 +47,7 @@
 - Naranja →×1000
 - Dorado → 5%
 <p>= 10 * 1 000</p>
-<p>I= 10 000  Ω </p>
+<p>R= 10 000  Ω </p>
 <p>La Resistencia en R3, tiene los siguientes colore:</p>
 
 - Rojo → 2
@@ -88,7 +88,7 @@
 <p>= 1/10000+1/10000= 1/20000</p>
 <p>Los resistores en paralelo  R2 y R4:</p>
 <p>= 1/10000+1/10000= 1/20000</p>
-<p><b>Entonces:</b> =1/20000+1/20000+1/20000= 3/20000/p>
+<p><b>Entonces:</b> =1/20000+1/20000+1/20000= 3/20000</p>
 <p>R=6666,66</p>
 
 ## EJERCICIO 4:
