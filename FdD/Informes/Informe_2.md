@@ -8,14 +8,16 @@
 
 
 ### Calculos:
-a) 
+<p> a) Resistencia del R1 y R3 </p>
 - Marrón → 1
 - Negro →0
 - Naranja →×1000
 - Dorado → 5%
 <p>= 10 * 1 000</P>
 <p>R= 10 000  Ω </p>
-b)
+
+<p> b) Resistencia del R2 </p>
+
 - Rojo →2
 - Rojo →2
 - Marrón →×10
@@ -64,6 +66,7 @@ b)
 
 ## EJERCICIO 3: NIVEL DRAGON
 <P>La Resistencia en R1, R2, R3,  R4, R5 y R6, está dado por los siguientes colores y se encuentran en serie:</P>
+
 <div align="center">
 <img src="../../Imagenes/I_Informe_2/IMG_0093.jpeg" width="350px" />
 <img src="../../Imagenes/I_Informe_2/gato_p.jpeg" width="350px" />
