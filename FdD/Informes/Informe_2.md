@@ -2,8 +2,8 @@
 ## EJEMPLO: NIVEL POLLITO
 
 <div align="center">
-  <img src="../../Imagenes/I_Informe_2/1_1.png" width="300px" style="margin-right: 20px;" />
-  <img src="../../Imagenes/I_Informe_2/1_2.png" width="300px" />
+  <img src="../../Imagenes/I_Informe_2/1_1.png" width="350px" style="margin-right: 20px;" />
+  <img src="../../Imagenes/I_Informe_2/1_2.png" width="350px" />
 </div>
 
 
@@ -34,9 +34,10 @@ b)
 
 
 ## EJERCICIO 2:  NIVEL GATO:
-
-<p align="center"><img src="../../Imagenes/I_Informe_2/gato.png" width="400px" /></p>
-<p align="center"><img src="../../Imagenes/I_Informe_2/gato_2.png" width="400px" /></p>
+<div align="center">
+<p align="center"><img src="../../Imagenes/I_Informe_2/gato.png" width="350px" /></p>
+<p align="center"><img src="../../Imagenes/I_Informe_2/gato_2.png" width="350px" /></p>
+</div>
 <p>La Resistencia en R1, R2, R4 y R5, está dado por los siguientes colores y se encuentran en serie:</p>
 
 - Marrón → 1 
@@ -63,9 +64,10 @@ b)
 
 ## EJERCICIO 3: NIVEL DRAGON
 <P>La Resistencia en R1, R2, R3,  R4, R5 y R6, está dado por los siguientes colores y se encuentran en serie:</P>
-
-<p align="center"><img src="../../Imagenes/I_Informe_2/IMG_0093.jpeg" width="400px" /></p>
-<p align="center"><img src="../../Imagenes/I_Informe_2/gato_p.jpeg" width="400px" /></p>
+<div align="center">
+<p align="center"><img src="../../Imagenes/I_Informe_2/IMG_0093.jpeg" width="350px" /></p>
+<p align="center"><img src="../../Imagenes/I_Informe_2/gato_p.jpeg" width="350px" /></p>
+</div>
 <p>La Resistencia en R1, R2, R3,  R4, R5 y R6, está dado por los siguientes colores y se encuentran en serie:</p>
 
 - Marrón → 1 
