@@ -10,22 +10,22 @@ a)
 - Negro →0
 - Naranja →×1000
 - Dorado → 5%
-= 10 * 1 000
-R= 10 000  Ω 
+<p>= 10 * 1 000</P>
+<p>R= 10 000  Ω </p>
 b)
 - Rojo →2
 - Rojo →2
 - Marrón →×10
 - Dorado →5%
-= 22* 10
-R= 220  Ω
+<p>= 22* 10</p>
+<p>R= 220  Ω</p>
 
 ### Resultados:
 - 10000
 - 220
-→ 10000 + 220 = 10220
-→ 1/10220 +1/10000 =1,97 x 10*-4
-→R=(1,97 x 10*-4)*-1 = 5054 Ω =R
+<p>→ 10000 + 220 = 10220</p>
+<p>→ 1/10220 +1/10000 =1,97 x 10*-4</p>
+<p>→R=(1,97 x 10*-4)*-1 = 5054 Ω =R</p>
 <p align="center"><img src="../../Imagenes/I_Informe_2/1_3.png" width="400px" /></p>
 
 
@@ -40,15 +40,16 @@ R= 220  Ω
 - Negro →0 
 - Naranja →×1000
 - Dorado → 5%
-= 10 * 1 000
-I= 10 000  Ω 
+<p>= 10 * 1 000</p>
+<p>I= 10 000  Ω </p>
 <p>La Resistencia en R3, tiene los siguientes colore:</p>
+
 - Rojo → 2
 - Rojo → 2
 - Marrón →×1000
 - Dorado → 5%
-= 22* 10
- R= 220  Ω
+<p>= 22* 10</p>
+ <p>R= 220  Ω</p>
 <p>Los resistores en paralelo R2 y R3 se suman:</P>
 = 10 000 + 220= 10 220
 <p>Los resistores en serie sumamos: =1/1+1/23+1/4 </p>
@@ -63,12 +64,13 @@ I= 10 000  Ω
 <p align="center"><img src="../../Imagenes/I_Informe_2/IMG_0093.jpeg" width="400px" /></p>
 <p align="center"><img src="../../Imagenes/I_Informe_2/gato_p.jpeg" width="400px" /></p>
 <p>La Resistencia en R1, R2, R3,  R4, R5 y R6, está dado por los siguientes colores y se encuentran en serie:</p>
+
 - Marrón → 1 
 - Negro →0 
 - Naranja →×1000
 - Dorado → 5%
-= 10 * 1 000
-I= 10 000  Ω
+<p>= 10 * 1 000</p>
+<p>I= 10 000  Ω</p>
 
 <p align="center"><img src="../../Imagenes/I_Informe_2/gato.png" width="400px" /></p>
 
