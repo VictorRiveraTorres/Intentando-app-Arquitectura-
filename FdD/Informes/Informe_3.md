@@ -124,7 +124,7 @@
 
 <pre>
   <code>
-    #include <AirQualityClass.h>
+#include <AirQualityClass.h>
 #include <Arduino_MKRIoTCarrier.h>
 #include <Arduino_MKRIoTCarrier_Buzzer.h>
 #include <Arduino_MKRIoTCarrier_Qtouch.h>
