@@ -115,16 +115,121 @@
   </code>
 </pre>
 
+## CONCLUSIONES:
 
 
 
 
-
-# CODIGO COMPLETO
+# CODIGO COMPLETO:
 
 <pre>
   <code>
-    
+    #include <AirQualityClass.h>
+#include <Arduino_MKRIoTCarrier.h>
+#include <Arduino_MKRIoTCarrier_Buzzer.h>
+#include <Arduino_MKRIoTCarrier_Qtouch.h>
+#include <Arduino_MKRIoTCarrier_Relay.h>
+#include <EnvClass.h>
+#include <IMUClass.h>
+#include <MKRIoTCarrierDefines.h>
+#include <PressureClass.h>
+MKRIoTCarrier carrier;
+float temperature = 0;
+float humidity = 0;
+
+void setup() {
+  Serial.begin(9600);
+  carrier.begin();
+}
+
+void loop() {
+  temperature = carrier.Env.readTemperature();
+  humidity = carrier.Env.readHumidity();
+  carrier.Buttons.update();
+
+  Serial.print("Temperature = ");
+  Serial.print(temperature);
+  Serial.println(" °C");
+
+  Serial.print("Humidity = ");
+  Serial.print(humidity);
+  Serial.println(" %");
+  
+  if (carrier.Buttons.onTouchDown(TOUCH0)) {
+    printTemperatureCelsius();
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH1)) {
+    printHumidity();
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH2)) {
+    printTemperatureKelvin();
+  }
+  if (carrier.Buttons.onTouchDown(TOUCH3)) {
+    printTemperatureFahrenheit();
+  }
+  if (temperature > 25) {
+    // Primer pixel, rojo
+    carrier.leds.setPixelColor(0, 255, 0, 0);
+    carrier.leds.setPixelColor(1, 255, 0, 0);
+    carrier.leds.setPixelColor(2, 255, 0, 0);
+    carrier.leds.setPixelColor(3, 255, 0, 0);
+    carrier.leds.setPixelColor(4, 255, 0, 0);
+  } else {
+    // Primer pixel, azul
+    carrier.leds.setPixelColor(0, 0, 0, 255);
+    carrier.leds.setPixelColor(1, 0, 0, 255);
+    carrier.leds.setPixelColor(2, 0, 0, 255);
+    carrier.leds.setPixelColor(3, 0, 0, 255);
+    carrier.leds.setPixelColor(4, 0, 0, 255);
+  }
+    carrier.leds.show(); 
+}
+void printTemperatureCelsius() {
+  carrier.display.fillScreen(ST77XX_RED);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(6);
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temperature);
+  carrier.display.print(" C");
+}
+void printTemperatureKelvin() {
+  float temperatureKelvin = temperature + 273.15;  // Convertir a Kelvin
+  carrier.display.fillScreen(ST77XX_GREEN);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(6);
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temperatureKelvin);
+  carrier.display.print(" K");
+}
+
+void printTemperatureFahrenheit() {
+  float temperatureFahrenheit = (temperature * 9.0 / 5.0) + 32.0;  // Convertir a Fahrenheit
+  carrier.display.fillScreen(ST77XX_BLUE);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(6);
+  carrier.display.setCursor(30, 50);
+  carrier.display.print("Temp: ");
+  carrier.display.setTextSize(4);
+  carrier.display.setCursor(40, 120);
+  carrier.display.print(temperatureFahrenheit);
+  carrier.display.print(" F");
+}
+
+void printHumidity() {
+  carrier.display.fillScreen(ST77XX_BLUE);
+  carrier.display.setTextColor(ST77XX_WHITE);
+  carrier.display.setTextSize(2);
+  carrier.display.setCursor(20, 110);
+  carrier.display.print("Humi: ");
+  carrier.display.print(humidity);
+  carrier.display.println(" %");
+}
   </code>
 </pre>
 
