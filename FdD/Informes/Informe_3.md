@@ -124,15 +124,7 @@
 
 <pre>
   <code>
-#include <AirQualityClass.h>
-#include <Arduino_MKRIoTCarrier.h>
-#include <Arduino_MKRIoTCarrier_Buzzer.h>
-#include <Arduino_MKRIoTCarrier_Qtouch.h>
-#include <Arduino_MKRIoTCarrier_Relay.h>
-#include <EnvClass.h>
-#include <IMUClass.h>
-#include <MKRIoTCarrierDefines.h>
-#include <PressureClass.h>
+
 MKRIoTCarrier carrier;
 float temperature = 0;
 float humidity = 0;
