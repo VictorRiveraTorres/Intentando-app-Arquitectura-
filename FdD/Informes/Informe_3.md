@@ -98,11 +98,11 @@
   <code>
     if (temperature > 25) {
     // Primer pixel, rojo
-    carrier.leds.setPixelColor(0, 255, 0, 0);
-    carrier.leds.setPixelColor(1, 255, 0, 0);
-    carrier.leds.setPixelColor(2, 255, 0, 0);
-    carrier.leds.setPixelColor(3, 255, 0, 0);
-    carrier.leds.setPixelColor(4, 255, 0, 0);
+    carrier.leds.setPixelColor(0, 0, 255, 0);
+    carrier.leds.setPixelColor(1, 0, 255, 0);
+    carrier.leds.setPixelColor(2, 0, 255, 0);
+    carrier.leds.setPixelColor(3, 0, 255, 0);
+    carrier.leds.setPixelColor(4, 0, 255, 0);
   } else {
     // Primer pixel, azul
     carrier.leds.setPixelColor(0, 0, 0, 255);
@@ -166,11 +166,11 @@ void loop() {
   }
   if (temperature > 25) {
     // Primer pixel, rojo
-    carrier.leds.setPixelColor(0, 255, 0, 0);
-    carrier.leds.setPixelColor(1, 255, 0, 0);
-    carrier.leds.setPixelColor(2, 255, 0, 0);
-    carrier.leds.setPixelColor(3, 255, 0, 0);
-    carrier.leds.setPixelColor(4, 255, 0, 0);
+    carrier.leds.setPixelColor(0, 0, 255, 0);
+    carrier.leds.setPixelColor(1, 0, 255, 0);
+    carrier.leds.setPixelColor(2, 0, 255, 0);
+    carrier.leds.setPixelColor(3, 0, 255, 0);
+    carrier.leds.setPixelColor(4, 0, 255, 0);
   } else {
     // Primer pixel, azul
     carrier.leds.setPixelColor(0, 0, 0, 255);
