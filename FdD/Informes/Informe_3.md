@@ -115,8 +115,14 @@
   </code>
 </pre>
 
-## CONCLUSIONES:
+## COMENTARIOS:
 
+<P>La programación en el prototipado con Arduino para sensores de temperatura, humedad y proximidad de las ondas del agua es crucial porque permite la integración, calibración y control efectivo de los sensores, facilita la gestión de datos, ahorro de energía y adaptabilidad del sistema, garantizando su funcionalidad y precisión.</P>
+<P>Además, la programación permite la integración coherente de los diferentes sensores, también la habilidad para leer datos de múltiples fuentes es fundamental para obtener una imagen completa del entorno. Y por último, puede permitir la fácil incorporación de nuevos sensores o la modificación de la lógica de control para adaptarse a situaciones específicas.</P>
+<P>Inicialmente enfrentamos desafíos en la conexión de Arduino con la computadora. Estos obstáculos se debieron a problemas de configuración y ajustes en los puertos seriales. Sin embargo, tras un análisis detenido y la aplicación de ajustes necesarios, logramos superar estas dificultades y establecer una conexión efectiva entre el Arduino y la computadora. Este éxito permitió la comunicación fluida entre ambos y posibilitó el intercambio de datos esenciales, como la información de humedad y temperatura desde el sensor.</P>
+<P>En la segunda actividad, implementamos con éxito el código necesario para que el sistema pueda leer los datos en grados Kelvin, Celsius y Fahrenheit. Esta implementación se llevó a cabo de manera precisa y eficiente, logrando que al tocar el sensor en el grado de temperatura este cambiara de celsius que fue la configuración automática, a fahrenheit y kelvin. La adaptabilidad del sistema en este aspecto contribuye significativamente a su utilidad y accesibilidad.</P>
+<P>En cuanto a la tercera actividad, se logró exitosamente implementar los códigos necesarios para la activación de los LEDs según las condiciones específicas. El código incorporado permite que los LEDs muestren colores distintivos y representativos, como rojo para temperaturas más elevadas, azul para temperaturas más bajas y verde en presencia de movimiento detectado por el sensor de proximidad</P>
+<P>Esta implementación proporciona una experiencia visual clara y efectiva para el usuario, ya que los LEDs no solo indican la temperatura de manera intuitiva, sino que también responden dinámicamente al entorno. La activación de los LEDs de acuerdo con estas variables contribuye significativamente a la comprensión instantánea del estado ambiental, mejorando así la utilidad y la interactividad del sistema en su conjunto.</P>
 
 
 
@@ -124,7 +130,6 @@
 
 <pre>
   <code>
-
 MKRIoTCarrier carrier;
 float temperature = 0;
 float humidity = 0;
