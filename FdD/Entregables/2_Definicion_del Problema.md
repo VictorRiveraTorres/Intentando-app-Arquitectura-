@@ -2,36 +2,16 @@
 <h2>Problematica: Riesgo inminente por un desastre natural ante el desbordamiento de la laguna Palcacoha por el derretimiento del nevado Palcaraju</h2>
 <p align="center"><img src="../../Imagenes/I_E_2/Glaciar_Palcaraju.jpg" width="600px" /></p>
 <p align="center"><b>FIGURA 1:</b> Deutsche Welle. (2021). El cambio climático derrite el glaciar peruano de Palcaraju – DW – 04/02/2021</p>
+<p align="center"><img src="../../Imagenes/I_E_2//ef8f172d-591c-4259-bd08-ff73a82ea34e.png" width="600px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/2.png" width="600px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/3.png width="600px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/4.png" width="600px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/5.png" width="600px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/6.png" width="600px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/7.png" width="600px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/8.png" width="600px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/9.png" width="600px" /></p>
 
-### 1. Identificacion del Problema
-El rápido derretimiento del glaciar Palcaraju ha aumentado el riesgo de inundaciones repentinas en la ciudad de Huaraz y comunidades circundantes, debido al peligro de desbordamiento de la Laguna Palcacocha.
-### 2. Contextualizacion:
-Más del 51% de la superficie glaciar nacional en Perú se ha perdido en los últimos 50 años, y este fenómeno afecta directamente a la Laguna Palcacocha. La pérdida de glaciares tropicales en el país tiene graves implicaciones ambientales y pone en riesgo el suministro de agua para las comunidades (ANA, 2020).
-### 3. Impacto y Consecuencias:
-El riesgo de inundaciones repentinas, conocidas como "GLOF", representa una amenaza significativa para la ciudad de Huaraz, que ya ha experimentado tragedias pasadas debido a eventos similares. El aumento del riesgo debido al cambio climático y los cambios en la geometría del lago y del valle requiere medidas urgentes para proteger a la población (Stuar-Smith etbal., 2021).
-### 4. Justificación:
-La pérdida de vidas y daños a la ciudad ocurridos en 1941, junto con el evidente aumento del riesgo actual, subrayan la necesidad urgente de acciones para proteger a la población de Huaraz y comunidades aledañas (Stuar-Smith etbal., 2021).
-### 5. Propuesta de Soluciones:
-Una solución integral basada en la tecnología de Internet de las cosas (IoT) para el monitoreo y prevención de inundaciones en ríos. La propuesta incluye la implementación de nodos fijos y móviles equipados con sensores de nivel de agua, temperatura y humedad relativa. La plataforma de adquisición de datos permitirá la transmisión en tiempo real de la información recopilada, con un enfoque en la utilización de conexiones celulares 3G para garantizar una cobertura confiable en áreas remotas (Moreno et al., 2019).
-
-Nuestra idea es la elaboración de un sistema de alerta temprana con la ayuda de un sensor de proximidad y una alarma que notifique a las autoridades y a la comunidad, ante cambios significativos en los niveles del agua en la laguna Palcacocha.
-
-## SUSTENTO:
- 
-### Aumento del Riesgo:
-La amenaza de desbordamiento de la laguna Palcacocha se intensifica debido al derretimiento repentino del glaciar Palcaraju (Sierra, 2019). Este evento, impulsado por el cambio climático antropogénico, plantea un riesgo inminente para las comunidades cercanas, ya que el incremento en el caudal de agua de la laguna representa una amenaza directa para la seguridad y la infraestructura de las poblaciones aledañas (Stuar-Smith etbal., 2021).
- 
-### Historial de Riesgos:
-La historia de riesgos asociados con desbordamientos de lagos glaciares en retroceso, como el ocurrido en 1941 en Palcacocha, subraya la urgencia de abordar la situación actual. La falta de medidas preventivas y la aceleración del derretimiento del glaciar Palcaraju añaden una capa adicional de peligro para las comunidades locales (Stuar-Smith etbal., 2021).
- 
-### Cambio Climático y Retroceso Glaciar:
-El cambio climático antropogénico ha acelerado el proceso de retroceso glaciar, siendo el glaciar Palcaraju uno de los más afectados en la región andina. El aumento de las temperaturas ha llevado a un derretimiento significativo, contribuyendo al aumento del volumen de la laguna Palcacocha y, por ende, al riesgo de desbordamiento repentino (Stuar-Smith etbal., 2021).
- 
-### Falta de Evaluación Específica:
-A pesar de la clara conexión entre el cambio climático, el retroceso del glaciar Palcaraju y el riesgo de desbordamiento de la laguna Palcacocha, no se ha llevado a cabo una evaluación específica de la influencia antropogénica en este escenario particular. Este vacío en la investigación resalta la necesidad de entender mejor la relación entre la actividad humana y los eventos extremos en este contexto (Sierra, 2019).
- 
-### Vulnerabilidad de las Comunidades:
-La proximidad de las comunidades a la laguna Palcacocha aumenta su vulnerabilidad. La falta de sistemas de alerta temprana efectivos y medidas de mitigación adecuadas expone a estas poblaciones a un peligro inminente, donde un desbordamiento repentino puede tener consecuencias devastadoras para la vida, la propiedad y el bienestar de las personas (Sierra, 2019).
  
 ## Datos metereologicos:
 La laguna Palcacocha, situada a una altitud de 4,562 metros en la Cordillera Blanca, ha experimentado notables cambios en su carga a lo largo del tiempo. Según estudios batimétricos realizados en 1972, 2009 y 2016, se revela un drástico aumento en su volumen, pasando de 514,800 m³ a 17,325,207 m³ y luego a 17,403,353 m³, respectivamente. Este incremento no solo se manifiesta en la carga total, sino también en otros aspectos fundamentales de la laguna. Su superficie de espejo de agua ha experimentado un crecimiento significativo, aumentando de 62,600 m² en 1972 a 518,426 m² en 2009 y manteniéndose en 514,157 m² en 2016. Estos cambios reflejan el dinámico proceso de desarrollo de la laguna, destacando su evolución en términos de volumen y superficie a lo largo de las décadas (Del Agua Dirección De Conservación Y Planeamiento De Recursos Hídricos Unidad De Glaciología Y Recursos Hídricos, 2016).
