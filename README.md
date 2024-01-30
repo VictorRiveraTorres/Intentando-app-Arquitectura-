@@ -35,27 +35,27 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
         <tr>
             <td>Mirella Solange Bendezu Guerra</td>
             <td><a href="mailto:mirella.bendezu@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">mirella.bendezu@upch.pe</td>
-            <td>Coordinador de Comunicación Visual e Interactividad</td>
+            <td>COORDINADOR DE COMUNICACION VISUAL E INTERACTIVIDAD</td>
         </tr>
         <tr>
             <td>Jose Nilson Cueva Ramos</td>
             <td><a href="mailto:jose.cueva@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">jose.cueva@upch.pe</a></td>
-            <td>Coordinador de Software y Manufactura</td>
+            <td>COORDINADOR DE SOFTWARE Y MANUFACTURA</td>
         </tr>
         <tr>
             <td>Meyli Flores Huaman</td>
             <td><a href="mailto:meyli.flores@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">meyli.flores@upch.pe</a></td>
-            <td>Coordinador de Modelado 3D</td>
+            <td>COORDINADOR DE MODELADO 3D</td>
         </tr>
         <tr>
             <td>Iory Estefani Huarca Astete</td>
             <td><a href="mailto:iory.huarca@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">iory.huarca@upch.pe</a></td>
-            <td>Coordinador de Diseño y Bocetos</td>
+            <td>COORDINADOR DE DISEÑO Y BOCETOS</td>
         </tr>
         <tr>
             <td>Romina Perez Amado</td>
             <td><a href="mailto:romina.perez@upch.pe?subject=Asunto del correo&body=Cuerpo del mensaje">romina.perez@upch.pe</a></td>
-            <td>Coordinador General e Investigacion</td>
+            <td>COORDINADOR GENERAL E INVESTIGACION</td>
         </tr>
     </tbody>
 </table>
