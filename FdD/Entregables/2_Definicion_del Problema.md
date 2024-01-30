@@ -3,14 +3,14 @@
 <p align="center"><img src="../../Imagenes/I_E_2/Glaciar_Palcaraju.jpg" width="600px" /></p>
 <p align="center"><b>FIGURA 1:</b> Deutsche Welle. (2021). El cambio climático derrite el glaciar peruano de Palcaraju – DW – 04/02/2021</p>
 <p align="center"><img src="../../Imagenes/I_E_2//ef8f172d-591c-4259-bd08-ff73a82ea34e.png" width="600px" /></p>
-<p align="center"><img src="../../Imagenes/I_E_2/2.png" width="700px" /></p>
-<p align="center"><img src="../../Imagenes/I_E_2/3.png" width="700px" /></p>
-<p align="center"><img src="../../Imagenes/I_E_2/4.png" width="700px" /></p>
-<p align="center"><img src="../../Imagenes/I_E_2/5.png" width="700px" /></p>
-<p align="center"><img src="../../Imagenes/I_E_2/6.png" width="700px" /></p>
-<p align="center"><img src="../../Imagenes/I_E_2/7.png" width="700px" /></p>
-<p align="center"><img src="../../Imagenes/I_E_2/8.png" width="700px" /></p>
-<p align="center"><img src="../../Imagenes/I_E_2/9.png" width="700px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/2.png" width="750px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/3.png" width="750px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/4.png" width="750px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/5.png" width="750px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/6.png" width="750px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/7.png" width="750px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/8.png" width="750px" /></p>
+<p align="center"><img src="../../Imagenes/I_E_2/9.png" width="750px" /></p>
 
  
 ## Datos metereologicos:
