@@ -7,3 +7,8 @@
 
 <h3>LEYENDA</h3>
 <p align="center"><img src="../../Imagenes/I_E_6/leyenda.png"" width="400px" /></p>
+<br>
+<br>
+<br>
+<hr>
+<a href="README.md">Enlace al README de Entregables</a>
