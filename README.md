@@ -94,6 +94,18 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 <li>Promover mecanismos para la construcción de capacidad para enfrentar el cambio climático.</li>
 </ul>
 
+<h2>Carpetas</h2>
+<ul>
+<li><a href="/FdD/README.md">FdD(Fundamentos de Diseño)</a></li>
+<li><a href="/Hardware/README.md">Hardware</a></li>
+<li><a href="/FdD/Hitos/README.md">Hitos</a></li>
+<li><a href="/Imagenes/I_Sobre_Nosotros/>Imagenes"</a></li>
+<li><a href="/Software/README.md">Software</a></li>
+
+
+</ul>
+
+
 <h2 id="Referencias">Referencias:</h2>
 <ul>
 <li>Barco, Daniel & Vargas, Paola, 2010. " El cambio climático y sus efectos en el Perú ", Revista Moneda , Banco Central de Reserva del Perú, número 143, páginas 25-29.</li> 
