@@ -1,4 +1,4 @@
-<h1>ESTADO DEL ARTE</h1>
+<h1>ESTUDIO DEL ARTE</h1>
 <h2>1.CONTEXTO CIENTIFICO</h2>
 <h4><b>Articulo 1</b></h4>
 <h3 align="center"><b>"The European flood alert system" part 1: Concept and development"</b></h3>
