@@ -99,7 +99,7 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 <li><a href="/FdD/README.md">FdD(Fundamentos de Diseño)</a></li>
 <li><a href="/Hardware/README.md">Hardware</a></li>
 <li><a href="/FdD/Hitos/README.md">Hitos</a></li>
-<li><a href="/Imagenes/I_Sobre_Nosotros/>Imagenes"</a></li>
+<li><a href="/Imagenes/I_Sobre_Nosotros/>Imagenes">Imagenes</a> Imagenes</li>
 <li><a href="/Software/README.md">Software</a></li>
 
 
