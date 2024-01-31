@@ -68,7 +68,7 @@ Nuestra misión es implementar prácticas sostenibles y promover la conciencia s
 
 <h2 id="impulsa">¿Qué es lo que nos impulsa?</h2>
 <p>Según el Tyndall Centre for Climate Change Research, el Perú se encuentra entre los países más vulnerables ante eventos climáticos (Barco, Daniel & Vargas, 2010). Por ende, la falta de acciones para mitigar los efectos del cambio climático ocasionará pérdidas en la economía peruana.</p>
-<p>Si desea conocer más información de la problemática que vamos a abordar haga click <a href="Definicion_del_Problema/README.md">aqui</p>
+<p>Si desea conocer más información de la problemática que vamos a abordar haga click <a href="/FdD/Entregables/2_Definicion_del Problema.md">aqui</p>
 
 <h2 id="ODS">¿Cúal es nuestro ODS?</h2>
 <img src="https://pactoglobal-ecuador.org/wp-content/uploads/2020/09/banner-ods13.jpg" alt ="ODS_13">
