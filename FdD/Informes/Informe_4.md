@@ -21,7 +21,7 @@
 <img src="../../Imagenes/I_Informe_4/3Ds.jpeg" width="350px"  />
 <img src="../../Imagenes/I_Informe_4/3D.jpeg" width="350px" />
 </div>
-<h3>COMPLICACIONES:<h3>
+<h3>COMPLICACIONES:</h3>
 <p>Se tuvo mucha dificultad en el proceso del trabajo, debido al avance rápido y el no poder observar bien las indicaciones, además de ser la primera vez que manejamos un programa de ese tipo.</p>
 <h3>COMENTARIOS:</h3>
 <p>Onshape ofrece una potente plataforma de modelado 3D basada en la nube que destaca por su accesibilidad, colaboración en tiempo real y sólidas herramientas de modelado para todo tipo de computadoras. 
