@@ -18,7 +18,7 @@
 <p align="center"><img src="../../Imagenes/I_Informe_4/arduino.png" width="400px" /></p>
 
 <div align="center">
-<img src="../../Imagenes/I_Informe_4/3Ds.jpeg width="350px"  />
+<img src="../../Imagenes/I_Informe_4/3Ds.jpeg" width="350px"  />
 <img src="../../Imagenes/I_Informe_4/3D.jpeg" width="350px" />
 </div>
 
