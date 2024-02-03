@@ -9,7 +9,7 @@
 <p>Ya estando creado el envase falta la asa para completar la tasa, para la creación de la misma se usó otro sketch donde se utilizó la opción de 3 point arc, para crear un arco en la superficie lateral del envase, donde de la misma forma que el envase se ajustó la dimensión, sin embargo este tuvo el tamaño de 25 mm, en extrude se ajustó su profundidad y su simetría. Se definió después su caras en thicken con las medidas de 6mm y 2mm. Continuando solo se le daría a las esquinas o bordes la opción fillet, los bordes se pondrán redondeados. Por último se le puso la aparience del mismo color que en el envase y listo tenemos nuestra taza</p>
 <div align="center">
 <img src="../../Imagenes/I_Informe_4/ta.jpg" width="350px"  />
-<img src="../../Imagenes/I_Informe_4/ta2.jpg" width="350px" />
+<img src="../../Imagenes/I_Informe_4/ta2.jpg" width="450px" />
 </div>
 
 <p align="center"><h2>DISEÑO DE NUESTRO CASE:</h2></p>
