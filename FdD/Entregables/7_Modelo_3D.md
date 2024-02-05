@@ -11,7 +11,7 @@
 <p align="center"><img src="../../Imagenes/I_E_7/junto.png"></p>
 
 <p align="center"><a href="https://sketchfab.com/models/90330fd6661c43fd96191540ab513f41/embed">Link a Modelo 3D</a></p>
-
+<h2 align="center">Modelado 3D unido al pie de la laguna</h2>
 <p align="center"><img src="../../Imagenes/I_E_7/terreno.png"></p>
 <p align="center"><a href="https://sketchfab.com/models/87d4933128bd4faea5af34de614caa53/embed">Link a Modelo 3D</a></p>
 
