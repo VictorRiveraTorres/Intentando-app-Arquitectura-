@@ -12,5 +12,7 @@
 
 <p align="center"><a href="https://sketchfab.com/models/90330fd6661c43fd96191540ab513f41/embed">Link a Modelo 3D</a></p>
 
+<p align="center"><img src="../../Imagenes/I_E_7/terreno.png"></p>
+<p align="center"><a href="https://sketchfab.com/models/87d4933128bd4faea5af34de614caa53/embed">Link a Modelo 3D</a></p>
 
 <p align="center"><a href="https://cad.onshape.com/documents/a6c103d0464ad5d797923d95/w/203fb7d81aefc219e3fea525/e/9d936514819bcfc9726a6542?renderMode=0&uiState=65c051fdfacf1843878ee83a">Link al Onshape</a></p>
