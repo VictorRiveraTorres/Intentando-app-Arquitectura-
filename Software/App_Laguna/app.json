@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "App_Laguna",
-    "slug": "App_Laguna",
+    "slug": "laguna",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3e5f5cc1-3301-4c31-94d4-ddfd87f653ea"
+      }
+    },
+    "owner": "jncr"
   }
 }
