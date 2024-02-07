@@ -16,11 +16,14 @@
 
 <h2 align="center">Plano de case para ESP32</h2>
 <p align="center"><img src="../../Imagenes/I_E_8/Plano_case_esp32.jpeg"></p>
+<p align="center">Extraido de Printables Autor:bkgoodman<a href="https://www.printables.com/es/model/50035-esp32-devkit-v1-chunky-case">Link</a></p>
+
 
 
 <h2 align="center">Plano para la tapa del case ESP32</h2>
 <p align="center"><img src="../../Imagenes/I_E_8/esp32_tapa_case.png"></p>
 <p align="center"><a href="../../Hardware/Descargables/TAPA CASE ESP 32.pdf">Link al plano en pdf</a></p>
+<p align="center">Extraido de Printables Autor:bkgoodman<a href="https://www.printables.com/es/model/50035-esp32-devkit-v1-chunky-case">Link</a></p>
 
 
 <h2 align="center">Case del sensor HC-SR-04<(Ultramaker Cura)</h2>
