@@ -30,7 +30,7 @@
 <p align="center">Extraido de Printables Autor:bkgoodman<a href="https://www.printables.com/es/model/50035-esp32-devkit-v1-chunky-case">(Link)</a></p>
 
 
-<h2 align="center">Case del sensor HC-SR-04<(Ultramaker Cura)</h2>
+<h2 align="center">Case del sensor HC-SR-04(Ultramaker Cura)</h2>
 <p align="center"><img src="../../Imagenes/I_E_8/caseesp32.png"></p>
 <p align="center"><img src="../../Imagenes/I_E_8/tapa.png"></p>
 
