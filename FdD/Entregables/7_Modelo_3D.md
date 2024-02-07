@@ -1,8 +1,8 @@
 <h1 align="center">MODELO 3D</h1>
 <h2 align="center">Proyecto preliminar 1</h2>
-<p align="center"><img src="../../Imagenes/I_E_7/IMG-20240203-WA0014.jpg"></p>
+<p align="center"><img src="../../Imagenes/I_E_7/general.jpeg"></p>
 <h2 align="center">Medidas del proyecto</h2>
-<p align="center"><img src="../../Imagenes/I_E_7/IMG-20240203-WA0015.jpg"></p>
+<p align="center"><img src="../../Imagenes/I_E_7/medidas.jpeg"></p>
 <h2 align="center">Modelado 3D (Partes)</h2>
 <p align="center"><img src="../../Imagenes/I_E_7/partes.png"></p>
 
