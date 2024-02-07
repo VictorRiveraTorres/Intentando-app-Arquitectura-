@@ -9,7 +9,7 @@
 <h2 align="center"> Plano para el case del sensor DHT22</h2>
 <p align="center"><img src="../../Imagenes/I_E_8/DHT22.png"></p>
 <p align="center"><a href="../../Hardware/Descargables/Plano_DHT22.pdf">Link al plano en pdf</a></p>
-<p align="center">Extraido de Onshape Publico Autor:bkgoodman<a href="https://www.printables.com/es/model/50035-esp32-devkit-v1-chunky-case">(Link)</a></p>
+<p align="center">Extraido de Onshape Publico Autor:Kay Albrecht<a href="https://cad.onshape.com/documents/425029353d0aa777419d6583/w/8bddf8ac0075531a7c73b0bb/e/d72d94bc0248795d531fad0a">(Link)</a></p>
 
 <h2 align="center">Plano para el case del sensor HC SR 04</h2>
 <p align="center"><img src="../../Imagenes/I_E_8/Ultrasonico.png"></p>
