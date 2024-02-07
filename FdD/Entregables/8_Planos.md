@@ -21,3 +21,17 @@
 <h2 align="center">Plano para la tapa del case ESP32</h2>
 <p align="center"><img src="../../Imagenes/I_E_8/esp32_tapa_case.png"></p>
 <p align="center"><a href="../../Hardware/Descargables/TAPA CASE ESP 32.pdf">Link al plano en pdf</a></p>
+
+
+<h2 align="center">Case del esp32 (Ultramaker Cura)</h2>
+<p align="center"><img src="../../Imagenes/I_E_8/caseesp32.png"></p>
+<p align="center"><img src="../../Imagenes/I_E_8/tapa.png"></p>
+
+<h2 align="center">Plano para el case del sensor DHT22(Ultramaker Cura)</h2>
+<p align="center"><img src="../../Imagenes/I_E_8/case_ultra.png"></p>
+<p align="center"><img src="../../Imagenes/I_E_8/case_ultra_tapa.png"></p>
+
+<h2 align="center">Plano para el case del sensor DHT22(Ultramaker Cura)</h2>
+<p align="center"><img src="../../Imagenes/I_E_8/humeda_reja.png"></p>
+<p align="center"><img src="../../Imagenes/I_E_8/humeda_top.png"></p>
+
