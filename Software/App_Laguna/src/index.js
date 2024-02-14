@@ -36,7 +36,7 @@ const FetchData = () => {
 
           // Verificar si la distancia está por debajo de 8 y enviar notificación
           const distanciaValue = parseFloat(data.Distancia);
-          if (!isNaN(distanciaValue) && distanciaValue < 8) {
+          if (!isNaN(distanciaValue) && distanciaValue < 30) {
             // Obtener dinámicamente el Expo Push Token
             const expoPushToken = await registerForPushNotificationsAsync();
             
@@ -55,8 +55,8 @@ const FetchData = () => {
     const message = {
       to: expoPushToken,
       sound: 'default',
-      title: 'Notificación Automática',
-      body: 'La distancia está por debajo de 8.',
+      title: 'Emergencia por Inundación',
+      body: 'Laguna Palcacocha se ha desbordado,por favor evacue hacia una zona segura.',
     };
 
     await Notifications.scheduleNotificationAsync({

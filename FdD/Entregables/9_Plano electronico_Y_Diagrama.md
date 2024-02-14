@@ -5,10 +5,10 @@
 
 
 <h2>Diagrama de Flujo</h2>
-<p align="center"><img src="../../Imagenes/I_E_9/flujo.png"></p>
+<p align="center"><img src="../../Imagenes/I_E_9/flujo_3.0.png"></p>
 
 <h2>Diagrama de Usuario</h2>
-<p align="center"><img src="../../Imagenes/I_E_9/usuario_app.png"></p>
+<p align="center"><img src="../../Imagenes/I_E_9/flujo2_0.png"></p>
 
 <h2>Avance de App</h2>
 <p align="center"><img src="../../Imagenes/I_E_9/home.png" width="350px" ></p>
