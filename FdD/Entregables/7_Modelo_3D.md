@@ -16,3 +16,7 @@
 <p align="center"><a href="https://sketchfab.com/models/65a34cf6ce494d07ad861f97edeb374d/embed">Link a Modelo 3D</a>(Archivo en carpeta Descargables)</p>
 
 <p align="center"><a href="https://cad.onshape.com/documents/a6c103d0464ad5d797923d95/w/203fb7d81aefc219e3fea525/e/9d936514819bcfc9726a6542?renderMode=0&uiState=65c051fdfacf1843878ee83a">Link al Onshape</a></p>
+<br>
+<br>
+<hr>
+<a href="README.md">Enlace al README de Entregables</a>

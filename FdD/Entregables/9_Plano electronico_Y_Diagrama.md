@@ -14,3 +14,7 @@
 <p align="center"><img src="../../Imagenes/I_E_9/home.png" width="350px" ></p>
 <p align="center"><img src="../../Imagenes/I_E_9/datos.png" width="350px" ></p>
 <p align="center"><img src="../../Imagenes/I_E_9/Precauciones.png" width="350px" ></p>
+<br>
+<br>
+<hr>
+<a href="README.md">Enlace al README de Entregables</a>

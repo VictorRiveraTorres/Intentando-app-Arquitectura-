@@ -44,4 +44,8 @@
 <h2 align="center">Plano para el case del sensor DHT22(Ultramaker Cura)</h2>
 <p align="center"><img src="../../Imagenes/I_E_8/humeda_reja.png"></p>
 <p align="center"><img src="../../Imagenes/I_E_8/humeda_top.png"></p>
+<br>
+<br>
+<hr>
+<a href="README.md">Enlace al README de Entregables</a>
 
