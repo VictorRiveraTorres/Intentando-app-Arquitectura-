@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet , ImageBackground, Dimensions,Image } from 'react-native';
 import React, { useState, useEffect } from 'react';
 import { db } from '../config';
 import { ref, onValue } from 'firebase/database';
@@ -88,14 +88,17 @@ const FetchData = () => {
     return token;
   };
 
+  const imagen ={uri :'https://img.freepik.com/vector-gratis/marco-fondo-azul-fluido_53876-99019.jpg'}  
   return (
     <View style={styles.container}>
+      <ImageBackground source={imagen} resizeMode={'stretch'} style={styles.imagen}>
       <Text style={styles.header}>DATOS</Text>
       {todoData.map((item, index) => (
-        <View key={index}>
+        <View style={styles.contenedor} key={index}>
           <Text style={styles.text}>{item.id}: {item.value}</Text>
         </View>
       ))}
+      </ImageBackground>
     </View>
   );
 };
@@ -103,18 +106,29 @@ const FetchData = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
   },
   header: {
-    fontSize: 30,
+    fontSize: 40,
     textAlign: 'center',
-    marginTop: 100,
     fontWeight: 'bold',
   },
   text: {
-    fontSize: 20,
+    fontSize: 25,
     textAlign: 'center',
-    marginTop: 20,
+ 
+  },
+  imagen: {
+    flex:1,
+    justifyContent: 'center',
+    
+  },
+  contenedor:{
+    backgroundColor:'white',
+    padding: 20,
+    borderRadius: 10, // Opcional: agrega bordes redondeados al cuadro blanco
+    margin: 10, // Opcional: ajusta el margen alrededor del cuadro blanco
+    alignSelf: 'center',
+
   },
 });
 

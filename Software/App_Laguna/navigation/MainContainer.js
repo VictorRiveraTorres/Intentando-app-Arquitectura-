@@ -40,7 +40,7 @@ function MainContainer() {
           },
         })}
         tabBarOptions={{
-          activeTintColor: 'green',
+          activeTintColor: 'blue',
           inactiveTintColor: 'grey',
           labelStyle: { paddingBottom: 10, fontSize: 10 },
           style: { padding: 10, height: 70}
