@@ -98,6 +98,9 @@ const FetchData = () => {
           <Text style={styles.text}>{item.id}: {item.value}</Text>
         </View>
       ))}
+      <View style={{ alignItems: 'center' }}>
+      <Image source={{ uri:'https://img1.picmix.com/output/stamp/thumb/3/7/2/5/585273_ddcc1.gif' }} style={{ width: 300, height: 200 }} />
+      </View>
       </ImageBackground>
     </View>
   );

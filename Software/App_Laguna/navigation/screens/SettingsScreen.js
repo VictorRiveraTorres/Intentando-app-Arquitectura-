@@ -33,7 +33,7 @@ const SettingsScreen = ({ navigation }) => {
           textAlign:'center'
         
         }}>
-        Zonas Seguras en Caso de Inundación
+        Zonas Seguras en Caso de Inundación(SIGRID)
 
 
       </Text>
@@ -45,7 +45,7 @@ const SettingsScreen = ({ navigation }) => {
       <View style={styles.container}>
       <View style={styles.textContaine_s}>
         <Text style={styles.texto_n}>
-        Plazuela de Belén
+        Plaza Belén
         </Text>
       </View>
 
