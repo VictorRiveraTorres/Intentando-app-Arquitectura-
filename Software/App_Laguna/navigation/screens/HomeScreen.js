@@ -1,5 +1,8 @@
 import * as React from 'react';
 import { View, Text, ImageBackground, StyleSheet, Dimensions , Image, ScrollView } from 'react-native';
+import Nevado1 from './nevado1.jpg'
+import Nevado2 from './nevado2.jpg'
+import Fondo from './fondo3.jpg'
 
 const { width, height } = Dimensions.get('window')
 const imagen ={uri :'https://img.freepik.com/vector-gratis/fondo-acuarela-abstracta-pintada-mano_23-2148995293.jpg'}
@@ -7,7 +10,7 @@ export default function HomeScreen({ navigation }) {
     return (
 <View style={{ flex: 1 }}>
   <ScrollView>
-  <ImageBackground source={imagen} resizeMode={'stretch'} style={styles.imagen}>
+  <ImageBackground source={Fondo} resizeMode={'stretch'} style={styles.imagen}>
   <View style={styles.textContainer}>
   <Text style={styles.titulo}>
     Resiliencia climática hacia un futuro sostenible
@@ -16,9 +19,7 @@ export default function HomeScreen({ navigation }) {
   </View>
   <Image
         style={styles.lago}
-        source={{
-          uri: 'https://elcomercio.pe/resizer/yHd9dzkntOdk1Vs4JuUuEoqHWMo=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/6PR7ABGD65F7DCWAMXQ2BH5OGY.jpg',
-        }}
+        source={Nevado1}
       />
    <View style={styles.textContaine_n}>
   <Text style={styles.texto_n}>
@@ -43,7 +44,7 @@ Se resalta que a pesar del alto riesgo de un posible desbordamiento de la laguna
       <View style={styles.imageContainer}>
         <Image
           style={styles.imagen_2}
-          source={{ uri: 'https://www.andeanglaciers.org/wp-content/uploads/2021/11/1800-1200_1NV_9618HD_1300.jpg' }}
+          source={Nevado2}
         />
       </View>
     </View>
@@ -61,29 +62,31 @@ const styles = StyleSheet.create({
   imagen: {
     flex:1,
     justifyContent: 'center',
+    opacity: 1.2,
     
   },
+  
   imagen_2: {
-    width: 150, // Ajusta el ancho de la imagen según tus necesidades
-    height: 150, // Ajusta la altura de la imagen según tus necesidades
-    resizeMode: 'cover', // Puedes ajustar esto según tus preferencias
-    borderRadius: 8, // Opcional: agrega bordes redondeados a la imagen
+    width: 150, 
+    height: 150, 
+    resizeMode: 'cover',
+    borderRadius: 8, 
   },
   container: {
-    flexDirection: 'row', // Alinea los elementos en fila (horizontal)
-    alignItems: 'center', // Alinea los elementos verticalmente en el centro
+    flexDirection: 'row', 
+    alignItems: 'center', 
     padding: 16,
   },
   imageContainer: {
-    marginLeft: 16, // Márgenes para separar el texto de la imagen
+    marginLeft: 16, 
   },
   textContainer: {
     backgroundColor: '#b0c0d9',
     padding: 20,
-    borderRadius: 20, // Opcional: agrega bordes redondeados al cuadro blanco
-    margin: 20, // Opcional: ajusta el margen alrededor del cuadro blanco
-    alignSelf: 'center', // Opcional: alinea el cuadro blanco al centro
-    
+    borderRadius: 20,
+    margin: 20, 
+    alignSelf: 'center', 
+    marginTop:50,  
   },
   titulo: {
     fontSize: 28,
@@ -93,7 +96,7 @@ const styles = StyleSheet.create({
   },
   lago: {
     width: width * 0.75,
-    height: height * 0.2,
+    height: height * 0.3,
     resizeMode: 'contain',
     marginHorizontal:50,
     marginTop:0,
