@@ -5,7 +5,6 @@ import Nevado2 from './nevado2.jpg'
 import Fondo from './fondo3.jpg'
 
 const { width, height } = Dimensions.get('window')
-const imagen ={uri :'https://img.freepik.com/vector-gratis/fondo-acuarela-abstracta-pintada-mano_23-2148995293.jpg'}
 export default function HomeScreen({ navigation }) {
     return (
 <View style={{ flex: 1 }}>
